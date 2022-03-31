@@ -1,0 +1,573 @@
+03/28/2022, 16:56:07
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/EXP_2022_NCM.csv /user/input/Brazil', returncode=0, stdout=b'', stderr=b'2022-03-28 16:56:07,692 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EXP_2022_NCM.csv removed successfully from local filesystem /n
+03/28/2022, 16:56:08
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/.DS_Store /user/input/Brazil', returncode=1, stdout=b'', stderr=b"2022-03-28 16:56:09,072 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/.DS_Store': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 16:56:09
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/IMP_2022_NCMcsv.csv /user/input/Brazil', returncode=0, stdout=b'', stderr=b'2022-03-28 16:56:09,779 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ IMP_2022_NCMcsv.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x21270222.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:45,655 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x21270222.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:46
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x07130222.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:46,552 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x07130222.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:47
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x31060222.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:47,859 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x31060222.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:48
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x24300122.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:48,693 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x24300122.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:49
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x17230122.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:49,530 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x17230122.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:50
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x28060322.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:50,801 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x28060322.csv removed successfully from local filesystem /n
+03/28/2022, 16:57:51
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/x14200222.csv /user/input/Peru', returncode=0, stdout=b'', stderr=b'2022-03-28 16:57:52,110 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x14200222.csv removed successfully from local filesystem /n
+03/28/2022, 17:08:17
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:18,012 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:18
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:18,774 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:19,491 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:20,226 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:20
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:20,968 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:21
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:21,683 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:08:53
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:54,358 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:08:54
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:55,149 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:08:55
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:55,883 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ Importaciones Enero 2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:08:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:56,671 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:08:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:57,379 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:08:57
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:08:58,107 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:53,322 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:53
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:54,095 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:54
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:54,843 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ Importaciones Enero 2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:55
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:55,550 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:55
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:56,254 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:09:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:09:56,969 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:23
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:24,141 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:24
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:24,883 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:25
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:25,587 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ Importaciones Enero 2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:25
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:26,287 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:26
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:26,981 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:10:27
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January 2022/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:10:27,684 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January': No such file or directory\nput: `2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:33
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:33,840 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:34,646 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:35,357 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ Importaciones Enero 2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:35
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:36,074 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:36
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:36,781 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:11:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:11:37,488 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:29
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:30,128 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:30,854 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:31
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-1.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:31,551 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-1.txt': No such file or directory\n")
+ Importaciones Enero 2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:31
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:32,255 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:32,952 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:13:33
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:13:33,641 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:27
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-1.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:14:28,408 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:29
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:14:29,884 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ Importaciones Enero 2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:14:30,584 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ Importaciones Enero 2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:14:31,281 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ Importaciones Enero 2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:31
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:14:31,976 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ Importaciones Enero 2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:14:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:14:32,673 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ Importaciones Enero 2022-6.txt removed successfully from local filesystem /n
+03/28/2022, 17:19:58
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-1.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:19:58,754 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-1.txt removed successfully from local filesystem /n
+03/28/2022, 17:19:59
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-3.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:20:00,248 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-3.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:20:00
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-2.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:20:00,966 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-2.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:20:01
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-5.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:20:01,677 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-5.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:20:01
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-4.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:20:02,385 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-4.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:20:02
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones Enero 2022-6.txt /user/input/Chile', returncode=1, stdout=b'', stderr=b"2022-03-28 17:20:03,090 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022-6.txt': No such file or directory\n")
+ File path can not be removed /n
+03/28/2022, 17:20:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-3.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:20:31,353 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-3.txt removed successfully from local filesystem /n
+03/28/2022, 17:20:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-2.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:20:32,830 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-2.txt removed successfully from local filesystem /n
+03/28/2022, 17:20:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-5.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:20:34,680 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-5.txt removed successfully from local filesystem /n
+03/28/2022, 17:20:36
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-4.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:20:36,571 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-4.txt removed successfully from local filesystem /n
+03/28/2022, 17:20:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/ImportacionesEnero2022-6.txt /user/input/Chile', returncode=0, stdout=b'', stderr=b'2022-03-28 17:20:38,371 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ ImportacionesEnero2022-6.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:35
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/IMP/IMP_2022_NCMcsv.csv /user/input/Brazil/IMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:35,716 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Brazil/IMP/': No such file or directory: `hdfs://localhost:9000/user/input/Brazil/IMP'\n")
+ IMP_2022_NCMcsv.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:36
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/EXP/EXP_2022_NCM.csv /user/input/Brazil/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:36,481 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Brazil/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Brazil/EXP'\n")
+ EXP_2022_NCM.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:36
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/.Rhistory /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:37,291 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ .Rhistory removed successfully from local filesystem /n
+03/30/2022, 19:43:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x21270222.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:38,089 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x21270222.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:38
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x07130222.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:38,817 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x07130222.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:39
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x31060222.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:39,600 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x31060222.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:39
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x24300122.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:40,325 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x24300122.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:40
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x17230122.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:41,074 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x17230122.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:41
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x28060322.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:41,841 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x28060322.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:42
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x14200222.csv /user/input/Peru/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:42,582 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ x14200222.csv removed successfully from local filesystem /n
+03/30/2022, 19:43:42
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-3.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:43,353 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-3.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:43
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-2.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:44,085 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-2.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:44
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-1.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:44,835 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-1.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-5.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:45,530 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-5.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-4.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:46,260 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-4.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:46
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-6.txt /user/input/ChileIMP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:46,941 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/ChileIMP/': No such file or directory: `hdfs://localhost:9000/user/input/ChileIMP'\n")
+ ImportacionesEnero2022-6.txt removed successfully from local filesystem /n
+03/30/2022, 19:43:47
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/EXP/.Rhistory /user/input/Chile/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:47,672 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/EXP/': No such file or directory: `hdfs://localhost:9000/user/input/Chile/EXP'\n")
+ .Rhistory removed successfully from local filesystem /n
+03/30/2022, 19:43:47
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/EXP/Exportaciones Enero 2022.txt /user/input/Chile/EXP/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:43:48,387 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/EXP/': No such file or directory\n")
+ Exportaciones Enero 2022.txt removed successfully from local filesystem /n
+03/30/2022, 19:47:14
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/.Rhistory /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:15,245 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:15
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x21270222.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:16,115 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:16
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x07130222.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:16,825 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:17
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x31060222.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:17,515 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:17
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x24300122.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:18,190 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:18
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x17230122.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:18,901 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x28060322.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:19,580 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:47:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/EXP/x14200222.csv /user/input/Peru/EXP', returncode=1, stdout=b'', stderr=b"2022-03-30 19:47:20,288 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/EXP': No such file or directory: `hdfs://localhost:9000/user/input/Peru/EXP'\n")
+ File path can not be removed /n
+03/30/2022, 19:56:29
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/IMP/IMP_2022_NCMcsv.csv /user/input/Brazil/imp/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:29,694 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Brazil/imp/': No such file or directory: `hdfs://localhost:9000/user/input/Brazil/imp'\n")
+ IMP_2022_NCMcsv.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Brasil/CSV/EXP/EXP_2022_NCM.csv /user/input/Brazil/exp/', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:30,609 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Brazil/exp/': No such file or directory: `hdfs://localhost:9000/user/input/Brazil/exp'\n")
+ EXP_2022_NCM.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:30
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x21270222.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:31,402 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x21270222.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:31
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x07130222.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:32,245 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x07130222.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x31060222.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:32,950 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x31060222.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:33
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x24300122.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:33,664 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x24300122.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x17230122.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:34,458 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x17230122.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x28060322.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:35,241 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x28060322.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:35
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Peru/CSV/IMP/x14200222.csv /user/input/Peru/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:35,971 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Peru/imp': No such file or directory: `hdfs://localhost:9000/user/input/Peru/imp'\n")
+ x14200222.csv removed successfully from local filesystem /n
+03/30/2022, 19:56:36
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-3.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:36,751 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-3.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-2.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:37,510 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-2.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-1.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:38,250 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-1.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:38
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-5.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:38,954 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-5.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:39
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-4.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:39,710 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-4.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:40
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/IMP/ImportacionesEnero2022-6.txt /user/input/Chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:40,414 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/imp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/imp'\n")
+ ImportacionesEnero2022-6.txt removed successfully from local filesystem /n
+03/30/2022, 19:56:40
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/EXP/Exportaciones Enero 2022.txt /user/input/Chile/exp', returncode=1, stdout=b'', stderr=b"2022-03-30 19:56:41,216 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/exp': No such file or directory\n")
+ Exportaciones Enero 2022.txt removed successfully from local filesystem /n
+03/30/2022, 20:07:28
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/csv/impIMP_2022_NCMcsv.csv /temporal/brazil/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:07:28,913 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/csv/impIMP_2022_NCMcsv.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:07:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/csv/imp/IMP_2022_NCMcsv.csv /temporal/brazil/imp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:07:46,021 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ IMP_2022_NCMcsv.csv removed successfully from local filesystem /n
+03/30/2022, 20:10:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/csv/exp/EXP_2022_NCM.csv /temporal/brazil/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:10:19,579 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EXP_2022_NCM.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:51
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x21270222.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:51,814 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x21270222.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x07130222.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:52,816 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x07130222.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:53
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x31060222.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:54,119 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x31060222.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:54
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x24300122.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:55,025 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x24300122.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:55
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x17230122.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:55,878 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x17230122.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x28060322.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:57,232 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x28060322.csv removed successfully from local filesystem /n
+03/30/2022, 20:11:58
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/csv/exp/x14200222.csv /temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:11:58,523 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ x14200222.csv removed successfully from local filesystem /n
+03/30/2022, 20:17:50
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones Enero 2022.txt /temporal/chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:17:50,669 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022.txt': No such file or directory\n")
+ Importaciones Enero 2022.txt removed successfully from local filesystem /n
+03/30/2022, 20:18:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones Enero 2022.txt /temporal/chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:18:53,351 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022.txt': No such file or directory\n")
+ Importaciones Enero 2022.txt removed successfully from local filesystem /n
+03/30/2022, 20:21:23
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones Enero 2022.txt /temporal/chile/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:21:24,268 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones': No such file or directory\nput: `Enero': No such file or directory\nput: `2022.txt': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:21:38
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/imp/Importaciones_Enero_2022.txt /temporal/chile/imp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:21:39,166 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Importaciones_Enero_2022.txt removed successfully from local filesystem /n
+03/30/2022, 20:21:49
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/EXP/.DS_Store /user/input/Chile/exp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:21:49,505 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/exp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/exp'\n")
+ File path can not be removed /n
+03/30/2022, 20:21:49
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/Chile/January_2022/txt/EXP/Exportaciones_Enero_2022.txt /user/input/Chile/exp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:21:50,243 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/user/input/Chile/exp': No such file or directory: `hdfs://localhost:9000/user/input/Chile/exp'\n")
+ File path can not be removed /n
+03/30/2022, 20:22:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/exp/.DS_Store /temporal/chile/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:22:45,924 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ .DS_Store removed successfully from local filesystem /n
+03/30/2022, 20:22:46
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt/exp/Exportaciones_Enero_2022.txt /temporal/chile/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:22:46,858 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Exportaciones_Enero_2022.txt removed successfully from local filesystem /n
+03/30/2022, 20:37:46
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/CUCI.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:47,407 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ CUCI.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:47
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/ISIC .csv /temporal/brazil/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:37:48,286 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/ISIC': No such file or directory\nput: `.csv': No such file or directory\n")
+ ISIC .csv removed successfully from local filesystem /n
+03/30/2022, 20:37:48
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/TABELAS_AUXILIARES.xlsx /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:48,979 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ TABELAS_AUXILIARES.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:37:49
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/NCM_FAT_AGREG.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:49,786 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ NCM_FAT_AGREG.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:50
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/SH.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:51,081 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ SH.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/MUN.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:52,414 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ MUN.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/Explanaiton Brasil.txt /temporal/brazil/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:37:53,241 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/Explanaiton': No such file or directory\nput: `Brasil.txt': No such file or directory\n")
+ Explanaiton Brasil.txt removed successfully from local filesystem /n
+03/30/2022, 20:37:53
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/NCM_PPE.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:53,929 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ NCM_PPE.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:54
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/NCM.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:55,170 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ NCM.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/PAIS.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:56,444 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ PAIS.csv removed successfully from local filesystem /n
+03/30/2022, 20:37:57
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata/UF.csv /temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:37:57,699 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ UF.csv removed successfully from local filesystem /n
+03/30/2022, 20:40:05
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/CUCI.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:06,398 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/CUCI.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:06
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/ISIC .csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:07,091 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/ISIC': No such file or directory\nput: `.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:07
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/TABELAS_AUXILIARES.xlsx /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:07,838 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/TABELAS_AUXILIARES.xlsx': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:08
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM_FAT_AGREG.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:08,524 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM_FAT_AGREG.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:08
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/SH.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:09,238 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/SH.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:09
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/MUN.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:09,974 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/MUN.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:10
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Explanaiton Brasil.txt /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:10,679 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Explanaiton': No such file or directory\nput: `Brasil.txt': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:10
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM_PPE.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:11,399 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM_PPE.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:11
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:12,136 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/NCM.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:12
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/PAIS.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:12,834 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/PAIS.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:40:13
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/UF.csv /temporal/peru/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:40:13,541 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/UF.csv': No such file or directory\n")
+ File path can not be removed /n
+03/30/2022, 20:41:13
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Puertos.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:13,796 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Puertos.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:14
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/RegOpeAduaneras.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:14,711 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ RegOpeAduaneras.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:15
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Documento.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:15,677 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Documento.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:16
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/procedimiento.doc /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:16,935 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ procedimiento.doc removed successfully from local filesystem /n
+03/30/2022, 20:41:17
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Sanciones.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:18,300 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Sanciones.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:18
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/.DS_Store /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:19,144 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ .DS_Store removed successfully from local filesystem /n
+03/30/2022, 20:41:19
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/AgenNav.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:20,412 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ AgenNav.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:21
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/EmpNacional.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:21,681 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EmpNacional.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:22
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/MerExpTemp.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:22,948 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ MerExpTemp.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:23
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Agente.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:24,213 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Agente.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:25
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/AgenMar.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:25,529 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ AgenMar.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:26
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Tablibe.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:26,774 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Tablibe.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:27
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/EstMercancia.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:27,619 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EstMercancia.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:28
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/UnidComerExp.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:28,965 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ UnidComerExp.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:29
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/RecintAduaner.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:30,287 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ RecintAduaner.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:31
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/UnidMercancia.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:31,561 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ UnidMercancia.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/EntAutMerRest.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:32,812 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EntAutMerRest.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:33
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/estructura_bases.xls /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:33,658 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ estructura_bases.xls removed successfully from local filesystem /n
+03/30/2022, 20:41:34
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Bancos.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:34,884 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Bancos.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:35
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Monedas.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:36,283 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Monedas.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:37
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/AgenCar.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:37,644 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ AgenCar.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:38
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/UnidMedida.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:38,920 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ UnidMedida.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:39
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/TipDocumAutMerRest.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:40,153 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ TipDocumAutMerRest.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:40
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/AgenEmb.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:41,364 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ AgenEmb.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:42
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/EmpInternac.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:42,629 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EmpInternac.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:43
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/LinAereasManif.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:43,830 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ LinAereasManif.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:44
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/CodProvS.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:44,642 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ CodProvS.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/MedTransporte.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:45,876 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ MedTransporte.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:46
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Paises.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:47,118 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Paises.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:47
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/codprov.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:48,371 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ codprov.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:49
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/MotValorAjust.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:49,595 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ MotValorAjust.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:50
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/TipUltract.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:50,465 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ TipUltract.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:51
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Aduanas.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:51,789 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Aduanas.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:52
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Aerolineas.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:53,047 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Aerolineas.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:53
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/Tributos.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:53,874 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ Tributos.txt removed successfully from local filesystem /n
+03/30/2022, 20:41:54
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata/TipTratamiento.txt /temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-03-30 20:41:55,189 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ TipTratamiento.txt removed successfully from local filesystem /n
+03/30/2022, 20:42:43
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/EXP headers.csv /temporal/chile/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:42:44,404 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/EXP': No such file or directory\nput: `headers.csv': No such file or directory\n")
+ EXP headers.csv removed successfully from local filesystem /n
+03/30/2022, 20:42:44
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/EXPORT descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:42:45,114 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/EXPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-dus.xlsx': No such file or directory\n")
+ EXPORT descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:42:45
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/IMPORT descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata', returncode=1, stdout=b'', stderr=b"2022-03-30 20:42:45,833 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/IMPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-din.xlsx': No such file or directory\n")
+ IMPORT descripcion-y-estructura-de-datos-din.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:48:26
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/imp/IMPORT descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:48:26,938 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/imp/IMPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-din.xlsx': No such file or directory\n")
+ IMPORT descripcion-y-estructura-de-datos-din.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:48:27
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/.DS_Store /temporal/chile/metadata/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:48:27,733 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ .DS_Store removed successfully from local filesystem /n
+03/30/2022, 20:48:28
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:48:28,565 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-dus.xlsx': No such file or directory\n")
+ EXPORT descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:50:32
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/imp/IMPORT descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata/imp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:50:32,773 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/imp/IMPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-din.xlsx': No such file or directory\n")
+ IMPORT descripcion-y-estructura-de-datos-din.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:50:33
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=1, stdout=b'', stderr=b"2022-03-30 20:50:33,553 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: `/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT': No such file or directory\nput: `descripcion-y-estructura-de-datos-dus.xlsx': No such file or directory\n")
+ EXPORT descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:51:56
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata/imp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:51:57,395 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ IMPORT_descripcion-y-estructura-de-datos-din.xlsx removed successfully from local filesystem /n
+03/30/2022, 20:51:58
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=0, stdout=b'', stderr=b'2022-03-30 20:51:58,653 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
+ EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n

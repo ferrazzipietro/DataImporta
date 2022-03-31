@@ -1,0 +1,24 @@
+03/27/2022, 13:48:49
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data1.txt /user/input', returncode=0, stdout=b'', stderr=b'')
+ data1.txt removed successfully from local filesystem
+03/27/2022, 13:48:51
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data2.txt /user/input', returncode=0, stdout=b'', stderr=b'')
+ data2.txt removed successfully from local filesystem
+03/27/2022, 13:48:53
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data3.txt /user/input', returncode=0, stdout=b'', stderr=b'')
+ data3.txt removed successfully from local filesystem
+03/27/2022, 13:48:55
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data4.txt /user/input', returncode=0, stdout=b'', stderr=b'')
+ data4.txt removed successfully from local filesystem
+03/27/2022, 13:49:50
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data1.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data1.txt': File exists\r\n")
+ data1.txt removed successfully from local filesystem
+03/27/2022, 13:49:52
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data2.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data2.txt': File exists\r\n")
+ data2.txt removed successfully from local filesystem
+03/27/2022, 13:49:53
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data3.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data3.txt': File exists\r\n")
+ data3.txt removed successfully from local filesystem
+03/27/2022, 13:49:55
+CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data4.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data4.txt': File exists\r\n")
+ data4.txt removed successfully from local filesystem
