@@ -1,24 +1,28 @@
-03/27/2022, 13:48:49
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data1.txt /user/input', returncode=0, stdout=b'', stderr=b'')
- data1.txt removed successfully from local filesystem
-03/27/2022, 13:48:51
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data2.txt /user/input', returncode=0, stdout=b'', stderr=b'')
- data2.txt removed successfully from local filesystem
-03/27/2022, 13:48:53
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data3.txt /user/input', returncode=0, stdout=b'', stderr=b'')
- data3.txt removed successfully from local filesystem
-03/27/2022, 13:48:55
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data4.txt /user/input', returncode=0, stdout=b'', stderr=b'')
- data4.txt removed successfully from local filesystem
-03/27/2022, 13:49:50
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data1.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data1.txt': File exists\r\n")
- data1.txt removed successfully from local filesystem
-03/27/2022, 13:49:52
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data2.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data2.txt': File exists\r\n")
- data2.txt removed successfully from local filesystem
-03/27/2022, 13:49:53
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data3.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data3.txt': File exists\r\n")
- data3.txt removed successfully from local filesystem
-03/27/2022, 13:49:55
-CompletedProcess(args='hadoop fs -put D:/Master/BDMA/Courses/Semester_2/Big_Data_Management/Project/dataimporta/rawdata/data4.txt /user/input', returncode=1, stdout=b'', stderr=b"put: `/user/input/data4.txt': File exists\r\n")
- data4.txt removed successfully from local filesystem
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\2574177845.py:1: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_table(StringIO(data), delimiter=';', on_bad_lines="skip")
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\270387748.py:1: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_table(StringIO(data), delimiter=';')
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\1936820669.py:1: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_table(StringIO(data), delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\3490232657.py:36: DtypeWarning: Columns (0,1,2,3,4,6,7,8,9,10) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(StringIO(data),delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\3490232657.py:36: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(StringIO(data),delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\2357504022.py:36: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(StringIO(data),delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\1047761185.py:36: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(StringIO(data),delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\1936820669.py:1: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_table(StringIO(data), delimiter=';', header=None)
+
+C:\Users\spost\AppData\Local\Temp\ipykernel_10136\4241426509.py:36: DtypeWarning: Columns (44,45,46,52,98,100,107,108,139,149,151,153,155,159,162,166,168,169,170,172,173) have mixed types. Specify dtype option on import or set low_memory=False.
+  data = pd.read_csv(StringIO(data),delimiter=';', header=None)
+
