@@ -205,3 +205,423 @@ CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nos
 04/04/2022, 10:52:01
 CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=0, stdout=b'', stderr=b'2022-04-04 10:52:01,762 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\n')
  EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+04/04/2022, 20:21:55
+# of files to upload: 53
+04/04/2022, 20:24:24
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:24:37
+First version created: version0.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:24:37
+Working on: peru | imports | x17230122.csv...
+04/04/2022, 20:30:17
+# of files to upload: 53
+04/04/2022, 20:31:07
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:31:18
+# of files to upload: 53
+04/04/2022, 20:32:08
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:32:48
+# of files to upload: 53
+04/04/2022, 20:33:37
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:34:23
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:37:29
+# of files to upload: 53
+04/04/2022, 20:38:19
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:40:16
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:40:51
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:43:05
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:45:49
+# of files to upload: 53
+04/04/2022, 20:46:42
+Working on: peru | imports | x14200222.csv...
+04/04/2022, 20:46:56
+First version created: version0.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:46:56
+Working on: peru | imports | x17230122.csv...
+04/04/2022, 20:47:23
+Update performed: version1.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:47:23
+Working on: peru | imports | x21270222.csv...
+04/04/2022, 20:48:02
+Update performed: version2.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:48:02
+Working on: peru | imports | x24300122.csv...
+04/04/2022, 20:48:49
+Update performed: version3.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:48:49
+Working on: peru | imports | x28060322.csv...
+04/04/2022, 20:49:47
+Update performed: version4.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:49:47
+Working on: peru | imports | x31060222.csv...
+04/04/2022, 20:50:55
+Update performed: version5.avro file was created in /persistent/peru/imp/2022/
+04/04/2022, 20:50:57
+A directory named 20505504042022 has been created in /persistent/peru/metadata/2022/
+04/04/2022, 20:50:57
+Working on: peru | metadata | Aduanas.txt...
+04/04/2022, 20:51:01
+File Aduanas.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:01
+Working on: peru | metadata | Aerolineas.txt...
+04/04/2022, 20:51:05
+File Aerolineas.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:05
+Working on: peru | metadata | AgenCar.txt...
+04/04/2022, 20:51:09
+File AgenCar.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:09
+Working on: peru | metadata | AgenEmb.txt...
+04/04/2022, 20:51:13
+File AgenEmb.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:13
+Working on: peru | metadata | AgenMar.txt...
+04/04/2022, 20:51:17
+File AgenMar.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:17
+Working on: peru | metadata | AgenNav.txt...
+04/04/2022, 20:51:21
+File AgenNav.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:21
+Working on: peru | metadata | Agente.txt...
+04/04/2022, 20:51:25
+File Agente.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:25
+Working on: peru | metadata | Bancos.txt...
+04/04/2022, 20:51:29
+File Bancos.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:29
+Working on: peru | metadata | CodProvS.txt...
+04/04/2022, 20:51:33
+File CodProvS.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:33
+Working on: peru | metadata | Documento.txt...
+04/04/2022, 20:51:37
+File Documento.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:37
+Working on: peru | metadata | EmpInternac.txt...
+04/04/2022, 20:51:41
+File EmpInternac.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:41
+Working on: peru | metadata | EmpNacional.txt...
+04/04/2022, 20:51:45
+File EmpNacional.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:45
+Working on: peru | metadata | EntAutMerRest.txt...
+04/04/2022, 20:51:49
+File EntAutMerRest.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:49
+Working on: peru | metadata | EstMercancia.txt...
+04/04/2022, 20:51:53
+File EstMercancia.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:53
+Working on: peru | metadata | LinAereasManif.txt...
+04/04/2022, 20:51:57
+File LinAereasManif.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:51:57
+Working on: peru | metadata | MedTransporte.txt...
+04/04/2022, 20:52:02
+File MedTransporte.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:02
+Working on: peru | metadata | MerExpTemp.txt...
+04/04/2022, 20:52:05
+File MerExpTemp.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:05
+Working on: peru | metadata | Monedas.txt...
+04/04/2022, 20:52:10
+File Monedas.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:10
+Working on: peru | metadata | MotValorAjust.txt...
+04/04/2022, 20:52:14
+File MotValorAjust.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:14
+Working on: peru | metadata | Paises.txt...
+04/04/2022, 20:52:18
+File Paises.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:18
+Working on: peru | metadata | Puertos.txt...
+04/04/2022, 20:52:24
+File Puertos.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:24
+Working on: peru | metadata | RecintAduaner.txt...
+04/04/2022, 20:52:28
+File RecintAduaner.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:28
+Working on: peru | metadata | RegOpeAduaneras.txt...
+04/04/2022, 20:52:32
+File RegOpeAduaneras.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:32
+Working on: peru | metadata | Sanciones.txt...
+04/04/2022, 20:52:36
+File Sanciones.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:36
+Working on: peru | metadata | Tablibe.txt...
+04/04/2022, 20:52:40
+File Tablibe.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:40
+Working on: peru | metadata | TipDocumAutMerRest.txt...
+04/04/2022, 20:52:43
+File TipDocumAutMerRest.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:43
+Working on: peru | metadata | TipTratamiento.txt...
+04/04/2022, 20:52:47
+File TipTratamiento.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:47
+Working on: peru | metadata | TipUltract.txt...
+04/04/2022, 20:52:51
+File TipUltract.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:51
+Working on: peru | metadata | Tributos.txt...
+04/04/2022, 20:52:56
+File Tributos.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:52:56
+Working on: peru | metadata | UnidComerExp.txt...
+04/04/2022, 20:53:00
+File UnidComerExp.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:53:00
+Working on: peru | metadata | UnidMedida.txt...
+04/04/2022, 20:53:04
+File UnidMedida.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:53:04
+Working on: peru | metadata | UnidMercancia.txt...
+04/04/2022, 20:53:08
+File UnidMercancia.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:53:08
+Working on: peru | metadata | codprov.txt...
+04/04/2022, 20:53:13
+File codprov.avro was created in /persistent/peru/metadata/2022/20505504042022
+04/04/2022, 20:53:50
+Working on: chile | imports | Importaciones Enero 2022.txt...
+04/04/2022, 20:59:43
+First version created: version0.avro file was created in /persistent/chile/imp/2022/
+04/04/2022, 20:59:46
+Directory named 20594304042022 created in /persistent/chile/metadata/imp/2022/
+04/04/2022, 20:59:46
+Working on: chile | metadata | imports | EXPheaders.csv...
+04/04/2022, 20:59:48
+File EXPheaders.csv uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 20:59:48
+Working on: chile | metadata | imports | descripcion-y-estructura-de-datos-dus.xlsx...
+04/04/2022, 20:59:50
+File descripcion-y-estructura-de-datos-dus.xlsx uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 20:59:51
+Directory named 20594304042022 created in /persistent/chile/metadata/exp/2022/
+04/04/2022, 20:59:51
+Working on: chile | metadata | exports | descripcion-y-estructura-de-datos-din.xlsx...
+04/04/2022, 20:59:54
+File descripcion-y-estructura-de-datos-din.xlsx uploaded into /persistent/chile/metadata/exp/2022/
+04/04/2022, 21:00:55
+Working on: brazil | exports | EXP_2022_NCM.csv...
+04/04/2022, 21:01:04
+First version created: version0.avro file was created in /persistent/brazil/exp/2022/
+04/04/2022, 21:01:06
+A directory named 21010404042022 has been created in /persistent/brazil/metadata/2022/
+04/04/2022, 21:01:06
+Working on: brazil | metadata | CUCI.csv...
+04/04/2022, 21:01:10
+File CUCI.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:10
+Working on: brazil | metadata | ISIC .csv...
+04/04/2022, 21:01:14
+File ISIC.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:14
+Working on: brazil | metadata | MUN.csv...
+04/04/2022, 21:01:19
+File MUN.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:19
+Working on: brazil | metadata | NCM.csv...
+04/04/2022, 21:01:24
+File NCM.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:24
+Working on: brazil | metadata | NCM_FAT_AGREG.csv...
+04/04/2022, 21:01:28
+File NCM_FAT_AGREG.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:28
+Working on: brazil | metadata | NCM_PPE.csv...
+04/04/2022, 21:01:32
+File NCM_PPE.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:32
+Working on: brazil | metadata | PAIS.csv...
+04/04/2022, 21:01:36
+File PAIS.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:36
+Working on: brazil | metadata | SH.csv...
+04/04/2022, 21:01:41
+File SH.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:01:41
+Working on: brazil | metadata | UF.csv...
+04/04/2022, 21:01:45
+File UF.avro was created in /persistent/brazil/metadata/2022/21010404042022
+04/04/2022, 21:03:41
+Working on: brazil | exports | EXP_2022_NCM.csv...
+04/04/2022, 21:04:00
+Update performed: version1.avro file was created in /persistent/brazil/exp/2022/
+04/04/2022, 21:04:02
+A directory named 21040004042022 has been created in /persistent/brazil/metadata/2022/
+04/04/2022, 21:04:02
+Working on: brazil | metadata | CUCI.csv...
+04/04/2022, 21:04:06
+File CUCI.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:06
+Working on: brazil | metadata | ISIC .csv...
+04/04/2022, 21:04:10
+File ISIC.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:10
+Working on: brazil | metadata | MUN.csv...
+04/04/2022, 21:04:14
+File MUN.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:14
+Working on: brazil | metadata | NCM.csv...
+04/04/2022, 21:04:19
+File NCM.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:19
+Working on: brazil | metadata | NCM_FAT_AGREG.csv...
+04/04/2022, 21:04:23
+File NCM_FAT_AGREG.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:23
+Working on: brazil | metadata | NCM_PPE.csv...
+04/04/2022, 21:04:27
+File NCM_PPE.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:27
+Working on: brazil | metadata | PAIS.csv...
+04/04/2022, 21:04:31
+File PAIS.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:31
+Working on: brazil | metadata | SH.csv...
+04/04/2022, 21:04:36
+File SH.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:04:36
+Working on: brazil | metadata | UF.csv...
+04/04/2022, 21:04:39
+File UF.avro was created in /persistent/brazil/metadata/2022/21040004042022
+04/04/2022, 21:05:09
+Working on: brazil | exports | EXP_2022_NCM.csv...
+04/04/2022, 21:05:32
+Update performed: version2.avro file was created in /persistent/brazil/exp/2022/
+04/04/2022, 21:05:34
+A directory named 21053204042022 has been created in /persistent/brazil/metadata/2022/
+04/04/2022, 21:05:34
+Working on: brazil | metadata | CUCI.csv...
+04/04/2022, 21:05:38
+File CUCI.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:38
+Working on: brazil | metadata | ISIC .csv...
+04/04/2022, 21:05:42
+File ISIC.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:42
+Working on: brazil | metadata | MUN.csv...
+04/04/2022, 21:05:46
+File MUN.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:46
+Working on: brazil | metadata | NCM.csv...
+04/04/2022, 21:05:51
+File NCM.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:51
+Working on: brazil | metadata | NCM_FAT_AGREG.csv...
+04/04/2022, 21:05:55
+File NCM_FAT_AGREG.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:55
+Working on: brazil | metadata | NCM_PPE.csv...
+04/04/2022, 21:05:59
+File NCM_PPE.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:05:59
+Working on: brazil | metadata | PAIS.csv...
+04/04/2022, 21:06:03
+File PAIS.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:06:03
+Working on: brazil | metadata | SH.csv...
+04/04/2022, 21:06:08
+File SH.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:06:08
+Working on: brazil | metadata | UF.csv...
+04/04/2022, 21:06:11
+File UF.avro was created in /persistent/brazil/metadata/2022/21053204042022
+04/04/2022, 21:06:40
+Working on: brazil | exports | EXP_2022_NCM.csv...
+04/04/2022, 21:07:08
+Update performed: version3.avro file was created in /persistent/brazil/exp/2022/
+04/04/2022, 21:07:10
+A directory named 21070804042022 has been created in /persistent/brazil/metadata/2022/
+04/04/2022, 21:07:10
+Working on: brazil | metadata | CUCI.csv...
+04/04/2022, 21:07:14
+File CUCI.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:14
+Working on: brazil | metadata | ISIC .csv...
+04/04/2022, 21:07:18
+File ISIC.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:18
+Working on: brazil | metadata | MUN.csv...
+04/04/2022, 21:07:22
+File MUN.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:22
+Working on: brazil | metadata | NCM.csv...
+04/04/2022, 21:07:27
+File NCM.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:27
+Working on: brazil | metadata | NCM_FAT_AGREG.csv...
+04/04/2022, 21:07:31
+File NCM_FAT_AGREG.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:31
+Working on: brazil | metadata | NCM_PPE.csv...
+04/04/2022, 21:07:35
+File NCM_PPE.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:35
+Working on: brazil | metadata | PAIS.csv...
+04/04/2022, 21:07:38
+File PAIS.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:38
+Working on: brazil | metadata | SH.csv...
+04/04/2022, 21:07:43
+File SH.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:07:43
+Working on: brazil | metadata | UF.csv...
+04/04/2022, 21:07:47
+File UF.avro was created in /persistent/brazil/metadata/2022/21070804042022
+04/04/2022, 21:08:12
+Working on: chile | imports | Importaciones Enero 2022.txt...
+04/04/2022, 21:22:27
+Update performed: version1.avro file was created in /persistent/chile/imp/2022/
+04/04/2022, 21:22:30
+Directory named 21222704042022 created in /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:22:30
+Working on: chile | metadata | imports | EXPheaders.csv...
+04/04/2022, 21:22:32
+File EXPheaders.csv uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:22:32
+Working on: chile | metadata | imports | descripcion-y-estructura-de-datos-dus.xlsx...
+04/04/2022, 21:22:34
+File descripcion-y-estructura-de-datos-dus.xlsx uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:22:36
+Directory named 21222704042022 created in /persistent/chile/metadata/exp/2022/
+04/04/2022, 21:22:36
+Working on: chile | metadata | exports | descripcion-y-estructura-de-datos-din.xlsx...
+04/04/2022, 21:22:38
+File descripcion-y-estructura-de-datos-din.xlsx uploaded into /persistent/chile/metadata/exp/2022/
+04/04/2022, 21:23:32
+Working on: chile | imports | Importaciones Enero 2022.txt...
+04/04/2022, 21:46:31
+Update performed: version2.avro file was created in /persistent/chile/imp/2022/
+04/04/2022, 21:46:34
+Directory named 21463104042022 created in /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:46:34
+Working on: chile | metadata | imports | EXPheaders.csv...
+04/04/2022, 21:46:36
+File EXPheaders.csv uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:46:36
+Working on: chile | metadata | imports | descripcion-y-estructura-de-datos-dus.xlsx...
+04/04/2022, 21:46:38
+File descripcion-y-estructura-de-datos-dus.xlsx uploaded into /persistent/chile/metadata/imp/2022/
+04/04/2022, 21:46:40
+Directory named 21463104042022 created in /persistent/chile/metadata/exp/2022/
+04/04/2022, 21:46:40
+Working on: chile | metadata | exports | descripcion-y-estructura-de-datos-din.xlsx...
+04/04/2022, 21:46:43
+File descripcion-y-estructura-de-datos-din.xlsx uploaded into /persistent/chile/metadata/exp/2022/
