@@ -3,7 +3,10 @@
 This project implements the necessary pipeline to organize in persistent storage (landing zone) open data about foreing trades of three Latin American countries (Chile, Brazil and Perú).
 
 **Requirements**
-Hadoop (HDFS). Installation guide for IOS at https://towardsdatascience.com/installing-hadoop-on-a-mac-ec01c67b003c.
+
+Hadoop (HDFS). 
+Installation guide for IOS at https://towardsdatascience.com/installing-hadoop-on-a-mac-ec01c67b003c.
+Installation guide for Windows at https://www.evernote.com/shard/s322/sh/4b3d1b2b-9b1a-7711-370f-2e15e0bac160/7f6c202359cf6e96e422501937d2a8af.
 
 **Structure of data source**
 
