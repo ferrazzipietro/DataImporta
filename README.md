@@ -13,7 +13,7 @@ The data and the metadata of interest has to be downloaded from the websites of 
           Data/brazil/csv/imp will contain all the import data for brazilian data
           Data/brazil/csv/exp will contain all the export data for brazilian data
           
-- Perú: the format of these files is DBF. The conversion can be performed using dbf2csv.ipynb.
+- Perú: the format of these files is DBF. The conversion can be performed using _dbf2csv.ipynb_.
         Data/peru/metadata ...
         Data/peru/csv/imp...
         Data/peru/csv/exp...
@@ -34,7 +34,7 @@ Once data is imported into the "data source", we can bring it to the temporal la
 
 **Data collector from source to HDFS**
 
-Once the structure of the temporal zone is defined, the notebook that perform the loading of the data from source to HDFS is _temporal_import_.
+Once the structure of the temporal zone is defined, the notebook that perform the loading of the data from source to HDFS is _data_collector_.
 
 
 **Persistent landing zone**
@@ -44,5 +44,7 @@ The next step is to finally save the data persistently in HDFS. The files are st
 **Persistent loading**
 
 To save efficiently the data, in order to be able to distribute the files, they are converted to avro format (horizontally fragmentated) and saved yearly.
-Every time (week or month) that new data for the current year is published, it is saved in the temporal lz and then transferred to the persistent one. The new information is appended to the one already present for that specific year, creating a new version of the data and keeping in memory the old version.
+Every time (week or month) that new data for the current year is published, it is saved in the temporal lz and then transferred to the persistent one. The new information is appended to the one already present for that specific year, creating a new version of the data and keeping in memory the old version. This process is performed trough _data_persistance_loader_.
+
+For a proper data governance all the steps and the outcomes are logged in the _log_ file.
 
