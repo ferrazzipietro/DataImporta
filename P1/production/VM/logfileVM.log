@@ -1,0 +1,3 @@
+04/23/2022, 11:46:48
+CompletedProcess(args='hadoop fs -put /Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/csv/imp/IMP_2022_NCM.csv /temporal/brazil/imp', returncode=1, stdout=b'', stderr=b'2022-04-23 11:46:49,965 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable\nput: Call From MacBook-Pro.local/192.168.1.129 to localhost:9000 failed on connection exception: java.net.ConnectException: Connection refused; For more details see:  http://wiki.apache.org/hadoop/ConnectionRefused\n')
+ IMP_2022_NCM.csv removed successfully from local filesystem /n
