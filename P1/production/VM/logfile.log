@@ -1,0 +1,420 @@
+05/18/2022, 08:15:18
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /temporal/brazil/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ IMP_2022_NCM.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:21
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/exp/EXP_2022_NCM.csv /temporal/brazil/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ EXP_2022_NCM.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ NCM.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/MUN.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ MUN.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/SH.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ SH.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/TABELAS_AUXILIARES.xlsx /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ TABELAS_AUXILIARES.xlsx removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/CUCI.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ CUCI.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/Explanaiton Brasil.txt /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ Explanaiton Brasil.txt removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/UF.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ UF.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/ISIC .csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ISIC .csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM_FAT_AGREG.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ NCM_FAT_AGREG.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM_PPE.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ NCM_PPE.csv removed successfully from local filesystem /n
+05/18/2022, 08:15:24
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/PAIS.csv /temporal/brazil/metadata', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ PAIS.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/.DS_Store /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ .DS_Store removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130322.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma07130322.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270222.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma21270222.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma17230122.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma17230122.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270322.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma21270322.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma24300122.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma24300122.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma31060222.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma31060222.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma28060322.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma28060322.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130222.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma07130222.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200322.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma14200322.csv removed successfully from local filesystem /n
+05/18/2022, 08:26:45
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200222.csv /temporal/peru/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ ma14200222.csv removed successfully from local filesystem /n
+05/18/2022, 08:27:53
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/.DS_Store /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:27:57
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130322.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:00
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270222.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:05
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma17230122.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:08
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270322.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:11
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma24300122.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:14
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma31060222.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:17
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma28060322.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:20
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130222.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:23
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200322.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:28:26
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200222.csv /temporal/peru/imp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/imp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/imp'\n")
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x31060222.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x21270222.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x17230122.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x24300122.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x07130222.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x14200222.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:29
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x28060322.csv /temporal/peru/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 08:31:39
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x31060222.csv /temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/exp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/exp'\n")
+ File path can not be removed /n
+05/18/2022, 08:31:42
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x21270222.csv /temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/exp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/exp'\n")
+ File path can not be removed /n
+05/18/2022, 08:31:45
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x17230122.csv /temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/temporal/peru/exp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/temporal/peru/exp'\n")
+ File path can not be removed /n
+05/18/2022, 08:32:00
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x31060222.csv user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `user/bdm/temporal/peru/exp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/user/bdm/user/bdm/temporal/peru/exp'\n")
+ File path can not be removed /n
+05/18/2022, 08:32:06
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x21270222.csv user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `user/bdm/temporal/peru/exp': No such file or directory: `hdfs://charmeleon.fib.upc.es:27000/user/bdm/user/bdm/temporal/peru/exp'\n")
+ File path can not be removed /n
+05/18/2022, 08:32:23
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x31060222.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:26,359 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:28
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x21270222.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:31,254 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:32
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x17230122.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:36,120 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:37
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x24300122.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:40,143 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:41
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x07130222.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:44,091 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:45
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x14200222.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:51,135 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 08:32:52
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x28060322.csv /user/bdm/temporal/peru/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 08:32:55,056 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 09:13:03
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/Exportaciones_Enero_2022.txt /temporal/chile/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ Exportaciones_Enero_2022.txt removed successfully from local filesystem /n
+05/18/2022, 09:13:03
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/.DS_Store /temporal/chile/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ .DS_Store removed successfully from local filesystem /n
+05/18/2022, 09:13:16
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/Exportaciones_Enero_2022.txt /temporal/chile/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:13:16
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/.DS_Store /temporal/chile/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:14:19
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:14:19
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+05/18/2022, 09:14:35
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /temporal/chile/metadata/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+ EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+05/18/2022, 09:14:35
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:15:12
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /user/bdm/temporal/chile/metadata/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:15:12
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:15:15
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /user/bdm/temporal/chile/metadata/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:15:15
+CompletedProcess(args='hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /temporal/chile/metadata/exp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: hadoop: not found\n')
+ File path can not be removed /n
+05/18/2022, 09:22:04
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /user/bdm/temporal/chile/metadata/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:22:07,788 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ File path can not be removed /n
+05/18/2022, 09:49:49
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /temporal/brazil/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+05/18/2022, 09:49:56
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /temporal/brazil/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+05/18/2022, 09:50:09
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /user/bdm/temporal/brazil/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+05/18/2022, 09:50:12
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoopfs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /user/bdm/temporal/brazil/imp', returncode=127, stdout=b'', stderr=b'/bin/sh: 1: /home/bdm/BDM_Software/hadoop/bin/hadoopfs: not found\n')
+05/18/2022, 09:50:27
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop  fs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/imp/IMP_2022_NCM.csv /user/bdm/temporal/brazil/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:50:30,514 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+05/18/2022, 09:52:55
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/csv/exp/EXP_2022_NCM.csv /user/bdm/temporal/brazil/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:52:58,272 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+05/18/2022, 09:53:18
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:21,819 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ NCM.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:22
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/MUN.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:25,987 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ MUN.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:26
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/SH.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:29,349 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ SH.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:30
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/TABELAS_AUXILIARES.xlsx /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:33,026 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ TABELAS_AUXILIARES.xlsx removed successfully from local filesystem /n
+05/18/2022, 09:53:33
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/CUCI.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:36,636 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ CUCI.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:37
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/Explanaiton Brasil.txt /user/bdm/temporal/brazil/metadata', returncode=1, stdout=b'', stderr=b"put: `/home/bdm/transfer/Data_VM.nosync/brazil/metadata/Explanaiton': No such file or directory\nput: `Brasil.txt': No such file or directory\n")
+ Explanaiton Brasil.txt removed successfully from local filesystem /n
+05/18/2022, 09:53:40
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/UF.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:43,156 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ UF.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:43
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/ISIC .csv /user/bdm/temporal/brazil/metadata', returncode=1, stdout=b'', stderr=b"put: `/home/bdm/transfer/Data_VM.nosync/brazil/metadata/ISIC': No such file or directory\nput: `.csv': No such file or directory\n")
+ ISIC .csv removed successfully from local filesystem /n
+05/18/2022, 09:53:46
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM_FAT_AGREG.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:49,335 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ NCM_FAT_AGREG.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:49
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/NCM_PPE.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:52,606 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ NCM_PPE.csv removed successfully from local filesystem /n
+05/18/2022, 09:53:53
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/brazil/metadata/PAIS.csv /user/bdm/temporal/brazil/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:53:56,332 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ PAIS.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:10
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/.DS_Store /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:13,247 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ .DS_Store removed successfully from local filesystem /n
+05/18/2022, 09:54:13
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130322.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:16,712 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma07130322.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:19
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270222.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:22,524 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma21270222.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:25
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma17230122.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:28,594 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma17230122.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:38
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma21270322.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:41,527 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma21270322.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:43
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma24300122.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:46,727 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma24300122.csv removed successfully from local filesystem /n
+05/18/2022, 09:54:51
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma31060222.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:54:54,280 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma31060222.csv removed successfully from local filesystem /n
+05/18/2022, 09:55:04
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma28060322.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:55:08,171 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma28060322.csv removed successfully from local filesystem /n
+05/18/2022, 09:55:10
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma07130222.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:55:13,799 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma07130222.csv removed successfully from local filesystem /n
+05/18/2022, 09:55:23
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200322.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:55:26,187 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma14200322.csv removed successfully from local filesystem /n
+05/18/2022, 09:55:28
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/imp/ma14200222.csv /user/bdm/temporal/peru/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:55:31,231 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ ma14200222.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:21
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x31060222.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x31060222.csv': File exists\n")
+ x31060222.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:24
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x21270222.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x21270222.csv': File exists\n")
+ x21270222.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:27
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x17230122.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x17230122.csv': File exists\n")
+ x17230122.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:30
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x24300122.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x24300122.csv': File exists\n")
+ x24300122.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:33
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x07130222.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x07130222.csv': File exists\n")
+ x07130222.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:37
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x14200222.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x14200222.csv': File exists\n")
+ x14200222.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:40
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/csv/exp/x28060322.csv /user/bdm/temporal/peru/exp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/peru/exp/x28060322.csv': File exists\n")
+ x28060322.csv removed successfully from local filesystem /n
+05/18/2022, 09:56:43
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Tablibe.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:56:46,057 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Tablibe.txt removed successfully from local filesystem /n
+05/18/2022, 09:56:46
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/AgenMar.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:56:49,268 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ AgenMar.txt removed successfully from local filesystem /n
+05/18/2022, 09:56:49
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Bancos.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:56:52,490 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Bancos.txt removed successfully from local filesystem /n
+05/18/2022, 09:56:53
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/EstMercancia.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:56:55,774 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ EstMercancia.txt removed successfully from local filesystem /n
+05/18/2022, 09:56:56
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/CodProvS.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:56:59,215 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ CodProvS.txt removed successfully from local filesystem /n
+05/18/2022, 09:56:59
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/RegOpeAduaneras.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:03,778 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ RegOpeAduaneras.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:04
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/.DS_Store /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:08,081 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ .DS_Store removed successfully from local filesystem /n
+05/18/2022, 09:57:08
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/estructura_bases.xls /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:11,368 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ estructura_bases.xls removed successfully from local filesystem /n
+05/18/2022, 09:57:11
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/UnidMercancia.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:14,551 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ UnidMercancia.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:15
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/codprov.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:17,890 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ codprov.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:18
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/LinAereasManif.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:21,160 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ LinAereasManif.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:21
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Monedas.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:24,354 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Monedas.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:24
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Tributos.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:27,683 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Tributos.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:28
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/AgenNav.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:31,131 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ AgenNav.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:31
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/TipUltract.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:34,490 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ TipUltract.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:35
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/UnidComerExp.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:39,097 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ UnidComerExp.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:39
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/MotValorAjust.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:42,325 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ MotValorAjust.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:42
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/RecintAduaner.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:45,635 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ RecintAduaner.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:46
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/AgenEmb.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:48,860 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ AgenEmb.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:49
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Paises.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:52,230 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Paises.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:52
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/TipTratamiento.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:55,584 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ TipTratamiento.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:56
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/EmpInternac.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:57:59,047 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ EmpInternac.txt removed successfully from local filesystem /n
+05/18/2022, 09:57:59
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/MerExpTemp.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:04,260 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ MerExpTemp.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:05
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/TipDocumAutMerRest.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:07,910 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ TipDocumAutMerRest.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:08
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/AgenCar.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:11,151 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ AgenCar.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:11
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Documento.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:14,373 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Documento.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:14
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Aduanas.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:17,677 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Aduanas.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:18
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Agente.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:20,928 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Agente.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:21
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Sanciones.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:24,131 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Sanciones.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:24
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Puertos.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:27,529 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Puertos.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:28
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/MedTransporte.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:30,948 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ MedTransporte.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:31
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/EntAutMerRest.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:34,170 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ EntAutMerRest.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:34
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/UnidMedida.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:37,481 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ UnidMedida.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:38
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/EmpNacional.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:40,789 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ EmpNacional.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:41
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/peru/metadata/Aerolineas.txt /user/bdm/temporal/peru/metadata', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:44,067 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Aerolineas.txt removed successfully from local filesystem /n
+05/18/2022, 09:58:44
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/imp/Importaciones_Enero_2022.txt /user/bdm/temporal/chile/imp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:58:47,615 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n2022-05-18 09:58:50,606 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n2022-05-18 09:58:59,836 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Importaciones_Enero_2022.txt removed successfully from local filesystem /n
+05/18/2022, 09:59:10
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/Exportaciones_Enero_2022.txt /user/bdm/temporal/chile/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:59:14,137 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ Exportaciones_Enero_2022.txt removed successfully from local filesystem /n
+05/18/2022, 09:59:18
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/txt/exp/.DS_Store /user/bdm/temporal/chile/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:59:21,873 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ .DS_Store removed successfully from local filesystem /n
+05/18/2022, 09:59:27
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx /user/bdm/temporal/chile/metadata/imp', returncode=1, stdout=b'', stderr=b"put: `/user/bdm/temporal/chile/metadata/imp/IMPORT_descripcion-y-estructura-de-datos-din.xlsx': File exists\n")
+ IMPORT_descripcion-y-estructura-de-datos-din.xlsx removed successfully from local filesystem /n
+05/18/2022, 09:59:30
+CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /user/bdm/temporal/chile/metadata/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:59:32,940 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
+ EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
