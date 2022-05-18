@@ -418,3 +418,9 @@ CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transf
 05/18/2022, 09:59:30
 CompletedProcess(args='~/BDM_Software/hadoop/bin/hadoop fs -put /home/bdm/transfer/Data_VM.nosync/chile/metadata/exp/EXPORT_descripcion-y-estructura-de-datos-dus.xlsx /user/bdm/temporal/chile/metadata/exp', returncode=0, stdout=b'', stderr=b'2022-05-18 09:59:32,940 INFO sasl.SaslDataTransferClient: SASL encryption trust check: localHostTrusted = false, remoteHostTrusted = false\n')
  EXPORT_descripcion-y-estructura-de-datos-dus.xlsx removed successfully from local filesystem /n
+05/18/2022, 10:16:23
+# of files to upload: 69
+05/18/2022, 10:27:17
+# of files to upload: 69
+05/18/2022, 10:29:04
+# of files to upload: 69
