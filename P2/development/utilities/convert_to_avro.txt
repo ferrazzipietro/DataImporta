@@ -1,0 +1,5 @@
+
+#create the fake avro
+df = spark.read.options(header="True", delimiter=";").csv('/Users/pietro/Desktop/BDM/Project/Data.nosync/chile/txt copia/imp/Importaciones_Enero_2022.txt')
+dd=df.rdd
+df.write.format("avro").save("/Users/pietro/Desktop/test_chile.avro")

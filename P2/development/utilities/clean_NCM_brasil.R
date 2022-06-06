@@ -1,0 +1,11 @@
+library(tidyverse)
+setwd("/Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata copia")
+d <- read_delim("NCM.csv", delim=";")
+d$NO_NCM_ING <- d$NO_NCM_ING %>% sapply(function (x) as.character(str_replace(x,"\n","")))
+d$NO_NCM_POR<- d$NO_NCM_POR %>% sapply(function (x) as.character(str_replace(x,"\n","")))
+d$NO_NCM_ESP <- d$NO_NCM_ESP %>% sapply(function (x) as.character(str_replace(x,"\n","")))
+d <- d%>%select(c(CO_NCM, NO_NCM_ING))
+write_delim(d, "NCM.csv", delim=";")
+
+d1 <- read_delim("NCM1.csv", delim="  ")
+View(d1)
