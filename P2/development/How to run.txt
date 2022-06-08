@@ -1,0 +1,12 @@
+RSpark
+java btw 8 and 11
+
+Instal packages with:
+
+install.packages('RPostgreSQL')
+install.packages('devtools')
+
+install.packages('remotes')
+install.packages('RPostgres')
+install.packages("SparkR")
+

@@ -1,0 +1,111 @@
+---
+title: "ML models"
+author: "Pietro"
+date: "6/7/2022"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The environment has to be set with all the paramenters of the case
+
+```{r libraries, echo=FALSE, message=FALSE}
+library(DBI)
+library(RPostgres)
+library(RPostgreSQL)
+library(dplyr)
+library(sparklyr)
+```
+
+```{r db_connection, echo=FALSE}
+db <- 'dataimporta' 
+db_port <- '5432'  # or any other port specified by the DBA
+db_user <- 'pietro'  
+db_password <- 'ropby8pietro'
+con <- dbConnect(RPostgres::Postgres(), dbname = db, port=db_port, user=db_user, password=db_password)  
+
+```
+
+```{r SparkR, echo=FALSE, message=FALSE}
+if (nchar(Sys.getenv("SPARK_HOME")) < 1) {
+  Sys.setenv(SPARK_HOME = "/opt/homebrew/Cellar/apache-spark/3.2.1/libexec/")
+}
+Sys.setenv(JAVA_HOME="/Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home") 
+library(SparkR, lib.loc = c(file.path(Sys.getenv("SPARK_HOME"), "R", "lib")))
+sc <- sparkR.session()
+
+```
+
+```{r open_data, echo=FALSE}
+peru = dbGetQuery(con, 'SELECT price_transport_net, mean_of_transport, country_of_arrival, custom, net_price, net_price_per_unit, date  
+                        FROM peru_imp ') %>% as.DataFrame
+getNumPartitions(peru)
+
+peru %>% group_by("mean_of_transport") %>% gapply(fun, schema)
+peru<- repartition(peru, numPartitions=4L, col=rep()) 
+```
+
+The first thing to be done is to cast the variable to the correct type. The date is considered as number of days from the 01/01/2022.
+```{r cast_to_type, echo=FALSE}
+
+for (col in c('price_transport_net','net_price','net_price_per_unit')) {
+  peru[[col]] <- cast(peru[[col]], 'numeric')
+}
+
+schema <- structType(
+  structField("price_transport_net", "double"),
+  structField("mean_of_transport", "string"),
+  structField("country_of_arrival", "string"),
+  structField("custom", "string"),
+  structField("net_price", "double"),
+  structField("net_price_per_unit", "double"),
+  structField("date", "string"),
+  structField("date_num", "double")
+  )
+
+char_to_date <- function(str){
+  strr <- strsplit(str, "")[[1]]
+  year <- as.numeric(paste(strr[1], strr[2], strr[3], strr[4], sep="")) 
+  month <- as.numeric(paste(strr[5], strr[6], sep=""))
+  day <- as.numeric(paste(strr[7], strr[8], sep=""))
+  return ( (year-2022)*365 + (month - 1)*30 + day - 1 )
+}
+
+peru <- dapply(peru, function(x) { x <- cbind(x, char_to_date(x$date)) },
+               schema)
+head(peru)
+```
+
+```{r model, echo=FALSE}
+
+trainTest <-randomSplit(peru,c(0.7,0.3), 1234)
+train = trainTest[[1]]
+test = trainTest[[2]]
+
+
+model <- spark.lm(data=train, price_transport_net ~ mean_of_transport +
+                       net_price)
+```
+
+```{r cast_to_type, echo=FALSE}
+summary(model)
+pred <- predict(model, test)
+head(pred)
+```
+
+```{r cast_to_type, echo=FALSE}
+```
+
+```{r cast_to_type, echo=FALSE}
+
+```
+
+```{r cast_to_type, echo=FALSE}
+
+```
+
+```{r cast_to_type, echo=FALSE}
+
+```
