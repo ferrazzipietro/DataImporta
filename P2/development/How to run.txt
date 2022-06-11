@@ -1,8 +1,21 @@
+CREATE DATA BASE
+
+To create the database run:
+% \i create_db.sql
+
+
+DATA FORMATTER
+
+Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
+Pyspark has to be launched with the flag that adds the package necessary to read avro files and to be connected with Postgres:
+
+% pyspark --packages org.apache.spark:spark-avro_2.12:3.2.1 --jars ~/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar 
+
+
+
+MACHINE LEARNING MODEL
 
 Instal packages in R with:
-
-
-
 install.packages('remotes')
 install.packages('RPostgres')
 install.packages("sparklyr")
@@ -10,8 +23,8 @@ install.packages("sparklyr")
 
 To train the model, from command line launch:
 
-Rscript --default-packages=DBI,RPostgres,RPostgreSQL,dplyr,sparklyr train_model_transp_price.R
+% Rscript --default-packages=DBI,RPostgres,RPostgreSQL,dplyr,sparklyr train_model_transp_price.R
 
 To do forecasts:
 
-Rscript --default-packages=sparklyr,RPostgres forecasts_model_transp_price.R path_to_model country mean_of_transport custom net_price net_price_unit     
+% Rscript --default-packages=sparklyr,RPostgres forecasts_model_transp_price.R path_to_model country mean_of_transport custom net_price net_price_unit     
