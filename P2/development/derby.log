@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jun 11 20:09:46 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-53f5-2fb9-00002112ac40 
+on database directory /Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@7ce0fc1a 
+Loaded from file:/opt/homebrew/Cellar/apache-spark/3.2.1/libexec/jars/derby-10.14.2.0.jar
+java.vendor=Temurin
+java.runtime.version=1.8.0_332-b09
+user.dir=/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

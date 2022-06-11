@@ -1,0 +1,55 @@
+
+
+# PIPELINES
+predictions1 <- ml_transform(
+  models[1],
+  partition$training
+)
+
+predict1 <- predictions1 %>% select(price_transport) %>% collect
+
+
+pipeline1 <- ml_pipeline(sc) %>%
+  ft_r_formula(price_transport ~
+                 net_price + net_price_per_unit + mean_of_transport +
+                 country_of_arrival + custom) %>% 
+  ml_linear_regression()
+
+m1 <- fitted_pipeline <- ml_fit(
+  pipeline1,
+  partition$training
+)
+
+predictions <- ml_transform(
+  fitted_pipeline,
+  partition$test
+)
+
+
+
+
+
+###
+# SAME NOT USING SPARK
+###ib <- peru %>% as_tibble
+tib <- tib %>% mutate(price_transport_net = price_transport_net %>% as.numeric(),
+                    net_price = net_price  %>% as.numeric(),
+                    net_price_per_unit = net_price_per_unit %>% as.numeric(),
+                    price_transport = price_transport_net - net_price,)
+set.seed(1234)
+idx <- sample(1:nrow(tib), 155109) #nrow(tib)*0.75)
+traintib <- tib[idx,]
+testtib <- tib[-idx,]
+
+mod1 <- lm(price_transport ~           
+             net_price + I(net_price^2) + I(net_price^3) + I(net_price^4) + I(net_price^5) + I(net_price^6)  +
+             + I(net_price^7) + I(net_price^8) + I(net_price^9) + + I(net_price^10) +
+           net_price_per_unit + I(net_price_per_unit^2) + I(net_price_per_unit^3) + I(net_price_per_unit^4) +
+           mean_of_transport +
+             country_of_arrival + 
+             custom , data=traintib)  
+summary(mod1) 
+
+plot(train$price_transport_net, predict(mod1,newdata=train), xlim=c(0,4e+07))
+
+  
