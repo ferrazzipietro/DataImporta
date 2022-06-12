@@ -8,17 +8,19 @@ spark_conf = SparkConf().setMaster("local").setAppName("app")\
     .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
     
 
-spark = SparkContext(conf=spark_conf)
-#spark = SparkSession()
+sc = SparkContext(conf=spark_conf)
+spark = SparkSession(sc)
 
+# hdfs_path = 'hdfs://localhost:9000/persistent/'
+hdfs_path =''
 
 # DATA FOR TBOX GRAPH
 def tbox_peru(path_to_avro=True, path_to_metadata=True):
     
     if path_to_avro:
-        path_to_avro = '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro'
+        path_to_avro = hdfs_path+'/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro'
     if path_to_metadata:
-        path_to_metadata = '/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
+        path_to_metadata =  hdfs_path+'/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
     df = spark.read.format('avro').load(path_to_avro)
     rdd=df.rdd
     

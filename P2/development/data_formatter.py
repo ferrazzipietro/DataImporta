@@ -1,22 +1,15 @@
-#import os  
-#os.environ['PYSPARK_SUBMIT_ARGS'] = '--packages org.apache.spark:spark-avro_2.12:3.2.1 pyspark-shell'    
+# from pyspark.sql import SparkSession
+# from pyspark import SparkConf
+# from pyspark import SparkContext
+# from pyspark.sql import Row
+import sys
+# import re
 
-from pyspark.sql import SparkSession
-from pyspark import SparkConf
-from pyspark import SparkContext
-from pyspark.sql import Row
-import re
-spark_conf = SparkConf().setMaster("local").setAppName("app")\
-    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
-    .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
-    
-
-sc = SparkContext(conf=spark_conf)
-spark = SparkSession(sc)
-
-# hdfs_path = 'hdfs://localhost:9000/persistent/'
-hdfs_path =''
-
+# spark_conf = SparkConf().setMaster("local").setAppName("app")\
+#     .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
+#     .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
+# sc = SparkContext(conf=spark_conf)
+# spark = SparkSession(sc)
 #spark = SparkSession.builder.getOrCreate()
 
 #------------------------------------------------------
@@ -344,13 +337,13 @@ def user_define_formatting(country, path_to_avro, path_to_metadata):
 #------------------------------------------------------
 # LOAD DATA TO POSTGRESQL
 #------------------------------------------------------
-def main(path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/persistent/', use_hdfs = False):
+def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/persistent/', use_hdfs = False):
 
     if use_hdfs:
         pre_path = 'hdfs://localhost:9000/persistent/'
     else:
          pre_path = path_to_persistent_zone
-
+         
     path_to_avro_chile = pre_path + "brazil/imp/2022/test_chile.avro"
     path_to_metadata_chile= ''
 
@@ -361,11 +354,11 @@ def main(path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImpor
     path_to_avro_peru =  pre_path + "peru/imp/2022/version0.avro"
     path_to_metadata_peru = pre_path + 'peru/metadata/2022/21010404042022/' 
 
-    postgres_properties = {"user": "pietro", "password": "", "driver": 'org.postgresql.Driver'}
-    url = "jdbc:postgresql://localhost:5432/dataimporta"
+    postgres_properties = {"user": db_user, "password": db_password, "driver": 'org.postgresql.Driver'}
+    url = "jdbc:postgresql://localhost:5432/" + db_name
 
-    data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile, hdfs=False)
-    chileDF = data_chile.toDF()
+    #data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile, hdfs=False)
+    #chileDF = data_chile.toDF()
 
     #data_brazil=user_define_formatting("brazil", path_to_avro_brazil, path_to_metadata_brazil, hdfs=False)
     #brazilDF = data_brazil.toDF()
@@ -375,14 +368,15 @@ def main(path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImpor
     #peruDF = data_peru.toDF()
 
 
-    chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-              properties = postgres_properties)
+    #chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = postgres_properties)
     #brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
     #          properties = properties)
     #peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
     #          properties = properties)
+
 #------------------------------------------------------
 
 
 # RUN THE SCRIPT
-main()
+main(sys.argv[1], sys.argv[2])

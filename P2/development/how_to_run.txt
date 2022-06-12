@@ -1,6 +1,6 @@
 CREATE DATABASE
 
-To create the database run:
+To create the database and set up the materialized views run from postgres:
 % \i create_db.sql
 
 
@@ -8,8 +8,13 @@ DATA FORMATTER
 
 Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
 Pyspark has to be launched with the flag that adds the package necessary to read avro files and to be connected with Postgres:
+% python3 data_formatter.py 'path_to_persistent_zone' 'data_from_HDFS_Ture_False'
 
-% python3 --packages org.apache.spark:spark-avro_2.12:3.2.1 --jars ~/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar 
+
+VIEWS REFRESHING
+
+At each upload, the sandbowes (i.e., the materialized views) have to be refreshed. It is done running
+% \i refresh_materialized_views.sql
 
 
 DESCRIPTIVE ANALYSIS
@@ -35,6 +40,7 @@ Option 2:
 
 For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we
 want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
+
 
 
 MACHINE LEARNING MODEL
