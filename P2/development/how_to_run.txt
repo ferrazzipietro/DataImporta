@@ -3,17 +3,22 @@ CREATE DATABASE
 To create the database and set up the materialized views run from postgres:
 % \i create_db.sql
 
-
 DATA FORMATTER
 
+Ensure you have Java 1.8.0 (other JDKs may give issues)
 Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
-Two paramaters have to be given: the path to the persistent zone and specify if this path is HDFS or not
-% python3 data_formatter.py db_user db_password db_name 'path_to_persistent_zone' 'data_from_HDFS_Ture_False'
+Run the following command from the /development folder (IMPORTANT!):
+
+% python3 data_formatter.py db_user db_password dataimporta temporal data_from_HDFS_True_False
+
+db_user: name of user for postgres (without "")
+db_password: password of user for postgres (without "")
+data_from_HDFS_Ture_False: Set to True if the data comes from HDFS and set to False if the data comes from a folder in the local filesystem
 
 
 VIEWS REFRESHING
 
-At each upload, the sandbowes (i.e., the materialized views) have to be refreshed. It is done running
+At each upload, the sandbowes (i.e., the materialized views) have to be refreshed. It is done running the following command inside PostgreSQL
 % \i refresh_materialized_views.sql
 
 
@@ -40,7 +45,6 @@ Option 2:
 
 For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we
 want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
-
 
 
 MACHINE LEARNING MODEL

@@ -6,7 +6,7 @@ import sys
 import re
 
 spark_conf = SparkConf().setMaster("local").setAppName("app")\
-    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
+    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.1.1')\
     .set('spark.jars', './utilities/postgresql-42.2.25.jre7.jar')
 sc = SparkContext(conf=spark_conf)
 spark = SparkSession(sc)
@@ -337,10 +337,10 @@ def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone 
 
     if use_hdfs==True:
         pre_path = 'hdfs://localhost:9000/persistent/'
-        print("PTM")
+        print("Getting data from HDFS")
     else:
          pre_path = path_to_persistent_zone
-         print("YUPI")
+         print("Getting data from local filesystem")
         
     path_to_avro_chile = pre_path + "/persistent/chile/imp/2022/test_chile.avro"
     path_to_metadata_chile= ''
@@ -369,9 +369,9 @@ def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone 
     chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
              properties = postgres_properties)
     brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-             properties = properties)
+             properties = postgres_properties)
     peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-             properties = properties)
+             properties = postgres_properties)
 
 #------------------------------------------------------
 
