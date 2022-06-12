@@ -1,0 +1,57 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia
+       	                                                                      	20040127	20030127	No Vigente
+1234   	SOFTPAD                                                               	20010101	20121231	No Vigente
+1235   	ALMACENES CORPORATIVOS S.A.                                           	20111005	99991231	Vigente
+1236   	SAMICHAY Z.R.E. S.A.C.                                                	20140820	99991231	Vigente
+1253   	CARGO MARSTER S.A.C.                                                  	20140710	99991231	Vigente
+1271   	LEADER FREIGHT S.A.C.                                                 	20140710	99991231	Vigente
+2125   	SINTAD                                                                	20000605	99991231	Vigente
+2128   	ANDES SYSTEMS S.A.C.                                                  	20110127	99991231	Vigente
+2143   	PROSYSTEM                                                             	20000605	99991231	Vigente
+2150   	TCI S.A.                                                              	20090924	20121231	No Vigente
+2161   	ROJAS                                                                 	20000605	99991231	Vigente
+2171   	DEPSA                                                                 	20101202	20151231	No Vigente
+2181   	LOINTEC                                                               	20110704	20201231	Vigente
+2189   	C.P.S.                                                                	20000605	99991231	Vigente
+2323   	CICLO2000                                                             	20000605	99991231	Vigente
+2331   	INTELISOFT SOLUTION SAC                                               	20160225	99991231	Vigente
+2341   	ASCINSA                                                               	20000605	99991231	Vigente
+2369   	PEGASUS                                                               	20000605	99991231	Vigente
+2387   	PROABAS                                                               	20000605	99991231	Vigente
+2396   	CSA - NAVIEROS                                                        	20001228	99991231	Vigente
+2413   	LUMEN SAC AGENCIA DE ADUANA                                           	20010102	99991231	Vigente
+2521   	PAR SYSTEM                                                            	20000605	99991231	Vigente
+2549   	UNIVERSAL ADUANERA                                                    	20000605	99991231	Vigente
+2567   	TECNIADUANA                                                           	20000605	99991231	Vigente
+2585   	SALINAS Y C                                                           	20000605	99991231	Vigente
+2649   	LOSERSISAC                                                            	20071019	99991231	Vigente
+2667   	TERMINAL Y ALMACENES SUR S.A. - TASSA                                 	20071120	99991231	Vigente
+2668   	CONTRANS S.A.C.                                                       	20080108	99991231	Vigente
+2729   	LUIS FELIPE ELIAS                                                     	20000605	99991231	Vigente
+2733   	E&L COMERCIAL SRL                                                     	20010124	20120124	No Vigente
+2747   	INDESMAR                                                              	20000605	99991231	Vigente
+2765   	AG. ADUANAS LAS AMERICAS                                              	20000605	99991231	Vigente
+2783   	TECNOLOGIA DE SERVICIOS                                               	20000605	99991231	Vigente
+2927   	NESTOR ALVAREZ                                                        	20000605	99991231	Vigente
+2945   	COSMOS CALLAO                                                         	20000605	99991231	Vigente
+2963   	ARRUNTA                                                               	20000725	99991231	Vigente
+2981   	RRR DEL PACIFICO                                                      	20000725	99991231	Vigente
+3014   	ENAPU                                                                 	20000605	99991231	Vigente
+3052   	SERLIPSA SWISSPORT S.A.                                               	20010110	99991231	Vigente
+3680   	CIELOS DEL PERU S.A.                                                  	20040226	99991231	Vigente
+3727   	LOGISTICA INTEGRAL CALLA S.A. - LICSA                                 	20050223	99991231	Vigente
+3747   	INFOSIA                                                               	20080626	99991231	Vigente
+4020   	AZFRA EIRL                                                            	20160427	99991231	Vigente
+4123   	GESTIONES ADUANERAS TACNA                                             	20000725	99991231	Vigente
+4141   	GLM S.A.C.                                                            	20000725	99991231	Vigente
+4169   	ONSYS EIRL                                                            	20000725	99991231	Vigente
+4187   	INFOMAS                                                               	20000725	99991231	Vigente
+4190   	PERU SECURE E NET                                                     	20100927	99991231	Vigente
+5433   	E&L COMERCIAL S.R.L.                                                  	20010129	20120129	No Vigente
+6004   	ASOCIACION DE AGENTES DE ADUANA                                       	20010727	99991231	Vigente
+6445   	FANNY OYOLA CARBAJAL                                                  	20100723	99991231	Vigente
+6446   	GRUPO SCHARFF                                                         	20011017	99991231	Vigente
+666    	CONTRANS S.A.C.                                                       	20080108	99991231	Vigente
+6998   	UNIMAR S.A AGENTES MARITIMOS                                          	20040126	20120126	No Vigente
+8863   	CS SOFTWARE COMERCIO Y SERVICIOS SRL                                  	20061110	99991231	Vigente
+9876   	MSTRANSPORT                                                           	20010124	20011224	No Vigente

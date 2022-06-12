@@ -1,0 +1,205 @@
+Codigo  Descripcion                                 FInicio     FFin        Vigencia
+ADP    	---                                     	20000101	99999999	Vigente
+AED    	UAE DIRHAM                              	20000101	99999999	Vigente
+AFA    	AFGHANI                                 	20000101	99999999	Vigente
+ALL    	LEK                                     	20000101	99999999	Vigente
+AMD    	ARMENIAN DRAM                           	20000101	99999999	Vigente
+ANG    	NETH. ANT. GUILDER                      	20000101	99999999	Vigente
+AON    	---                                     	20000101	99999999	Vigente
+AOR    	KWANZA REAJUSTADO                       	20000101	99999999	Vigente
+ARS    	PESO                                    	20000101	99999999	Vigente
+ATS    	SCHILLING                               	20000101	99999999	Vigente
+AUD    	AUSTRALIAN DOLLAR                       	20000101	99999999	Vigente
+AWG    	ARUBA GUILDER                           	20000101	99999999	Vigente
+AZM    	AZERBAIJANIAN MANAT                     	20000101	99999999	Vigente
+BAM    	CONVERTIBLE MARK                        	20000101	99999999	Vigente
+BBD    	BARBADOS DOLLAR                         	20000101	99999999	Vigente
+BDT    	TAKA                                    	20000101	99999999	Vigente
+BEF    	BELGIAN FRANC                           	20000101	99999999	Vigente
+BGL    	LEV                                     	20000101	99999999	Vigente
+BHD    	BAHRAINI DINAR                          	20000101	99999999	Vigente
+BIF    	BURUNDI FRANC                           	20000101	99999999	Vigente
+BMD    	BERMUDIAN DOLLAR                        	20000101	99999999	Vigente
+BND    	BRUNEI DOLLAR                           	20000101	99999999	Vigente
+BOB    	BOLIVIANO                               	20000101	99999999	Vigente
+BOV    	---                                     	20000101	99999999	Vigente
+BRL    	BRAZILIAN REAL                          	20000101	99999999	Vigente
+BSD    	BAHAMIAN DOLLAR                         	20000101	99999999	Vigente
+BTN    	NGULTRUM                                	20000101	99999999	Vigente
+BWP    	PULA                                    	20000101	99999999	Vigente
+BYB    	BELARISSIAN ROUBLE                      	20000101	99999999	Vigente
+BZD    	BELIZE DOLLAR                           	20000101	99999999	Vigente
+CAD    	CANADIAN DOLLAR                         	20000101	99999999	Vigente
+CHF    	SWISS FRANC                             	20000101	99999999	Vigente
+CLF    	---                                     	20000101	99999999	Vigente
+CLP    	CHILEAN PESO                            	20000101	99999999	Vigente
+CNY    	YUAN RENMINBI                           	20000101	99999999	Vigente
+COP    	COLOMBIAN PESO                          	20000101	99999999	Vigente
+CRC    	COSTA RICA COLON                        	20000101	99999999	Vigente
+CUP    	CUBAN PESO                              	20000101	99999999	Vigente
+CVE    	CAPE VERDE ESCUDO                       	20000101	99999999	Vigente
+CYP    	CYPRUS POUND                            	20000101	99999999	Vigente
+CZK    	CZECH KORUNA                            	20000101	99999999	Vigente
+DEM    	DEUSTSCHE MARK                          	20000101	99999999	Vigente
+DJF    	DJIBOUTI FRANC                          	20000101	99999999	Vigente
+DKK    	DANISH KRONE                            	20000101	99999999	Vigente
+DOP    	DOMINICAN PESO                          	20000101	99999999	Vigente
+DZD    	ALGERIAN DINAR                          	20000101	99999999	Vigente
+ECS    	SUCRE                                   	20000101	99999999	Vigente
+ECV    	---                                     	20000101	99999999	Vigente
+EEK    	KROON                                   	20000101	99999999	Vigente
+EGP    	EGYPTIAN POUND                          	20000101	99999999	Vigente
+ERN    	NAKFA                                   	20000101	99999999	Vigente
+ESP    	SPANISH PESETA                          	20000101	99999999	Vigente
+ETB    	ETHIOPIAN BIRR                          	20000101	99999999	Vigente
+FIM    	MARKKA                                  	20000101	99999999	Vigente
+FJD    	FIJI DOLLAR                             	20000101	99999999	Vigente
+FKP    	FALKLAND ISLANDS POUNDS                 	20000101	99999999	Vigente
+FRF    	FRENCH FRANC                            	20000101	99999999	Vigente
+GBP    	POUND STERLING                          	20000101	99999999	Vigente
+GEL    	LARI                                    	20000101	99999999	Vigente
+GHC    	CEDI                                    	20000101	99999999	Vigente
+GIP    	GIBRALTAR POUND                         	20000101	99999999	Vigente
+GMD    	DALASI                                  	20000101	99999999	Vigente
+GNF    	GUINEAN FRANC                           	20000101	99999999	Vigente
+GRD    	DRACHMA                                 	20000101	99999999	Vigente
+GTQ    	QUETZAL                                 	20000101	99999999	Vigente
+GWP    	---                                     	20000101	99999999	Vigente
+GYD    	GUYANA DOLLAR                           	20000101	99999999	Vigente
+HKD    	HONG KONG DOLLAR                        	20000101	99999999	Vigente
+HNL    	LEMPIRA                                 	20000101	99999999	Vigente
+HRK    	KUNA                                    	20000101	99999999	Vigente
+HTG    	GOURDE                                  	20000101	99999999	Vigente
+HUF    	FORINT                                  	20000101	99999999	Vigente
+IDR    	RUPIAH                                  	20000101	99999999	Vigente
+IEP    	IRISH PUND                              	20000101	99999999	Vigente
+ILS    	NEW SHEQEL                              	20000101	99999999	Vigente
+INR    	INDIAN RUPEE                            	20000101	99999999	Vigente
+IQD    	IRAQI DINAR                             	20000101	99999999	Vigente
+IRR    	IRANIAN RIAL                            	20000101	99999999	Vigente
+ISK    	ICELAND KRONA                           	20000101	99999999	Vigente
+ITL    	ITALIAN LIRA                            	20000101	99999999	Vigente
+JMD    	JAMAICAN DOLLAR                         	20000101	99999999	Vigente
+JOD    	JORDANIAN DINAR                         	20000101	99999999	Vigente
+JPY    	YEN                                     	20000101	99999999	Vigente
+KES    	KENYAN SHILLING                         	20000101	99999999	Vigente
+KGS    	SOM                                     	20000101	99999999	Vigente
+KHR    	RIEL                                    	20000101	99999999	Vigente
+KMF    	COMORO FRANC                            	20000101	99999999	Vigente
+KPW    	NORTH KOREAN WON                        	20000101	99999999	Vigente
+KRW    	WON                                     	20000101	99999999	Vigente
+KWD    	KUWAITI DINAR                           	20000101	99999999	Vigente
+KYD    	CYMAN ISL. DOLLAR                       	20000101	99999999	Vigente
+KZT    	TENGE                                   	20000101	99999999	Vigente
+LAK    	KIP                                     	20000101	99999999	Vigente
+LBP    	LEBANESE POUND                          	20000101	99999999	Vigente
+LEU    	RUMANIA                                 	20050315	99991231	Vigente
+LKR    	SRI LANKA RUPEE                         	20000101	99999999	Vigente
+LRD    	LIBERIAN DOLLAR                         	20000101	99999999	Vigente
+LSL    	LOTI                                    	20000101	99999999	Vigente
+LTL    	LITAS                                   	20000101	99999999	Vigente
+LUF    	LUXEMBOURG FRANC                        	20000101	99999999	Vigente
+LVL    	LATVIA LATS                             	20000101	99999999	Vigente
+LYD    	LIBYAN DINAR                            	20000101	99999999	Vigente
+MAD    	MOROCCAN DIRHAM                         	20000101	99999999	Vigente
+MDL    	MOLDOVAN LEU                            	20000101	99999999	Vigente
+MGF    	MALAGASY FRANC                          	20000101	99999999	Vigente
+MKD    	DENAR                                   	20000101	99999999	Vigente
+MMK    	KYAT                                    	20000101	99999999	Vigente
+MNT    	TUGRIK                                  	20000101	99999999	Vigente
+MOP    	PATACA                                  	20000101	99999999	Vigente
+MRO    	OUGUIYA                                 	20000101	99999999	Vigente
+MTL    	MALTA LIRA                              	20000101	99999999	Vigente
+MUR    	MAURITIUS RUPEE                         	20000101	99999999	Vigente
+MVR    	RUFIYAA                                 	20000101	99999999	Vigente
+MWK    	KWACHA                                  	20000101	99999999	Vigente
+MXN    	NUEVO PESO                              	20000101	99999999	Vigente
+MXV    	---                                     	20000101	99999999	Vigente
+MYR    	MALASIAN RINGGIT                        	20000101	99999999	Vigente
+MZM    	METICAL                                 	20000101	99999999	Vigente
+NAD    	NAMIBIAN DOLLAR                         	20000101	99999999	Vigente
+NGN    	NAIRA                                   	20000101	99999999	Vigente
+NIO    	CORDOBA ORO                             	20000101	99999999	Vigente
+NLG    	NETHERLANDS GUILDER                     	20000101	99999999	Vigente
+NOK    	NORWEGIAN KRONE                         	20000101	99999999	Vigente
+NPR    	NEPALESE RUPEE                          	20000101	99999999	Vigente
+NZD    	NEW ZEALAND DOLLAR                      	20000101	99999999	Vigente
+OMR    	RIAL OMANI                              	20000101	99999999	Vigente
+PAB    	BALBAO                                  	20000101	99999999	Vigente
+PEN    	NUEVO SOL                               	20000101	99999999	Vigente
+PGK    	KINA                                    	20000101	99999999	Vigente
+PHP    	PHILIPPINE PESO                         	20000101	99999999	Vigente
+PKR    	PAKISTAN RUPEE                          	20000101	99999999	Vigente
+PLN    	ZLOTY                                   	20000101	99999999	Vigente
+PTE    	PORTUGUESE ESCUDO                       	20000101	99999999	Vigente
+PYG    	GUARANI                                 	20000101	99999999	Vigente
+QAR    	QATARI RIAL                             	20000101	99999999	Vigente
+ROL    	LEI                                     	20000101	99999999	Vigente
+RUB    	NEW RUSSIAN ROUBLE                      	20000101	99999999	Vigente
+RUR    	RUSSIAN ROUBLE                          	20000101	99999999	Vigente
+RWF    	TWANDA FRANC                            	20000101	99999999	Vigente
+SAR    	SAUDI RIYAL                             	20000101	99999999	Vigente
+SBD    	SOLOMON ISL. DOLLAR                     	20000101	99999999	Vigente
+SCR    	SEYCHELLES RUPEE                        	20000101	99999999	Vigente
+SDD    	SUDANESE DINAR                          	20000101	99999999	Vigente
+SEK    	SWEDISH KRONA                           	20000101	99999999	Vigente
+SGD    	SINGAPORE DOLLAR                        	20000101	99999999	Vigente
+SHP    	---                                     	20000101	99999999	Vigente
+SIT    	SLOVENIA TOLAR                          	20000101	99999999	Vigente
+SKK    	SLOVAK KORUNA                           	20000101	99999999	Vigente
+SLL    	LEONE                                   	20000101	99999999	Vigente
+SOS    	SOMALI SHILLING                         	20000101	99999999	Vigente
+SRG    	SURINAN GUILDER                         	20000101	99999999	Vigente
+STD    	DOBRA                                   	20000101	99999999	Vigente
+SVC    	EL SALVADOR COLON                       	20000101	99999999	Vigente
+SYP    	SYRIAN POUND                            	20000101	99999999	Vigente
+SZL    	LILANGENI                               	20000101	99999999	Vigente
+THB    	BATH                                    	20000101	99999999	Vigente
+TI$    	TASA INT. MORATORIA (D?LARES)           	20000101	99991231	Vigente
+TIE    	TASA INT. PASIVA MONEDA EXTRANJERA      	20000101	99991231	Vigente
+TIS    	TASA INT. MORATORIA (SOLES)             	20000101	99991231	Vigente
+TJR    	TAJIK ROUBLE                            	20000101	99999999	Vigente
+TLE    	TASA DE INT.LEGAL EN M.EXTRANJERA       	20000101	99991231	Vigente
+TLN    	TASA DE INT.LEGAL EN M.NACIONAL         	20000101	99991231	Vigente
+TME    	TASA MONEDA EXTRANJERA                  	20000101	99991231	Vigente
+TMM    	TURKMENISTAN MANAT                      	20000101	99999999	Vigente
+TMN    	TASA MONEDA NACIONAL                    	20000101	99991231	Vigente
+TND    	TUNISIAN DINAR                          	20000101	99999999	Vigente
+TOP    	PAANGA                                  	20000101	99999999	Vigente
+TPE    	---                                     	20000101	99999999	Vigente
+TRL    	TURKISH LIRA                            	20000101	99999999	Vigente
+TTD    	T & T DOLLAR                            	20000101	99999999	Vigente
+TWD    	NEW TAIWAN DOLLAR                       	20000101	99999999	Vigente
+TZS    	TANZANIAN SHILLING                      	20000101	99999999	Vigente
+UAH    	HRYVNIA                                 	20000101	99999999	Vigente
+UGX    	UGANDA SHILLING                         	20000101	99999999	Vigente
+USD    	US DOLLAR                               	20000101	99999999	Vigente
+USN    	---                                     	20000101	99999999	Vigente
+USS    	---                                     	20000101	99999999	Vigente
+UYU    	PESO URUGUAYO                           	20000101	99999999	Vigente
+UZS    	UZBEKISTAN SUM                          	20000101	99999999	Vigente
+VEB    	BOLIVAR                                 	20000101	20120331	No Vigente
+VEF    	BOLIVAR FUERTE                          	20080215	99991231	Vigente
+VND    	DONG                                    	20000101	99999999	Vigente
+VUV    	VATU                                    	20000101	99999999	Vigente
+WST    	TALA                                    	20000101	99999999	Vigente
+X01    	NUEVO DINAR                             	20000101	99991231	Vigente
+X02    	PESO ANDINO                             	20000101	99991231	Vigente
+X03    	ECU (EUR.CURR.UNIT)                     	20000101	99991231	Vigente
+X04    	CERT.LIBRE DISPONI.                     	20000101	99991231	Vigente
+X05    	FRANCO-GUAYANA FRANCESA                 	20000101	99991231	Vigente
+X06    	RUBLO-C.E.I                             	20000101	99991231	Vigente
+X07    	RAND-REP.SUDAFRICANA                    	20000101	99991231	Vigente
+XAF    	CFA FRANC                               	20000101	99999999	Vigente
+XCD    	EAST CARIBBEAN DOLLAR                   	20000101	99999999	Vigente
+XDR    	---                                     	20000101	99999999	Vigente
+XEU    	EURO                                    	20000101	99999999	Vigente
+XOF    	CFA FRANC                               	20000101	99999999	Vigente
+XPF    	CFP FRANC                               	20000101	99999999	Vigente
+YER    	YEMENI RIAL                             	20000101	99999999	Vigente
+YUM    	YUGOSLAVIAN DINAR                       	20000101	99999999	Vigente
+ZAL    	---                                     	20000101	99999999	Vigente
+ZAR    	RAND                                    	20000101	20011219	No Vigente
+ZMK    	KWACHA                                  	20000101	99999999	Vigente
+ZRN    	---                                     	20000101	99999999	Vigente
+ZWD    	ZIMBABWE DOLLAR                         	20000101	99999999	Vigente

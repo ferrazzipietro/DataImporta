@@ -15,3 +15,4 @@ create table all_countries (
     type CHAR(3) );
 
 
+

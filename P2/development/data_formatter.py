@@ -1,8 +1,20 @@
+#import os  
+#os.environ['PYSPARK_SUBMIT_ARGS'] = '--packages org.apache.spark:spark-avro_2.12:3.2.1 pyspark-shell'    
+
 from pyspark.sql import SparkSession
+from pyspark import SparkConf
+from pyspark import SparkContext
 from pyspark.sql import Row
 import re
+spark_conf = SparkConf().setMaster("local").setAppName("app")\
+    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
+    .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
+    
 
-spark = SparkSession.builder.getOrCreate()
+sc = SparkContext(conf=spark_conf)
+spark = SparkSession(sc)
+
+#spark = SparkSession.builder.getOrCreate()
 
 #------------------------------------------------------
 # FUNCTIONS
@@ -160,7 +172,6 @@ def main_peru(path_to_avro=True, path_to_metadata=True):
     string = [False, False, False, True]
     operation = ["+", "+", "/", "+"]
     
-    print("inizio il secondo")
     
     for i in range(0, len(dest_col_name)):
         rdds.append(create_composed_columns(rdds[n_merging + i], source_col_names[i], dest_col_name[i], string[i], operation[i])) 
@@ -180,7 +191,7 @@ def main_peru(path_to_avro=True, path_to_metadata=True):
     # ADDING COUNTRY NAME and "IMP" label
     rdds.append(rdds[n_combining + n_merging + 2].map(lambda l: insert(l, "country", "peru")).map(lambda l: insert(l, "type", "IMP")))
     
-    print(rdds[n_combining + n_merging + 3].take(1), "\n\n\n")
+    # print(rdds[n_combining + n_merging + 3].take(1), "\n\n\n")
     return(rdds[n_combining + n_merging + 3])
 #------------------------------------------------------
 
@@ -199,7 +210,7 @@ def general_main(country, data_type, merging, combining, changing, path_to_avro,
     df = spark.read.format('avro').load(path_to_avro)
     rdd=df.rdd
     
-    print(rdd.take(1))
+    # print(rdd.take(1))
     iteration_merging = 0
     rdds = []
     rdds.append(rdd)
@@ -252,7 +263,7 @@ def general_main(country, data_type, merging, combining, changing, path_to_avro,
     
     # ADDING COUNTRY NAME and "IMP" label
     rdds.append(rdds[iteration_merging + iteration_combining + 2].map(lambda l: insert(l, "country", country)).map(lambda l: insert(l, "type", data_type)))
-    print(rdds[iteration_merging + iteration_combining + 3].take(1))
+    # print(rdds[iteration_merging + iteration_combining + 3].take(1))
     return(rdds[iteration_merging + iteration_combining + 3])
 #------------------------------------------------------
 
@@ -348,7 +359,7 @@ def main():
     # data_peru = user_define_formatting("peru")
     peruDF = data_peru.toDF()
 
-    properties = {"user": "pietro", "password": "password", "driver": 'org.postgresql.Driver'}
+    properties = {"user": "pietro", "password": "ropby8pietro", "driver": 'org.postgresql.Driver'}
     url = "jdbc:postgresql://localhost:5432/dataimporta"
 
     chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",

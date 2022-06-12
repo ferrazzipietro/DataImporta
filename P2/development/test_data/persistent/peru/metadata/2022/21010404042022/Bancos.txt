@@ -1,0 +1,59 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia
+001    	BANCO CENTRAL DE RESERVA DEL PERU                                     	19960101	99991231	Vigente
+002    	BANCO DE CREDITO DEL PERU                                             	19960101	99991231	Vigente
+003    	BANCO INTERNACIONAL DEL PERU                                          	19960101	99991231	Vigente
+005    	BANCO LATINO                                                          	19960101	99991231	Vigente
+007    	BANCO CITIBANK N.A.                                                   	19960101	99991231	Vigente
+008    	BANCO STANDARD CHARTERED                                              	19960101	99991231	Vigente
+009    	BCO.SCOTIABANK PERU SAA (ANTES WIESE SUDAMERIS)                       	19960101	99991231	Vigente
+011    	BANCO CONTINENTAL                                                     	19960101	99991231	Vigente
+012    	BANCO DE LIMA                                                         	19960101	20000419	No Vigente
+016    	BANCO MERCANTIL DEL PERU                                              	19960101	19991231	No Vigente
+018    	BANCO DE LA NACION                                                    	19960101	99991231	Vigente
+022    	BANCO SANTANDER CENTRAL HISPANO                                       	19960101	20030228	No Vigente
+023    	BANCO COMERCIO                                                        	19960101	99991231	Vigente
+025    	BANCO REPUBLICA                                                       	19960101	19991231	No Vigente
+026    	BANCO NORBANK                                                         	19960101	99991231	Vigente
+029    	BANCO DEL SUR DEL PERU                                                	19960101	20000427	No Vigente
+035    	BANCO FINANCIERO DEL PERU                                             	19960101	99991231	Vigente
+037    	BANCO DEL PROGRESO                                                    	19960101	99991231	Vigente
+038    	BANCO INTERAMERICANO DE FINANZAS                                      	19960101	99991231	Vigente
+039    	BANCO BANEX                                                           	19960101	19991231	No Vigente
+040    	BANCO NUEVO MUNDO                                                     	19960101	20001205	No Vigente
+041    	BANCO SUDAMERICANO                                                    	19960101	99991231	Vigente
+042    	BANCO DEL LIBERTADOR                                                  	19960101	19991231	No Vigente
+043    	BANCO DEL TRABAJO                                                     	19960101	99991231	Vigente
+044    	BANCO SOLVENTA                                                        	19960101	99991231	Vigente
+045    	BANCO SERBANCO                                                        	19960101	99991231	Vigente
+046    	BANK BOSTON N.A. SUCURSAL DEL PERU                                    	19960101	99991231	Vigente
+047    	ORION CORPORACION DE CREDITO                                          	19960101	99991231	Vigente
+048    	BANCO NUEVO PAIS                                                      	19960101	99991231	Vigente
+049    	MIBANCO                                                               	19960101	99991231	Vigente
+050    	BANQUE NATIONALE DE PARIS - ANDES S.A.                                	19960101	99991231	Vigente
+053    	BANCO HSBC                                                            	20070117	99991231	Vigente
+056    	BANCO SANTANDER PERU S.A.                                             	20070809	99991231	Vigente
+071    	CORPORACION FINANCIERA DE DESARROLLO - COFIDE                         	19960101	99991231	Vigente
+072    	INTERFIP - FINANCIERA PERUANA                                         	19960101	19991231	No Vigente
+077    	FINANCIERA SAN PEDRO                                                  	19960101	19991231	No Vigente
+082    	PROMOTORA PERUANA                                                     	19960101	19991231	No Vigente
+083    	SOLUCION - FINANCIERA DE CREDITO DEL PERU                             	19960101	99991231	Vigente
+085    	FINANCIERA REGIONAL DEL SUR                                           	19960101	19991231	No Vigente
+086    	FINANDAEWOO S.A.                                                      	19960101	99991231	Vigente
+087    	FINANCIERA C.M.R.                                                     	19960101	99991231	Vigente
+088    	VOLVO FINANCE PERU                                                    	19960101	99991231	Vigente
+089    	FINANCIERA CORDILLERA S.A.                                            	19960101	99991231	Vigente
+091    	GENERALI PERU CIA. SEGUROS                                            	19960101	99991231	Vigente
+092    	LA VITALICIA                                                          	19960101	99991231	Vigente
+093    	REASEGURADORA PERUANA                                                 	19960101	99991231	Vigente
+094    	SEGUROS LA FENIX PERUANA                                              	19960101	99991231	Vigente
+095    	SECREX  CIA. SEGUROS                                                  	19960101	99991231	Vigente
+099    	OTROS                                                                 	19960101	99991231	Vigente
+904    	BANCO WIESSE LTDO.                                                    	19960101	20000418	No Vigente
+906    	BANDESCO                                                              	19960101	19991231	No Vigente
+909    	BANCO SANTANDER                                                       	19960101	20000426	No Vigente
+920    	BANCO REGIONAL DEL NORTE                                              	19960101	19991231	No Vigente
+924    	BANCO C.C.C DEL PERU                                                  	19960101	19991231	No Vigente
+925    	BANCO DE LOS ANDES                                                    	19960101	19991231	No Vigente
+926    	CAJA DE AHORROS DE LIMA                                               	19960101	19991231	No Vigente
+927    	BANCO CENTRAL HIPOTECARIO                                             	19960101	19991231	No Vigente
+928    	BANCO INDUSTRIAL                                                      	19960101	19991231	No Vigente

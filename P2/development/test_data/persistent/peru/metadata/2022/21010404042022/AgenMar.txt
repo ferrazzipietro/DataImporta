@@ -1,0 +1,531 @@
+Codigo  Agente_Maritimo                                                         Jurisdiccion                                Estado 
+0019   	ABRAHAM WOLL DAVILA S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0028   	SANTA SOFIA PUERTOS S.A.                                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+0028   	SANTA SOFIA PUERTOS S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0037   	AGENCIA MARITIMA COLUMBIA DEL PERU S.A.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+0046   	AGENCIA MARITIMA SAN CARLOS S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+0055   	MAR PISCO S R LTDA                                                    	PISCO                                   	HABILITADO
+0055   	MAR PISCO S.R.LTDA.                                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+0064   	RAMESA S.A.                                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+0073   	INTERNACIONAL S.A.                                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+0082   	AGENCIA DONNELLY S.A.                                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+0091   	REPRESENTACIONES PORTUARIAS                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+0118   	AGENCIA MARITIMA A. MORALES S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+0127   	CROMIUM AGENCIA NAVIERA S.A.                                          	A NIVEL NACIONAL                        	SUSPENDIDO
+0136   	FACILIDAD PORTUARIA S.A.C.                                            	MOLLENDO - MATARANI                     	HABILITADO
+0136   	FACILIDAD PORTUARIA S.A.C.                                            	ILO                                     	HABILITADO
+0136   	FACILIDAD PORTUARIA S.A.C.                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+0145   	SERV. PORTUARIOS Y COMERCIALES S.C.R.LTD                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0145   	SERVICIOS PORTUARIOS Y COMERCIALES SCRL                               	MOLLENDO - MATARANI                     	SUSPENDIDO
+0154   	SERV MARITIMOS Y REPRESENTACION ILO S A                               	MOLLENDO - MATARANI                     	SUSPENDIDO
+0154   	SERV MARITIMOS Y REPRESENTACION ILO S A                               	ILO                                     	SUSPENDIDO
+0154   	SERVICIOS MARITIMOS ILO S.A.  (SERMAR IL                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	MARITIMA DEL CALLAO                     	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	A NIVEL NACIONAL                        	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	TALARA                                  	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	AEREA DEL CALLAO                        	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	POSTAL DE LIMA                          	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	ILO                                     	CANCELADO
+0163   	TECNICA NAVIERA Y PORTUARIA S.A.                                      	PAITA                                   	CANCELADO
+0172   	THE PACIFIC NAVEGATION                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+0181   	AGENCIA EURO-PERU S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+0190   	HAMBURG SUD PERU S.A.                                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+0208   	CONCORDIA MARITIMA DEL SUR S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	IQUITOS                                 	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	PUCALLPA                                	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	TALARA                                  	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	CHIMBOTE                                	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	AEREA DEL CALLAO                        	SUSPENDIDO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	MARITIMA DEL CALLAO                     	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA S.A.                                          	A NIVEL NACIONAL                        	SUSPENDIDO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	LA TINA                                 	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	ILO                                     	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	PISCO                                   	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	SALAVERRY                               	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	MOLLENDO - MATARANI                     	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	PAITA                                   	HABILITADO
+0217   	COSMOS AGENCIA MARITIMA SAC                                           	TUMBES                                  	HABILITADO
+0226   	FAENAS PORTUARIAS                                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+0235   	MARITIMA PORTE%A                                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+0243   	AGENCIA MARITIMA OPERACION                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+0253   	AGENCIA DE ADUANA Y VAPORES LABARTHE S.A                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0262   	CHIMBOTE SHIPPING LINE S.R.LTDA.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+0271   	AGENCIA MARITIMA LIMA S.A.                                            	MARITIMA DEL CALLAO                     	SUSPENDIDO
+0271   	AGENCIA MARITIMA LIMA S.A.                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+0307   	REPRESENTACIONES NAVIERAS Y ADUANERAS S.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0307   	REPRESENTACIONES NAVIERAS Y ADUANERAS S.                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+0316   	SERVICIOS MARITIMO EL PACIFICO S.A.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+0325   	AGENCIA MARITIMA CESAR A. UGARTE GARRIDO                              	A NIVEL NACIONAL                        	SUSPENDIDO
+0343   	AGENTES MARITIMOS S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+0433   	AGENCIA MARITIMA MARKO BUSONICH                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+0442   	AGENCIA MARITIMA ALCATRAZ                                             	A NIVEL NACIONAL                        	SUSPENDIDO
+0442   	AGENCIA MARITIMA ALCATRAZ SA                                          	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1000   	MERCATOR SERVICIOS MARITIMOS S.A.                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+1001   	SERPIT S.A.                                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+1002   	AGENCIA MARITIMA AUGUSTO FARFAN S.A.C                                 	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1002   	AGENCIA MARITIMA AUGUSTO FARFAN C. S.A.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1003   	SERVIMAR                                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1004   	CONSORCIO EMPRESARIAL AGNAV S.A.                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1004   	CONSORCIO EMPRESARIAL AGNAV S.A.                                      	PISCO                                   	HABILITADO
+1004   	CONSORCIO EMPRESARIAL AGNAV S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+1005   	SERVICIOS MARITIMOS Y LOGISTICOS S.A.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+1005   	SERVICIOS MARITIMOS Y LOGISTICOS S.A.                                 	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1006   	MARITIMA ATENEA S.A.                                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+1006   	MARITIMA ATENEA S.A.                                                  	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1007   	NEPTUNIA S.A.                                                         	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1007   	NEPTUNIA S.A.                                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+1008   	ORION DEL PACIFICO AGENTES MARITIMOS S.A                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1009   	RAZAN S.A.                                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+1009   	RAZAN S.A.                                                            	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1010   	SERVICIOS LITORAL PACIFICO S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+1010   	SERVICIOS LITORAL PACIFICO S.A.                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1011   	SERVICIOS MARITIMOS Y REPRESENTACIONES I                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1012   	AGENCIA FLUVIAL Y TRANSPORTES CHAVEZ E.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1013   	AGENCIA FLUVIAL Y TRANSPORTES MARIÑO E.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1014   	AGENCIA FLUVIAL Y TRANSPORTES MONTENEGRO                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1015   	AGENCIA FLUVIAL Y TRANSPORTES NEYSER E.I                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1016   	AGENCIA FLUVIAL Y TRANSPORTES ROMISA E.I                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1017   	AGENCIA FLUVIAL Y TRANSPORTES LESLIE E.I                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1018   	AGENCIA FLUVIAL Y TRANSPORTES GRAU E.I.R                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1019   	AGENCIA FLUVIAL AMAZONICA DE SERVICIOS E                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1020   	AGENCIA FLUVIAL JOBEMAR E.I.R.LTDA.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+1021   	AGENCIA NAVIERA YURIMAGUAS E.I.R.LTDA.                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1022   	SERVICIOS FLUVIALES PIRAMIDE E.I.R.LTDA.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1023   	ESTIBAS UNIVERSALES S.A.                                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1023   	ESTIBAS UNIVERSALES S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1024   	PAITA SERVICE S.R.LTDA.                                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1025   	TECNIMARES S.A.                                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+1026   	TRIMAR S.A.                                                           	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1026   	TRIMAR S.A.                                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+1027   	AGENCIAMIENTOS MARITIMOS S R LTDA                                     	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1027   	AGENCIAMIENTOS MARITIMOS S.R.LTDA.                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+1028   	AGENCIA MARITIMA DEL SUR S.A.                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+1029   	EMPRESA DE SERVICIOS MARITIMOS SKORPIO S                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1030   	EMPRESA DE SERVICIOS CONTINENTAL S.R.L.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1031   	EMPRESA DE SERVICIOS JOPESA S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+1032   	MANUELA OLIVOS REYES S.R.L.                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+1033   	MARBA E.I.R.LTDA.                                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+1034   	MARES CHIMBOTE S.A.                                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+1035   	NAVIEROS CHIMBOTE S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1036   	SERVICIOS MANUALES CHIMBOTE S.R.LTDA.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+1037   	SERVICIOS MARITIMOS PORTUARIOS Y AFINES                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1038   	EMPRESA SIDERURGICA DEL PERU S.A.                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+1039   	EMP. DE SERVICIOS Y AG. MARITIMA LA POSI                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1040   	EMPRESA DE SERVICIOS MARITIMOS SUPE S.A.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1041   	CARGOMAR SA                                                           	MARITIMA DEL CALLAO                     	HABILITADO
+1041   	CARGOMAR SA                                                           	SEDE CENTRAL - CHUCUITO                 	HABILITADO
+1041   	CARGOMAR SA                                                           	MOLLENDO - MATARANI                     	SUSPENDIDO
+1041   	CARGOMAR SA                                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+1042   	ESDEMAR AGENCIAMIENTOS S.A.                                           	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1042   	ESDEMAR AGENCIAMIENTOS S.A.                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+1043   	SERVICIOS PORTUARIOS GALEON S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+1043   	SERVICIOS PORTUARIOS GALEON S.A.                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1044   	AGENTES DEL PACIFICO S.R.LTDA.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+1045   	OPERACIONES PORTUARIAS DEL PACIFICO S.R.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1046   	THE PACIFIC DEL SUR S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1047   	COOP.TRAB.FOMENTO DEL EMP.MARIT.CHICAMA                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1048   	COOP.TRAB.FOMENTO DEL EMP.MARIT.EXPRESS                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1049   	COOP.SERV.GENERALES JOSE ANDRES RAZURI                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1423   	COSCO PERU S.A.                                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+1423   	COSCO PERU S.A.                                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1432   	MILNE SERVICIOS MARITIMOS S A                                         	PISCO                                   	HABILITADO
+1432   	MILNE SERVICIOS MARITIMOS S A                                         	MARITIMA DEL CALLAO                     	HABILITADO
+1432   	MILNE SERVICIOS MARITIMOS S A                                         	AEREA DEL CALLAO                        	SUSPENDIDO
+1432   	MILNE SERVICIOS MARITIMOS S.A.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+1441   	INTERAMERICA AGENCIA MARITIMA S.A.                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+1443   	PORTUARIA TAYLOR S.A.                                                 	MARITIMA DEL CALLAO                     	SUSPENDIDO
+1443   	PORTUARIA TAYLOR S.A.                                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+1450   	AGENCIA MARITIMA ALTAMAR                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1522   	MAERSK PERU S.A. O ALCONSA                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+1531   	AGENCIA FLUVIAL MARITIMA TERRESTRE MACC                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1531   	AGEN.FLUV.MARIT.TERRESTRE MACC E.I.R.LTD                              	IQUITOS                                 	HABILITADO
+1540   	AGENCIA NAVIERA MAYNAS S.A.                                           	IQUITOS                                 	HABILITADO
+1540   	AGENCIA NAVIERA MAYNAS                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1559   	NAVIERA FLUVIAL SAN SEBASTIAN SCRLTDA                                 	IQUITOS                                 	SUSPENDIDO
+1559   	NAVIERA FLUVIAL SAN SEBASTIAN S.C.R.L.                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1568   	AG. NAV. FLUV. PERCY ZEVALLOS C. E.I.R.L                              	IQUITOS                                 	HABILITADO
+1568   	PERCY ZEVALLOS CUADROS                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1577   	AGENCIA NAVIERA FLUVIAL PORTILLO S.A. - ANAFLUSA                      	A NIVEL NACIONAL                        	SUSPENDIDO
+1586   	AGENCIA NAVIERA FLUVIAL JAVIER E.I.R.L.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1595   	AGENCIA NAVIERA FLUVIAL LORETO E.I.R.L.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+1603   	AGENCIA NAVIERA FLUVIAL FREDDY MAR S.C.R                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1603   	AG NAV MARITIMA FLUVIAL SCRL FREDDY MAR                               	IQUITOS                                 	SUSPENDIDO
+1612   	AGENCIA NAVIERA FLUVIAL COSMOS SCR LTDA                               	IQUITOS                                 	SUSPENDIDO
+1612   	AGENCIA NAVIERA FLUVIAL COSMOS                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+1621   	AGENCIA NAVIERA FLUVIAL SANDRITA E.I.R.L                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1630   	AGENCIA NAVIERA FLUVIAL MARIO CESAR E.I.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1630   	AGENCIA NAVIERA FLUVIAL MARITIMA MARIO CESAR E.I.R                    	IQUITOS                                 	HABILITADO
+1649   	MARITIMA FLUVIAL SELVA S.R.LTDA.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+1658   	AGENCIA NAVIERA FLUVIAL Y TRANSPORTE CIT                              	A NIVEL NACIONAL                        	SUSPENDIDO
+1667   	AGENCIA NAVIERA MIGUEL GRAU S.R.LTDA                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+1676   	MARITIMA NACIONAL S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+1685   	SERVICIOS MARSHIP S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+2143   	ORION AGENCIA MARITIMA S.A.                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+2302   	OCEANO AGENCIA MARITIMA S.A.                                          	PAITA                                   	SUSPENDIDO
+2303   	IAN TAYLOR Y CIA S.A.C.                                               	PAITA                                   	SUSPENDIDO
+2304   	DOLPHIN REPRESENTACIONES SOCIEDAD ANONIM                              	PAITA                                   	SUSPENDIDO
+2440   	SOUTH PACIFIC AGENCY S.A.                                             	A NIVEL NACIONAL                        	SUSPENDIDO
+2905   	ITURRI AGENTES NAVIEROS S.A.C.                                        	SALAVERRY                               	SUSPENDIDO
+3101   	AGENCIA MARITIMA MARTINEZ VARGAS S.R.LTD                              	CHIMBOTE                                	SUSPENDIDO
+3102   	AGENCIA PORTUARIA S.A.C.AGENCIA MARITIMA                              	CHIMBOTE                                	SUSPENDIDO
+3103   	PORT LOGISTICS S.A.C.                                                 	CHIMBOTE                                	SUSPENDIDO
+3104   	PORT LOGISTICS S.A.C.                                                 	CHIMBOTE                                	SUSPENDIDO
+3105   	SEA SERVICE S.A.C.                                                    	CHIMBOTE                                	SUSPENDIDO
+3109   	MEGA SHIPPING S.A.C.                                                  	CHIMBOTE                                	SUSPENDIDO
+3111   	TECNOLOGIA PORTUARIA S.A.C                                            	CHIMBOTE                                	SUSPENDIDO
+3131   	BERTLING LOGISTICS (PERU) S.A.C.                                      	CHIMBOTE                                	SUSPENDIDO
+3200   	AGENCIA MARITIMA CANTON S.A.C.                                        	CHIMBOTE                                	SUSPENDIDO
+3211   	MULTIMAR S.A.                                                         	CHIMBOTE                                	SUSPENDIDO
+3232   	TRANS-PERU SHIPPING S.A.C.                                            	MARITIMA DEL CALLAO                     	HABILITADO
+3232   	TRANS-PERU SHIPPING S.A.C.                                            	SEDE CENTRAL - CHUCUITO                 	CANCELADO
+3299   	AGENCIA DE PRUEBA TEMPORAL PARA CHIMBOTE                              	CHIMBOTE                                	SUSPENDIDO
+3401   	GREENANDES S.A.C.                                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+3401   	GREENANDES PERU S.A.C.                                                	MARITIMA DEL CALLAO                     	HABILITADO
+3402   	MEDITERRANEAN SHIPPING CO.PERU S.A.C.                                 	AEREA DEL CALLAO                        	SUSPENDIDO
+3402   	MEDITERRANEAN SHIPPING COMPANY DEL PERU SAC                           	PAITA                                   	HABILITADO
+3402   	MEDITERRANEAN SHIPPING COMPANY DEL PERU SAC                           	TALARA                                  	HABILITADO
+3402   	MEDITERRANEAN SHIPPING COMPANY DEL PERU SAC                           	LA TINA                                 	HABILITADO
+3402   	MEDITERRANEAN SHIPPING CO.PERU S.A.C.                                 	POSTAL DE LIMA                          	SUSPENDIDO
+3402   	MEDITERRANEAN SHIPPING COMPANY DEL PERU SAC                           	MARITIMA DEL CALLAO                     	HABILITADO
+3402   	MEDITERRANEAN SHIPPING CO.PERU S.A.C.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	AEREA DEL CALLAO                        	SUSPENDIDO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	LA TINA                                 	HABILITADO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	TALARA                                  	HABILITADO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	PAITA                                   	HABILITADO
+3403   	EMPRESA MARITIMA DEL SUR S.A.C.                                       	MARITIMA DEL CALLAO                     	HABILITADO
+3404   	AMERANDES TRANSPORTES LOGISTICOS S.A.C.                               	CHIMBOTE                                	SUSPENDIDO
+3405   	KAWASAKI DEL PERU S A                                                 	AEREA DEL CALLAO                        	SUSPENDIDO
+3405   	KAWASAKI DEL PERU S A                                                 	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3406   	IAN TAYLOR PERU S.A.C                                                 	PAITA                                   	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	SALAVERRY                               	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	PISCO                                   	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	MOLLENDO - MATARANI                     	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	LA TINA                                 	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	TALARA                                  	HABILITADO
+3406   	IAN TAYLOR PERU S.A.C                                                 	MARITIMA DEL CALLAO                     	HABILITADO
+3407   	POLARIS E.I.R.L.                                                      	MARITIMA DEL CALLAO                     	HABILITADO
+3408   	DOLMAR REPRESENTACIONES SOCIEDAD ANONIMA CERRADA                      	TALARA                                  	HABILITADO
+3408   	DOLMAR REPRESENTACIONES SOCIEDAD ANONIMA CERRADA                      	LA TINA                                 	HABILITADO
+3408   	DOLMAR REPRESENTACIONES SOCIEDAD ANONIMA CERRADA                      	MARITIMA DEL CALLAO                     	HABILITADO
+3408   	DOLMAR REPRESENTACIONES SOCIEDAD ANONIMA                              	AEREA DEL CALLAO                        	SUSPENDIDO
+3408   	DOLMAR REPRESENTACIONES SOCIEDAD ANONIMA CERRADA                      	PAITA                                   	HABILITADO
+3410   	DELTA MAR                                                             	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3412   	ALMACENES MUNDO S.A.                                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+3419   	SEGANPORT S.A.                                                        	AEREA DEL CALLAO                        	SUSPENDIDO
+3421   	PORTUARIA ANGLO PERUANA AGENCIA MARITIMA                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3421   	PORTUARIA ANGLO PERUANA AGENCIA MARITIMA                              	A NIVEL NACIONAL                        	SUSPENDIDO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	ILO                                     	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	CHIMBOTE                                	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	MARITIMA DEL CALLAO                     	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	TALARA                                  	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	LA TINA                                 	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	AEREA DEL CALLAO                        	SUSPENDIDO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	PAITA                                   	HABILITADO
+3422   	OCEANO AGENCIA MARITIMA S.A.                                          	MOLLENDO - MATARANI                     	HABILITADO
+3429   	POTAN INTERAMERICANA S.A.                                             	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3450   	BROOM PERU S.A.C.                                                     	PAITA                                   	HABILITADO
+3450   	BROOM PERU S.A.C.                                                     	TALARA                                  	HABILITADO
+3450   	BROOM PERU S.A.C.                                                     	LA TINA                                 	HABILITADO
+3450   	BROOM PERU S.A.C..                                                    	AEREA DEL CALLAO                        	SUSPENDIDO
+3450   	BROOM PERU S.A.C.                                                     	MARITIMA DEL CALLAO                     	HABILITADO
+3450   	BROOM PERU S.A.C..                                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+3451   	AGENCIA PORTUARIA S.A.C.AGENCIA MARITIMA                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3451   	AGENCIA PORTUARIA S.A.C.AGENCIA MARITIMA                              	CHIMBOTE                                	SUSPENDIDO
+3451   	AGENCIA PORTUARIA S.A.C.AGENCIA MARITIMA                              	A NIVEL NACIONAL                        	SUSPENDIDO
+3452   	SERVICIOS EJECUTIVOS COMERCIALES S A                                  	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3452   	SERVICIOS EJECUTIVOS COMERCIALES S A                                  	AEREA DEL CALLAO                        	SUSPENDIDO
+3452   	SERVICIOS EJECUTIVOS COMERCIALES S A                                  	POSTAL DE LIMA                          	SUSPENDIDO
+3453   	TRANSMERIDIAN S.A.C.                                                  	MARITIMA DEL CALLAO                     	HABILITADO
+3453   	TRANSMERIDIAN S.A.C.                                                  	CHIMBOTE                                	SUSPENDIDO
+3453   	TRANSMERIDIAN S.A.C.                                                  	AEREA DEL CALLAO                        	SUSPENDIDO
+3454   	NAVIMAR S.A.C.                                                        	MARITIMA DEL CALLAO                     	SUSPENDIDO
+3801   	PERU PACIFIC S.A.C.                                                   	PISCO                                   	SUSPENDIDO
+4088   	AGENCIA MARITIMA DE BARCOS S.A.                                       	PAITA                                   	SUSPENDIDO
+4088   	AGENCIA MARITIMA DE BARCOS S.A.                                       	AEREA DEL CALLAO                        	SUSPENDIDO
+4088   	AGENCIA MARITIMA DE BARCOS S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+4101   	OCEANO AGENCIA MARITIMA S.A.                                          	MOLLENDO - MATARANI                     	SUSPENDIDO
+4420   	MARITIMA OCEANO S.A.                                                  	MARITIMA DEL CALLAO                     	SUSPENDIDO
+4420   	MARITIMA OCEANO S.A.                                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+5000   	PORT LOGISTICS S.A.C.                                                 	AEREA DEL CALLAO                        	SUSPENDIDO
+5001   	IP SERVICIOS MARITIMOS S.A.C.                                         	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5002   	LOGISTICA INTEGRAL CALLAO S.A. LICSA                                  	CHIMBOTE                                	SUSPENDIDO
+5003   	AGENCIA MARITIMA PERUANA S.A.C.                                       	AEREA DEL CALLAO                        	SUSPENDIDO
+5003   	AGENCIA MARITIMA PERUANA S.A.C.                                       	POSTAL DE LIMA                          	SUSPENDIDO
+5004   	CHIMBOTE SERVICIOS GENERALES SOCIEDAD AN                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5004   	CHIMBOTE SERVICIOS GENERALES SOCIEDAD ANONIMA CERR                    	POSTAL DE LIMA                          	SUSPENDIDO
+5004   	CHIMBOTE SERVICIOS GENERALES SOCIEDAD ANONIMA CERR                    	AEREA DEL CALLAO                        	SUSPENDIDO
+5005   	AGENCIA NAVIERA FLUVIAL TRANSPORTES FRIMAR S.R.L.                     	IQUITOS                                 	SUSPENDIDO
+5006   	NAVIERA TUNAMAR SOCIEDAD ANONIMA CERRADA                              	AEREA DEL CALLAO                        	SUSPENDIDO
+5006   	NAVIERA TUNAMAR SOCIEDAD ANONIMA CERRADA - NAVITUN                    	CHIMBOTE                                	HABILITADO
+5006   	NAVIERA TUNAMAR SOCIEDAD ANONIMA CERRADA - NAVITUN                    	MARITIMA DEL CALLAO                     	HABILITADO
+5008   	SERVICIOS FLUVIALES COSMOS E.I.R.L.                                   	IQUITOS                                 	HABILITADO
+5009   	TERMINALES PORTUARIOS PERUANOS SAC                                    	MARITIMA DEL CALLAO                     	HABILITADO
+5009   	TERMINALES PORTUARIOS PERUANOS SAC                                    	TALARA                                  	HABILITADO
+5009   	TERMINALES PORTUARIOS PERUANOS SAC                                    	LA TINA                                 	HABILITADO
+5009   	TERMINALES PORTUARIOS PERUANOS SAC                                    	PAITA                                   	HABILITADO
+5010   	MARITIMA DEL WORLD S.A.                                               	AEREA DEL CALLAO                        	SUSPENDIDO
+5010   	MARITIMA DEL WORLD S.A.C.                                             	MARITIMA DEL CALLAO                     	HABILITADO
+5011   	TMA S.A.C.                                                            	AEREA DEL CALLAO                        	SUSPENDIDO
+5011   	TMA S.A.C.                                                            	PISCO                                   	HABILITADO
+5011   	TMA S.A.C.                                                            	LA TINA                                 	HABILITADO
+5011   	TMA S.A.C.                                                            	MARITIMA DEL CALLAO                     	HABILITADO
+5011   	TMA S.A.C.                                                            	TALARA                                  	HABILITADO
+5011   	TMA S.A.C.                                                            	PAITA                                   	HABILITADO
+5011   	TMA S.A.C.                                                            	ILO                                     	HABILITADO
+5012   	BARWIL PERU S.A.                                                      	MARITIMA DEL CALLAO                     	HABILITADO
+5013   	MARITIMA MERCANTIL SOCIEDAD ANONIMA CERRADA                           	PISCO                                   	HABILITADO
+5013   	MARITIMA MERCANTIL SOCIEDAD ANONIMA CERRADA                           	MARITIMA DEL CALLAO                     	HABILITADO
+5014   	YACHT MARITIME DOCUMENT S.A.C - YMD  S.A.C                            	MARITIMA DEL CALLAO                     	HABILITADO
+5015   	AGENCIA PORTUARIA S.A.C. AGENCIA MARITIMA                             	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5017   	NAVIERA FLUVIAL, SERVICIOS Y TRANSPORTES AMAZONICA                    	IQUITOS                                 	HABILITADO
+5019   	MARITIMA OCEANICA S.A.C.                                              	CHIMBOTE                                	HABILITADO
+5019   	MARITIMA OCEANICA S.A.C.                                              	MARITIMA DEL CALLAO                     	HABILITADO
+5020   	ASIA MARITIMA S.A.C.                                                  	MARITIMA DEL CALLAO                     	HABILITADO
+5022   	COSCO PERU S.A                                                        	MARITIMA DEL CALLAO                     	HABILITADO
+5023   	ITURRI AGENTES NAVIEROS SOCIEDAD ANONIMA CERRADA                      	SALAVERRY                               	SUSPENDIDO
+5024   	WILHELMSEN SHIPS SERVICE PERU S.A.                                    	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5025   	CORPORACION MARITIMA ANDINA SOCIEDAD ANONIMA CERRA                    	MARITIMA DEL CALLAO                     	HABILITADO
+5026   	LOGISTICA DEL MAR S.A.C. - LOGMAR S.A.C.                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5027   	M & B AGENCIA MARITIMA S.A.C.                                         	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5028   	VESSEL NEEDS SOCIEDAD ANONIMA CERRADA                                 	MARITIMA DEL CALLAO                     	HABILITADO
+5029   	AGENCIA MARITIMA MARVAR S.A.C.                                        	SALAVERRY                               	SUSPENDIDO
+5030   	MAERSK LINE PERU S.A.C.                                               	TALARA                                  	HABILITADO
+5030   	MAERSK LINE PERU S.A.C.                                               	LA TINA                                 	HABILITADO
+5030   	MAERSK LINE PERU S.A.C.                                               	MARITIMA DEL CALLAO                     	HABILITADO
+5030   	MAERSK LINE PERU S.A.C.                                               	PAITA                                   	HABILITADO
+5040   	INVERSIONES MARITIMAS DEL PACIFICO SUR S.A.C.                         	MOLLENDO - MATARANI                     	HABILITADO
+5040   	INVERSIONES MARITIMAS DEL PACIFICO SUR S.A.C.                         	SALAVERRY                               	HABILITADO
+5040   	INVERSIONES MARITIMAS DEL PACIFICO SUR S.A.C.                         	ILO                                     	HABILITADO
+5040   	INVERSIONES MARITIMAS DEL PACIFICO SUR S.A.C.                         	MARITIMA DEL CALLAO                     	HABILITADO
+5041   	TRANSTOTAL AGENCIA MARITIMA S.A.                                      	SEDE CENTRAL - CHUCUITO                 	HABILITADO
+5041   	TRANSTOTAL AGENCIA MARITIMA S.A.                                      	MOLLENDO - MATARANI                     	HABILITADO
+5041   	TRANSTOTAL AGENCIA MARITIMA S.A.                                      	SALAVERRY                               	HABILITADO
+5041   	TRANSTOTAL AGENCIA MARITIMA S.A.                                      	MARITIMA DEL CALLAO                     	HABILITADO
+5042   	PETROTANKERS SAC                                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5043   	TECNICA NAVIERA Y PORTUARIA S A                                       	PAITA                                   	SUSPENDIDO
+5043   	TECNICA NAVIERA Y PORTUARIA S A                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5044   	RIO AZUL MULTISERVICIOS S.R.L.                                        	IQUITOS                                 	SUSPENDIDO
+5045   	AGENCIA MARITIMA HUA YANG S.A.C.                                      	MARITIMA DEL CALLAO                     	HABILITADO
+5045   	AGENCIA MARITIMA HUA YANG S.A.C.                                      	LIMA METROPOLITANA                      	HABILITADO
+5046   	JENNIFER & RONALD SERVICIOS EMPRESA INDIVIDUAL DE                     	MOLLENDO - MATARANI                     	HABILITADO
+5047   	AGENCIA NAVIERA MARITIMA FLUVIAL, TRANSPORTE DE CA                    	IQUITOS                                 	HABILITADO
+5048   	ROZO & COMPAÑIA (PERU) S.A.C.                                         	MARITIMA DEL CALLAO                     	HABILITADO
+5048   	ROZO & COMPAÑIA (PERU) S.A.C.                                         	PISCO                                   	HABILITADO
+5049   	ISS MARINE SERVICES S.A.C-ISSMS S.A.C                                 	MARITIMA DEL CALLAO                     	HABILITADO
+5050   	EMPRESA MARITIMA ARIES SOCIEDAD ANONIMA CERRADA -                     	MARITIMA DEL CALLAO                     	HABILITADO
+5050   	EMPRESA MARITIMA ARIES SOCIEDAD ANONIMA CERRADA -                     	PAITA                                   	HABILITADO
+5051   	SOS SHIPS SERVICE PERU SOCIEDAD ANONIMA CERRADA                       	MARITIMA DEL CALLAO                     	HABILITADO
+5052   	SKANDINAVIAN AGENCY SERVICES CONSULTING S.A.C.                        	MARITIMA DEL CALLAO                     	HABILITADO
+5203   	EMPRESA LINEAS MARITIMAS ARGENTINAS S.A.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+5350   	JAPAN TUNA DEL PERU S.A.                                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+5350   	JAPAN TUNA DEL PERU S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+5401   	AGENCIA MARITIMA FLUVIAL Y TRANSPORTES DE CARGA R&                    	IQUITOS                                 	SUSPENDIDO
+5402   	AGENCIA NAVIERA EL MONITOR EIR.LTDA                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+5403   	TORRES ELESPURU FERNANDO RAFAEL                                       	IQUITOS                                 	SUSPENDIDO
+5404   	AGENCIA NAVIERA MARITIMA,FLUVIAL, TRANSPORTES Y SE                    	IQUITOS                                 	HABILITADO
+5405   	EMPRESA DE SERVICIOS MULTIMODALES PIRAMI                              	IQUITOS                                 	SUSPENDIDO
+5406   	NEGOCIOS NOR ORIENTE S.C.R.L.                                         	IQUITOS                                 	SUSPENDIDO
+5690   	TRANSPORTES INTERANDINOS LTDA.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+6040   	NAVIERA NEPTUNO                                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+6086   	NAVIERA SANTA SOFIA S.A.                                              	A NIVEL NACIONAL                        	SUSPENDIDO
+6202   	FLETAMAR S.A.                                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+6330   	REPRESENTACIONES DEL PACIFICO S.A.                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+6511   	AGENCIA MARITIMA PESCA PERU                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+6611   	VARTOSA S.A.                                                          	A NIVEL NACIONAL                        	SUSPENDIDO
+6990   	AMINSA S.A.                                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+6991   	MARCARGO S.A.                                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+6992   	MOISES WOLL S.A.                                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+6992   	MOISES WOLL S.A.                                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+6995   	AGENCIA MARITIMA DE PAITA S.A.                                        	MARITIMA DEL CALLAO                     	SUSPENDIDO
+6995   	AGENCIA MARITIMA DE PAITA S.A.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+6996   	AGENCIA MARITIMA ASIMAR SERVICES                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+6997   	AGENCIA MARITIMA TRANSPACIFICO S.A.                                   	MARITIMA DEL CALLAO                     	SUSPENDIDO
+6997   	AGENCIA MARITIMA TRANSPACIFICO S.A.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+6998   	UNIMAR S A                                                            	MOLLENDO - MATARANI                     	SUSPENDIDO
+6998   	UNIMAR S A                                                            	ILO                                     	SUSPENDIDO
+6998   	UNIMAR S A                                                            	PISCO                                   	HABILITADO
+6998   	UNIMAR S A                                                            	MARITIMA DEL CALLAO                     	HABILITADO
+6998   	UNIMAR S A                                                            	CHIMBOTE                                	SUSPENDIDO
+6998   	UNIMAR S A                                                            	PAITA                                   	HABILITADO
+6998   	UNIMAR S A                                                            	TALARA                                  	HABILITADO
+6998   	UNIMAR S A                                                            	LA TINA                                 	HABILITADO
+6998   	UNIMAR S A                                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+6999   	NAUTILIUS S.A.                                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+6999   	NAUTILIUS S.A.                                                        	MARITIMA DEL CALLAO                     	HABILITADO
+6999   	NAUTILIUS S.A.                                                        	AEREA DEL CALLAO                        	SUSPENDIDO
+7242   	PORTUARIA MARITIMA CALLAO S.A.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+7652   	SERPAC PORTUARIA S.A.C.                                               	LA TINA                                 	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	MARITIMA DEL CALLAO                     	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	SALAVERRY                               	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	A NIVEL NACIONAL                        	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	CHIMBOTE                                	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	MOLLENDO - MATARANI                     	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	PISCO                                   	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	PAITA                                   	HABILITADO
+7652   	SERPAC PORTUARIA S.A.C.                                               	TALARA                                  	HABILITADO
+7661   	AGENCIA MARITIMA INTERNACIONAL S A                                    	AEREA DEL CALLAO                        	SUSPENDIDO
+7661   	AGENCIA MARITIMA INTERNACIONAL S A                                    	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7661   	AGENCIA MARITIMA INTERNACIONAL S A                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+7668   	GYOREN DEL PERU S.A.                                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+7668   	GYOREN DEL PERU S.A.C.                                                	AEREA DEL CALLAO                        	SUSPENDIDO
+7668   	GYOREN DEL PERU S.A.C.                                                	MARITIMA DEL CALLAO                     	HABILITADO
+7670   	AGENCIA MARITIMA INTERNACIONAL S.A.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+7670   	AGENCIA MARITIMA INTERNACIONAL S.A.                                   	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7679   	INTERNATIONAL TRANSPORT SERVICES S.A.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+7679   	INTERNATIONAL TRANSPORT SERVICES S.A.                                 	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7688   	MULTINAV S.A.                                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+7697   	TRANSMARES REPRESENTACIONES MARITIMAS Y                               	A NIVEL NACIONAL                        	SUSPENDIDO
+7697   	TRANSMARES REPRE.MARITI.Y COMERC.S.A.C.                               	AEREA DEL CALLAO                        	SUSPENDIDO
+7697   	TRANSMARES REPRE.MARITI.Y COMERC.S.A.C.                               	MARITIMA DEL CALLAO                     	HABILITADO
+7706   	MARES PACIFICO S.A.                                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+7715   	AGENCIA MARITIMA KONIKASA S.A.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+7715   	AGENCIA MARITIMA KONIKASA S.A.C.                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7724   	NEPTUNO AGENCIAS MARITIMAS S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+7724   	NEPTUNO AGENCIAS MARITIMAS S.A.                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7733   	AGENCIA MARITIMA CONCORDIA                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+7742   	PORTUARIA MARITIMA CALLAO S.A                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	LA TINA                                 	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	PISCO                                   	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	TALARA                                  	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	SALAVERRY                               	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	A NIVEL NACIONAL                        	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	MARITIMA DEL CALLAO                     	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	PAITA                                   	HABILITADO
+7743   	REPRESENTAC.NAVIERAS Y ADUANERAS S.A.C                                	AEREA DEL CALLAO                        	HABILITADO
+7752   	TECNOLOGIA MARITIMA                                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+7761   	WILLIAM PERCY TAMOCHE AGENCIA MARITIMA                                	A NIVEL NACIONAL                        	SUSPENDIDO
+7770   	TRABAJOS MARITIMOS S.A.                                               	A NIVEL NACIONAL                        	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	AEREA DEL CALLAO                        	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	TALARA                                  	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	MARITIMA DEL CALLAO                     	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	PAITA                                   	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	SALAVERRY                               	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	PISCO                                   	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	MOLLENDO - MATARANI                     	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	CHIMBOTE                                	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	ILO                                     	HABILITADO
+7770   	TRABAJOS MARITIMOS S.A.                                               	LA TINA                                 	HABILITADO
+7780   	PERUKO MARITIMA S.A.                                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+7780   	PERUKO MARITIMA S.A.                                                  	POSTAL DE LIMA                          	SUSPENDIDO
+7780   	PERUKO MARITIMA S.A.                                                  	AEREA DEL CALLAO                        	SUSPENDIDO
+7790   	AGENCIA MARITIMA ROYAL S.A                                            	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7790   	AGENCIA MARITIMA ROYAL S.A                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+7795   	EMARCH S.A. - EMPRESA MARITIMA CHIMBOTE                               	A NIVEL NACIONAL                        	SUSPENDIDO
+7795   	EMPRESA MARITIMA CHIMBOTE S.A.                                        	AEREA DEL CALLAO                        	SUSPENDIDO
+7795   	EMPRESA MARITIMA CHIMBOTE S.A.-EMARCH S,                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7904   	OPERACIONES MARITIMAS Y PORTUARIAS - OMARPO S.C.R                     	A NIVEL NACIONAL                        	SUSPENDIDO
+7996   	INVERSIONES CANOPUS S.A.                                              	MARITIMA DEL CALLAO                     	HABILITADO
+7996   	INVERSIONES CANOPUS S.A.                                              	MOLLENDO - MATARANI                     	SUSPENDIDO
+7996   	INVERSIONES CANOPUS S.A.                                              	PISCO                                   	SUSPENDIDO
+7996   	INVERSIONES CANOPUS S.A.                                              	SALAVERRY                               	SUSPENDIDO
+7996   	INVERSIONES CANOPUS S.A                                               	A NIVEL NACIONAL                        	SUSPENDIDO
+7998   	MARITIMA RUBIO                                                        	MARITIMA DEL CALLAO                     	SUSPENDIDO
+7998   	MARITIMA RUBIO                                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+8000   	AGENCIA MARITIMA ATLANTICO S.A.                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8000   	AGENCIA MARITIMA ATLANTICO S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+8001   	AGENCIA MARITIMA DE PRUEBA                                            	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8002   	NORTH AGENCIES S.A.                                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+8010   	AGENCIAS MERCATOR S.A.                                                	A NIVEL NACIONAL                        	SUSPENDIDO
+8010   	AGENCIAS MERCATOR S.A.                                                	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8011   	AGENCIA MARITIMA Y NAVIERA MARKING                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+8011   	AGENCIA MARITIMA Y NAVIERA MARKING S.A.                               	TALARA                                  	SUSPENDIDO
+8011   	AGENCIA MARITIMA Y NAVIERA MARKING S.A.                               	PAITA                                   	SUSPENDIDO
+8011   	AGENCIA MARITIMA Y NAVIERA MARKING S.A.                               	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8020   	AG. MARITIMA CONTINENTAL S.A.                                         	A NIVEL NACIONAL                        	SUSPENDIDO
+8030   	SERVICIOS MARITIMOS S.A. SERMALSA                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+8039   	AGENCIA MARITIMA PORTUARIOS CALLAO                                    	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8039   	AGENCIA MARITIMA PORTUARIOS CALLAO                                    	A NIVEL NACIONAL                        	SUSPENDIDO
+8048   	TRANSPORTES Y SERVICIOS MARITIMOS MALBLU                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8048   	TRANSPORTES Y SERVICIOS MARITIMOS MALBLU                              	A NIVEL NACIONAL                        	SUSPENDIDO
+8048   	TRANSPORTES Y SERV. MARITIMOS MALBLU SAC                              	PAITA                                   	SUSPENDIDO
+8057   	RASAN S.A.                                                            	TALARA                                  	HABILITADO
+8057   	RASAN S.A.                                                            	MOLLENDO - MATARANI                     	HABILITADO
+8057   	RASAN S.A.                                                            	LA TINA                                 	HABILITADO
+8057   	RASAN S.A.                                                            	SALAVERRY                               	HABILITADO
+8057   	RASAN S.A.                                                            	PAITA                                   	HABILITADO
+8057   	RASAN S.A.                                                            	A NIVEL NACIONAL                        	HABILITADO
+8057   	RASAN S.A.                                                            	PISCO                                   	HABILITADO
+8057   	RASAN S.A.                                                            	MARITIMA DEL CALLAO                     	HABILITADO
+8066   	AGENCIA MARITIMA BETHELGEUS S.A.                                      	MARITIMA DEL CALLAO                     	SUSPENDIDO
+8066   	AGENCIA MARITIMA BETHELGEUS S.A.                                      	A NIVEL NACIONAL                        	SUSPENDIDO
+8075   	ZEUS MARITIME S.R.L. SHIPPING AGENCY AND                              	A NIVEL NACIONAL                        	SUSPENDIDO
+8075   	ZEUS MARITIME S.R.L. SHIPPING AGENCY AND                              	AEREA DEL CALLAO                        	SUSPENDIDO
+8075   	ZEUS MARITIME S.R.L. SHIPPING AGENCY AND BROCKERS                     	MARITIMA DEL CALLAO                     	HABILITADO
+8084   	TRANSPORTES Y SERV. MARITIMOS MALBLU SAC                              	PAITA                                   	SUSPENDIDO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	PISCO                                   	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	LA TINA                                 	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	ILO                                     	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	PAITA                                   	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	TALARA                                  	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	CHIMBOTE                                	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	SALAVERRY                               	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	MOLLENDO - MATARANI                     	HABILITADO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	AEREA DEL CALLAO                        	SUSPENDIDO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	A NIVEL NACIONAL                        	SUSPENDIDO
+8264   	AGENCIAS UNIVERSALES PERU S.A.                                        	MARITIMA DEL CALLAO                     	HABILITADO
+9010   	CARGONAVES S.A.                                                       	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9010   	CARGONAVES S.A.                                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+9100   	CONSULMAR AGENCIA MARITIMA                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+9109   	SOUTH SHIPPING LIMITED S A                                            	PISCO                                   	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	SALAVERRY                               	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	TALARA                                  	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+9109   	SOUTH SHIPPING LIMITED S A                                            	MARITIMA DEL CALLAO                     	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	AEREA DEL CALLAO                        	SUSPENDIDO
+9109   	SOUTH SHIPPING LIMITED S A                                            	LA TINA                                 	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	MOLLENDO - MATARANI                     	HABILITADO
+9109   	SOUTH SHIPPING LIMITED S A                                            	PAITA                                   	HABILITADO
+9155   	OPERACIONES OCEANICAS S.A.                                            	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9155   	OPERACIONES OCEANICAS S.A.                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+9164   	SERVICIOS Y OPERACIONES PORTUARIAS S.A.                               	A NIVEL NACIONAL                        	SUSPENDIDO
+9165   	AGENCIA MARITIMA MARTINEZ VARGAS S.R.LTD                              	A NIVEL NACIONAL                        	SUSPENDIDO
+9166   	ITURRI AGENTE MARITIMO S.A.                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+9166   	ITURRI AGENTE MARITIMO S.A.                                           	CHICLAYO                                	HABILITADO
+9166   	ITURRI AGENTE MARITIMO S.A.                                           	SALAVERRY                               	HABILITADO
+9167   	ITURRI GAYOSO AGENTES NAVIEROS S.A.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+9168   	MULLER Y CIA S.A.                                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+9174   	RGT MINERALES S.A. AGENCIA MARITIMA                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+9175   	AGENCIA MARITIMA SAN ANTONIO S.A.                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+9176   	MARSERVICE S.A.                                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+9176   	MARSERVICE S.A.C.                                                     	CHIMBOTE                                	HABILITADO
+9176   	MARSERVICE S.A.C.                                                     	MARITIMA DEL CALLAO                     	HABILITADO
+9176   	MARSERVICE S.A.C.                                                     	AEREA DEL CALLAO                        	SUSPENDIDO
+9177   	AGENCIA MARITIMA GENESIS S.A.C.                                       	SALAVERRY                               	HABILITADO
+9177   	AGENCIA MARITIMA GENESIS S.A.C.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+9177   	AGENCIA MARITIMA GENESIS S.A.C.                                       	PISCO                                   	HABILITADO
+9177   	AGENCIA MARITIMA GENESIS S.A.C.                                       	MARITIMA DEL CALLAO                     	HABILITADO
+9182   	INVERS.MARITIMAS UNIVERSALES PERU S.A                                 	MARITIMA DEL CALLAO                     	HABILITADO
+9182   	INVERSIONES MARITIMAS UNIVERSALES PERU S.A.                           	AEREA DEL CALLAO                        	SUSPENDIDO
+9182   	INVERSIONES MARITIMAS UNIVERSALES PERU S                              	A NIVEL NACIONAL                        	SUSPENDIDO
+9191   	AGENCIA MARITIMA LOBATO S.A.                                          	A NIVEL NACIONAL                        	SUSPENDIDO
+9191   	AGENCIA MARITIMA LOBATO S.A.                                          	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9713   	PANOCEANICA AGENCIA MARITIMA S.A.C.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+9722   	AGENCIA MARITIMA ALCATRAZ S.A.                                        	LIMA METROPOLITANA                      	SUSPENDIDO
+9786   	SERVICIOS DE PETROLEO, INGENIERIA Y OPERACIONES MA                    	A NIVEL NACIONAL                        	SUSPENDIDO
+9867   	AGENCIA MARITIMA SAN NICOLAS                                          	A NIVEL NACIONAL                        	SUSPENDIDO
+9876   	TRANSNAUTICA S.A.                                                     	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9876   	TRANSNAUTICA S.A.                                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+9885   	ORION AGENCIA MARITIMA S.A.                                           	A NIVEL NACIONAL                        	SUSPENDIDO
+9885   	ORION AGENCIA MARITIMA S.A.                                           	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9894   	DOLPHIN SERVICIOS PORTUARIOS S.A.C.                                   	PAITA                                   	SUSPENDIDO
+9894   	DOLPHIN SERVICIOS PORTUARIOS S.A.C.                                   	CHIMBOTE                                	SUSPENDIDO
+9894   	DOLPHIN SERVICIOS PORTUARIOS S.A.                                     	A NIVEL NACIONAL                        	SUSPENDIDO
+9894   	DOLPHIN SERVICIOS PORTUARIOS S.A.C.                                   	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9894   	DOLPHIN SERVICIOS PORTUARIOS S.A.C.                                   	AEREA DEL CALLAO                        	SUSPENDIDO
+9902   	NAVEMAR AGENTES MARITIMOS S.R.LTDA.                                   	A NIVEL NACIONAL                        	SUSPENDIDO
+9902   	NAVEMAR AGENTES MARITIMOS S.R.LTDA.                                   	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9911   	LOGISTICA MARITIMA S.A.                                               	A NIVEL NACIONAL                        	SUSPENDIDO
+9920   	SERVICIOS DE PRACTICAJE MARITIMO S.A.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+9939   	CORPORACION MARITIMA APOLLO S.R.LTDA.                                 	A NIVEL NACIONAL                        	SUSPENDIDO
+9948   	J.R. AGENCIA MARITIMA S.A.                                            	A NIVEL NACIONAL                        	SUSPENDIDO
+9957   	AGENCIA MARITIMA FULL SEAS S.A.                                       	A NIVEL NACIONAL                        	SUSPENDIDO
+9966   	LATINOAMERICANA INVERSIONES MARITIMAS S.                              	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9966   	LATINOAMERICANA INVERSIONES MARITIMAS S.                              	A NIVEL NACIONAL                        	SUSPENDIDO
+9975   	AGENCIA MARITIMA FULL SHIPPING SERVICE S                              	A NIVEL NACIONAL                        	SUSPENDIDO
+9984   	AGENCIA MARITIMA MARKO BUSONICH S.R.L.                                	ILO                                     	HABILITADO
+9984   	AGENCIA MARITIMA MARKO BUSONICH S.R.L.                                	MOLLENDO - MATARANI                     	HABILITADO
+9984   	AGENCIA MARITIMA MARKO BUSONICH SRL.                                  	A NIVEL NACIONAL                        	SUSPENDIDO
+9993   	OTROS                                                                 	LIMA METROPOLITANA                      	SUSPENDIDO
+9993   	MARINA DE GUERRA DEL PERU                                             	MARITIMA DEL CALLAO                     	SUSPENDIDO
+9993   	OTROS                                                                 	A NIVEL NACIONAL                        	SUSPENDIDO

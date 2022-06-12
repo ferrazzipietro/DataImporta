@@ -1,0 +1,6 @@
+Codigo  Descripcion                                                     FInicio     FFin        Vigencia
+00     	SIN ULTRACTIVIDAD                                           	20000101	99991231	Vigente
+01     	ADQUIRIDAS ANTES DE SU ENTRADA DE VIGENCIA                  	20000101	99999999	Vigente
+02     	EMBARCADAS AL PAIS ANTES DE SU ENTRADA DE VIGENCIA          	20000101	99999999	Vigente
+03     	EN ZONA PRIMARIA Y NO DESTIN. A OTRO REG. ANTES DE VIG      	20000101	99999999	Vigente
+04     	ULTRACTIVIDAD DECRETO SUPREMO 219-2001-EF                   	20011127	20091016	No Vigente

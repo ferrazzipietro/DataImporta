@@ -1,0 +1,122 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia 
+0005   	UNITED AIRLINES INC. SUCURSAL DEL PERU                                	19960901	20140822	No Vigente
+0006   	DELTA AIR LINES INC. SUCURSAL DEL PERU                                	19980708	20200701	Vigente
+0016   	UNITED AIRLINES                                                       	19960101	20200124	Vigente
+0018   	SKY AIRLINE PERU                                                      	20101222	20181105	Vigente
+0137   	AEROLINEAS CENTRALES DE COLOMBIA                                      	19980901	20001231	No Vigente
+0139   	AEROMEXICO (AEROVIAS DE MEXICO S.A. DE C.V.)                          	19970101	20161103	No Vigente
+0152   	AEROPOSTAL ALAS DE VENEZUELA,SUC.EN EL PERU                           	19990309	20040423	No Vigente
+0230   	COPA-COMPAYIA PANAMEYA                                                	19960101	20190603	Vigente
+0278   	STAF AIRLINES (SERVICIOS TRANSPORTES AEREOS FUEGUINOS)                	       0	       0	No Vigente
+0340   	FINE AIR SERVICES INC                                                 	19990715	20040715	No Vigente
+0351   	SOUTHERN AIR TRANSPORT                                                	19980901	20001231	No Vigente
+0369   	ATLAS AIR INC                                                         	19980801	20001231	No Vigente
+0404   	ARROW AIR INC.                                                        	19970101	20081026	No Vigente
+0468   	WORLD AIRWAYS                                                         	19990227	19990331	No Vigente
+0529   	CIELOS DEL PERU S.A.                                                  	19980928	20090124	No Vigente
+0591   	EMERY WORLDWIDE                                                       	19981207	19981214	No Vigente
+0717   	ASERCA AIRLINES C.A.SUCURSAL DEL PERU                                 	19990301	19990429	No Vigente
+0976   	AEROMEXPRESS SA                                                       	19990325	20130312	No Vigente
+0992   	CHALLENGE AIR CARGO INC                                               	19960101	20001231	No Vigente
+0F     	TRANSPORTE AERO BOLIVIANO (TAB)                                       	20050124	20070803	No Vigente
+1000   	TANS                                                                  	19990513	20091109	No Vigente
+1001   	SERVICIOS AEREOS COLIBRI S.A.                                         	19950201	20000201	No Vigente
+1002   	AERO CONDOR S.A.                                                      	19980313	20040819	No Vigente
+1003   	LAN PERU S.A.                                                         	19990624	20161219	Vigente
+1004   	AVIACION LIDER S.A.                                                   	19980122	20030122	No Vigente
+1005   	TRANS AMERICAN AIR LINES S.A.                                         	19990715	20181129	Vigente
+1006   	TRANSPORTE AERO BOLIVIANO (TAB)                                       	20030620	20070803	No Vigente
+1007   	SERVICIOS AERONAUTICOS SIPESA S.A.                                    	19971026	20021026	No Vigente
+1008   	STAR UP S.A.                                                          	19990828	20040828	No Vigente
+1009   	SERVICIOS AEREOS AQP S.A                                              	19980313	20030313	No Vigente
+1010   	BRITISH AIRWAYS P.L.C.                                                	20000214	20130312	No Vigente
+1011   	AVIACION DEL SUR S.A.                                                 	20000515	20001231	No Vigente
+1012   	LINEAS AEREAS SURAMERICANAS S.A.                                      	20000503	20000531	No Vigente
+1013   	SUCURSAL PERUANA DE ABSA AEROLINHAS BRASILEIRAS S.A.                  	20160722	20170910	Vigente
+1014   	AEROTRANSPORTES MAS DE CARGA S.A.                                     	20010329	20031231	No Vigente
+1015   	LAN CARGO S.A. SUCURSAL PERU                                          	20000218	20170313	Vigente
+1016   	AIR EUROPA LINEAS AEREAS S.A. SUCURSAL DEL PERU                       	20100312	20181112	Vigente
+1353   	KOREAN AIR LINES CO. LTD. SUCURSAL DEL PERU                           	20120829	20180824	Vigente
+2082   	AERCARIBE-PERU S.A.C.                                                 	20160713	20200225	Vigente
+2435   	VUELOS SIN CARGA                                                      	20090902	20100926	No Vigente
+2839   	BRITISH AIRWAYS PLC SUCURSAL PERU                                     	20160906	20200820	Vigente
+3070   	UNITED PARCEL SERVICE CO.                                             	20010403	20041126	No Vigente
+3367   	SOLAR CARGO SUCURSAL PERU                                             	20150312	20170115	Vigente
+3806   	AEROLINEAS GALAPAGOS S.A. AEROGAL SUCURSAL DEL PERU                   	20130131	20200514	Vigente
+4021   	SKY LEASE I, INC. SUCURSAL DEL PERU                                   	20150721	20161206	Vigente
+5548   	AVIATION RAMP SERVICE PERU S.A.C.                                     	20050801	20051231	No Vigente
+5577   	ABX AIR INC. SUCURSAL DEL PERU                                        	20120227	20170629	Vigente
+5782   	JETBLUE AIRWAYS CORPORATION SUCURSAL DEL PERU                         	20140117	20180828	Vigente
+6730   	PERUVIAN AIR LINE S.A.C.                                              	20150713	20160101	No Vigente
+7686   	SAEREO S.A. SUCURSAL EN PERU                                          	20110525	20110830	No Vigente
+7G     	MK AIRLINES LIMITED                                                   	20050120	20080611	No Vigente
+8231   	TRANSCARGA INTL. AIRWAYS, CA.                                         	20160602	20200806	Vigente
+8331   	TRASLADO MARITIMO                                                     	20140101	20151231	No Vigente
+8513   	AVIATION RAMP SERVICE PERU S.A.C.                                     	20050801	20051231	No Vigente
+9010   	LUFTHANSA CARGO AG SUCURSAL DEL PERU                                  	20140415	20180705	Vigente
+9038   	AEROPERU                                                              	19960101	20001231	No Vigente
+9047   	LATAM AIRLINES GROUP S.A. SUCURSAL PERU                               	19960101	20170520	Vigente
+9056   	AEROLINEAS ARGENTINAS                                                 	19960101	20170715	Vigente
+9065   	FAUCETT                                                               	19960101	20001231	No Vigente
+9074   	KLM CARGO                                                             	20000101	20181231	Vigente
+9083   	BOAC                                                                  	19960101	20001231	No Vigente
+9087   	TAM LINEAS AEREAS S.A. SUCURSAL PERU.                                 	20080922	20170517	Vigente
+9092   	CANADIAN PACIFIC                                                      	19960101	20001231	No Vigente
+9100   	AEROFLOT                                                              	19960101	20001231	No Vigente
+9119   	AEROLINEAS PANAMEYAS                                                  	19960101	20001231	No Vigente
+9128   	ECUATORIANA                                                           	19960101	20001231	No Vigente
+9137   	LLOYD AEREO BOLIVIANO                                                 	19960101	20001231	No Vigente
+9155   	AEROVIAS DEL CONTINENTE AMERICANO SA (AVIANCA) SCL PERU               	19960101	20200602	Vigente
+9164   	VIASA                                                                 	19960101	20001231	No Vigente
+9173   	IBERIA LINEAS AEREAS DE ESPAÑA S.A.OPERADORA                          	19950101	20170831	Vigente
+9182   	AERONAVES                                                             	19960101	20001231	No Vigente
+9191   	SOCIETE AIR FRANCE SUCURSAL EN EL PERU                                	20041123	20190726	Vigente
+9209   	VARIG                                                                 	19960101	20061012	No Vigente
+9218   	BRITISH CALEDONIAM                                                    	19960101	20001231	No Vigente
+9227   	TRANSPORTES AEREOS DEL MERCOSUR S.A.                                  	20150212	20190118	Vigente
+9236   	JAPAN AIR LINES                                                       	19960101	20001231	No Vigente
+9245   	AIR PANAMA                                                            	19960101	20001231	No Vigente
+9254   	ALITALIA LINES AEREAS                                                 	19960101	20001231	No Vigente
+9263   	PERU CHARTER                                                          	19960101	20001231	No Vigente
+9272   	AERO URUGUAY                                                          	19960101	20001231	No Vigente
+9281   	CUBANA DE AVIACION                                                    	19960101	20001231	No Vigente
+9290   	CIA. DE AVIACION SHIPCO - AIR - INC.                                  	19960101	20001231	No Vigente
+9308   	AIR MADRID LINEAS AEREAS S.A.                                         	20041124	20090719	No Vigente
+9317   	GRUPO AEREO NUMERO 8                                                  	19960101	20001231	No Vigente
+9326   	AERO TRANSPORTE S.A.                                                  	20050805	20090805	No Vigente
+9335   	CIA. DE AVIACION OSBORNE INTERNATIONAL INC.                           	19960101	20001231	No Vigente
+9344   	PANALPINA                                                             	19960101	20001231	No Vigente
+9353   	TAMPA CARGO S.A. (ANTES TRANSP AEREOS MERC. PANAMERICAN               	19960101	20161201	Vigente
+9362   	AEROCARGO                                                             	19960101	20001231	No Vigente
+9407   	TAISA AIR CARGO                                                       	19960101	20001231	No Vigente
+9425   	AMERICAN AIRLINES                                                     	19950101	20201102	Vigente
+9434   	EXPORT AIR DEL PERU                                                   	19960101	20001231	No Vigente
+9443   	SERVIVENSA                                                            	19960101	20001231	No Vigente
+9452   	LACSA                                                                 	20040123	20170323	Vigente
+9461   	SAETA                                                                 	19960101	20001231	No Vigente
+9470   	TRANSPORTE AEREO RIOPLATENSE                                          	19960101	20001231	No Vigente
+9489   	AEROCONTINENTE                                                        	19970101	20050215	No Vigente
+9498   	AEROSUCRE SOCIEDAD ANONIMA                                            	19970101	20160305	No Vigente
+9560   	TRANS PACIFIC AIR CARGO                                               	19960101	20001231	No Vigente
+9579   	MARTINAIR HOLLAND                                                     	19970101	20090328	No Vigente
+9588   	FLORIDA WEST AIRLINES                                                 	19970101	20170309	Vigente
+9597   	AEROLINEAS ALPHA S.A.                                                 	19970522	20001231	No Vigente
+9650   	SUC.PER.AEROTRANSP.MAS DE CARG.S.A. DE CV                             	19980119	20130312	No Vigente
+9669   	AECA - AEROSERVICIOS ECUATORIANOS C.A.                                	19980129	20030604	No Vigente
+9678   	TAESA - TRANSPORTES AEREOS EJECUTIVOS S.A. de C.V.                    	19980129	20091030	No Vigente
+9679   	EMPRESA PUBLICA TAME LINEA AEREA DEL ECUADOR "TAME EP"                	20130909	20170815	Vigente
+9680   	MK AIRLINES LIMITED                                                   	20050120	20080611	No Vigente
+9681   	AIR CANADA SUCURSAL DEL PERU                                          	20041102	20170630	Vigente
+9682   	AIR CANADA SUCURSAL DEL PERU                                          	20041102	20050925	No Vigente
+9683   	VARIG LOGISTICA S.A. SUCURSAL PERU                                    	20060922	20061206	No Vigente
+9684   	AVIATION RAMP SERVICE PERU S.A.C.                                     	20061114	20061231	No Vigente
+9685   	COMPA?IA BOLIVIANA DE TRA.AEREO PRIVADO AEROSUR S.A.                  	19970101	20130307	No Vigente
+9686   	TRANSPORTE AERO BOLIVIANO (TAB)                                       	20061121	20070803	No Vigente
+9687   	MK AIRLINES LIMITED                                                   	20061121	20080611	No Vigente
+9688   	AIRMAX S.A.                                                           	20061121	20060815	No Vigente
+9689   	CENTURION AIR CARGO INC.                                              	19930101	20200625	Vigente
+9690   	ATLAS AIR INC                                                         	19980801	20201023	Vigente
+9691   	AEROLANE LINEAS AEREAS NACIONALES DEL ECUADOR SUCURSAL                	20100607	20200107	Vigente
+9692   	LAN ARGENTINA S.A.C                                                   	20091020	20170125	Vigente
+9693   	SPIRIT AIRLINES INC. SUCURSAL DEL PERU                                	20070624	20190626	Vigente
+9993   	OTRAS                                                                 	20090101	99991231	Vigente

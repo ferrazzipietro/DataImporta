@@ -1,0 +1,283 @@
+Codigo  Descripcion                                                     FInicio     FFin        Vigencia
+1A     	CHECOSLOVAQUIA                                              	19990101	19991231	No Vigente
+1B     	ZONAS FRANCAS DEL PERU                                      	20000101	99991231	Vigente
+1C     	PAISES_NO_PREC.EN OP.ABAST.COMBUST.O AVITUALL               	20000101	20141001	No Vigente
+1D     	AGUAS INTERNACIONALES                                       	20000101	99991231	Vigente
+1E     	NO DECLARADOS                                               	20000101	20141001	No Vigente
+1F     	GAZA Y JERICO                                               	20000101	20141001	No Vigente
+1G     	ESCOCIA                                                     	20000101	20141001	No Vigente
+1H     	URSS                                                        	19990101	19991231	No Vigente
+1I     	VIETNAM (DEL NORTE)                                         	20000101	20020325	No Vigente
+1J     	COMUNIDAD ECONOMICA EUROPEA                                 	20000101	20020325	No Vigente
+1K     	COSTA DE MARFIL                                             	20000101	20141001	No Vigente
+1L     	ZONA DEL CANAL DE PANAMA                                    	20000101	20141001	No Vigente
+1M     	ALEMANIA                                                    	19990101	19991231	No Vigente
+1N     	CANAL (NORMANDAS), ISLAS                                    	19990101	19991231	No Vigente
+1O     	CANTON Y ENDERBURRY                                         	19990101	19991231	No Vigente
+1P     	HONDURAS BRITANICAS                                         	19990101	19991231	No Vigente
+1Q     	JONSTON, ISLAS                                              	19990101	19991231	No Vigente
+1R     	MACEDONIA                                                   	19990101	19991231	No Vigente
+1S     	MIDWAY, ISLAS                                               	19990101	19991231	No Vigente
+1T     	PACIFICO, ISLAS DEL                                         	19990101	19991231	No Vigente
+1U     	REPUBLICA ARABE UNIDA                                       	19990101	19991231	No Vigente
+1V     	WAKE, ISLA                                                  	19990101	19991231	No Vigente
+1W     	TERRITORIO AUTONOMO DE PALESTINA.                           	19990101	19991231	No Vigente
+99     	TODOS LOS PAISES                                            	20000101	20141001	No Vigente
+AD     	ANDORRA                                                     	20000101	99991231	Vigente
+AE     	UNITED ARAB EMIRATES                                        	20000101	99991231	Vigente
+AF     	AFGHANISTAN                                                 	20000101	99991231	Vigente
+AG     	ANTIGUA AND BARBUDA                                         	20000101	99991231	Vigente
+AI     	ANGUILLA                                                    	20000101	99991231	Vigente
+AL     	ALBANIA                                                     	20000101	99991231	Vigente
+AM     	ARMENIA                                                     	20000101	99991231	Vigente
+AN     	NETHERLANDS ANTILLES                                        	20000101	20141001	No Vigente
+AO     	ANGOLA                                                      	20000101	99991231	Vigente
+AQ     	ANTARCTICA                                                  	20000101	99991231	Vigente
+AR     	ARGENTINA                                                   	20000101	99991231	Vigente
+AS     	AMERICAN SAMOA                                              	20000101	99991231	Vigente
+AT     	AUSTRIA                                                     	20000101	99991231	Vigente
+AU     	AUSTRALIA                                                   	20000101	99991231	Vigente
+AW     	ARUBA                                                       	20000101	99991231	Vigente
+AX     	ALAND ISLANDS                                               	20141001	99991231	Vigente
+AZ     	AZERBAIJAN                                                  	20000101	99991231	Vigente
+BA     	BOSNIA AND HERZEGOVINA                                      	20000101	99991231	Vigente
+BB     	BARBADOS                                                    	20000101	99991231	Vigente
+BD     	BANGLADESH                                                  	20000101	99991231	Vigente
+BE     	BELGIUM                                                     	20000101	99991231	Vigente
+BF     	BURKINA FASO                                                	20000101	99991231	Vigente
+BG     	BULGARIA                                                    	20000101	99991231	Vigente
+BH     	BAHRAIN                                                     	20000101	99991231	Vigente
+BI     	BURUNDI                                                     	20000101	99991231	Vigente
+BJ     	BENIN                                                       	20000101	99991231	Vigente
+BL     	SAINT BARTHELEMY                                            	20141001	99991231	Vigente
+BM     	BERMUDA                                                     	20000101	99991231	Vigente
+BN     	BRUNEI DARUSSALAM                                           	20000101	99991231	Vigente
+BO     	BOLIVIA, PLURINATIONAL STATE OF                             	20000101	99991231	Vigente
+BQ     	BONAIRE, SINT EUSTATIUS AND SABA                            	20141001	99991231	Vigente
+BR     	BRAZIL                                                      	20000101	99991231	Vigente
+BS     	BAHAMAS                                                     	20000101	99991231	Vigente
+BT     	BHUTAN                                                      	20000101	99991231	Vigente
+BV     	BOUVET ISLAND                                               	20000101	99991231	Vigente
+BW     	BOTSWANA                                                    	20000101	99991231	Vigente
+BY     	BELARUS                                                     	20000101	99991231	Vigente
+BZ     	BELIZE                                                      	20000101	99991231	Vigente
+CA     	CANADA                                                      	20000101	99991231	Vigente
+CC     	COCOS (KEELING) ISLANDS                                     	20000101	99991231	Vigente
+CD     	CONGO THE DEMOCRATIC REPUBLIC OF THE                        	20110330	99991231	Vigente
+CF     	CENTRAL AFRICAN REPUBLIC                                    	20000101	99991231	Vigente
+CG     	CONGO                                                       	20000101	99991231	Vigente
+CH     	SWITZERLAND                                                 	20000101	99991231	Vigente
+CI     	COTE D'IVOIRE                                               	20000101	99991231	Vigente
+CK     	COOK ISLANDS                                                	20000101	99991231	Vigente
+CL     	CHILE                                                       	20000101	99991231	Vigente
+CM     	CAMEROON                                                    	20000101	99991231	Vigente
+CN     	CHINA                                                       	20000101	99991231	Vigente
+CO     	COLOMBIA                                                    	20000101	99991231	Vigente
+CR     	COSTA RICA                                                  	20000101	99991231	Vigente
+CS     	SERBIA AND MONTENEGRO                                       	20050823	20080408	No Vigente
+CU     	CUBA                                                        	20000101	99991231	Vigente
+CV     	CAPE VERDE                                                  	20000101	99991231	Vigente
+CW     	CURACAO                                                     	20111213	99991231	Vigente
+CX     	CHRISTMAS ISLAND                                            	20000101	99991231	Vigente
+CY     	CYPRUS                                                      	20000101	99991231	Vigente
+CZ     	CZECH REPUBLIC                                              	20000101	99991231	Vigente
+DE     	GERMANY                                                     	20000101	99991231	Vigente
+DJ     	DJIBOUTI                                                    	20000101	99991231	Vigente
+DK     	DENMARK                                                     	20000101	99991231	Vigente
+DM     	DOMINICA                                                    	20000101	99991231	Vigente
+DO     	DOMINICAN REPUBLIC                                          	20000101	99991231	Vigente
+DZ     	ALGERIA                                                     	20000101	99991231	Vigente
+EC     	ECUADOR                                                     	20000101	99991231	Vigente
+EE     	ESTONIA                                                     	20000101	99991231	Vigente
+EG     	EGYPT                                                       	20000101	99991231	Vigente
+EH     	WESTERN SAHARA                                              	20000101	99991231	Vigente
+ER     	ERITREA                                                     	20000101	99991231	Vigente
+ES     	SPAIN                                                       	20000101	99991231	Vigente
+ET     	ETHIOPIA                                                    	20000101	99991231	Vigente
+FI     	FINLAND                                                     	20000101	99991231	Vigente
+FJ     	FIJI                                                        	20000101	99991231	Vigente
+FK     	FALKLAND ISLANDS (MALVINAS)                                 	20000101	99991231	Vigente
+FM     	MICRONESIA, FEDERATED STATES OF                             	20000101	99991231	Vigente
+FO     	FAROE ISLANDS                                               	20000101	99991231	Vigente
+FR     	FRANCE                                                      	20000101	99991231	Vigente
+FX     	FRANCE, METROPOLITAN                                        	20000101	20000914	No Vigente
+GA     	GABON                                                       	20000101	99991231	Vigente
+GB     	UNITED KINGDOM                                              	20000101	99991231	Vigente
+GD     	GRENADA                                                     	20000101	99991231	Vigente
+GE     	GEORGIA                                                     	20000101	99991231	Vigente
+GF     	FRENCH GUIANA                                               	20000101	99991231	Vigente
+GG     	GUERNSEY                                                    	20140101	99991231	Vigente
+GH     	GHANA                                                       	20000101	99991231	Vigente
+GI     	GIBRALTAR                                                   	20000101	99991231	Vigente
+GL     	GREENLAND                                                   	20000101	99991231	Vigente
+GM     	GAMBIA                                                      	20000101	99991231	Vigente
+GN     	GUINEA                                                      	20000101	99991231	Vigente
+GP     	GUADELOUPE                                                  	20000101	99991231	Vigente
+GQ     	EQUATORIAL GUINEA                                           	20000101	99991231	Vigente
+GR     	GREECE                                                      	20000101	99991231	Vigente
+GS     	SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS                	20000101	99991231	Vigente
+GT     	GUATEMALA                                                   	20000101	99991231	Vigente
+GU     	GUAM                                                        	20000101	99991231	Vigente
+GW     	GUINEA-BISSAU                                               	20000101	99991231	Vigente
+GY     	GUYANA                                                      	20000101	99991231	Vigente
+HK     	HONG KONG                                                   	20000101	99991231	Vigente
+HM     	HEARD ISLAND AND MCDONALD ISLANDS                           	20000101	99991231	Vigente
+HN     	HONDURAS                                                    	20000101	99991231	Vigente
+HR     	CROATIA                                                     	20000101	99991231	Vigente
+HT     	HAITI                                                       	20000101	99991231	Vigente
+HU     	HUNGARY                                                     	20000101	99991231	Vigente
+ID     	INDONESIA                                                   	20000101	99991231	Vigente
+IE     	IRELAND                                                     	20000101	99991231	Vigente
+IL     	ISRAEL                                                      	20000101	99991231	Vigente
+IM     	ISLE OF MAN                                                 	20140101	99991231	Vigente
+IN     	INDIA                                                       	20000101	99991231	Vigente
+IO     	BRITISH INDIAN OCEAN TERRITORY                              	20000101	99991231	Vigente
+IQ     	IRAQ                                                        	20000101	99991231	Vigente
+IR     	IRAN, ISLAMIC REPUBLIC OF                                   	20000101	99991231	Vigente
+IS     	ICELAND                                                     	20000101	99991231	Vigente
+IT     	ITALY                                                       	20000101	99991231	Vigente
+JE     	JERSEY                                                      	20140101	99991231	Vigente
+JM     	JAMAICA                                                     	20000101	99991231	Vigente
+JO     	JORDAN                                                      	20000101	99991231	Vigente
+JP     	JAPAN                                                       	20000101	99991231	Vigente
+KE     	KENYA                                                       	20000101	99991231	Vigente
+KG     	KYRGYZSTAN                                                  	20000101	99991231	Vigente
+KH     	CAMBODIA                                                    	20000101	99991231	Vigente
+KI     	KIRIBATI                                                    	20000101	99991231	Vigente
+KM     	COMOROS                                                     	20000101	99991231	Vigente
+KN     	SAINT KITTS AND NEVIS                                       	20000101	99991231	Vigente
+KP     	KOREA, DEMOCRATIC PEOPLE'S REP. OF                          	20000101	99991231	Vigente
+KR     	KOREA, REPUBLIC OF                                          	20000101	99991231	Vigente
+KW     	KUWAIT                                                      	20000101	99991231	Vigente
+KY     	CAYMAN ISLANDS                                              	20000101	99991231	Vigente
+KZ     	KAZAKHSTAN                                                  	20000101	99991231	Vigente
+LA     	LAO PEOPLE'S DEMOCRATIC REPUBLIC                            	20000101	99991231	Vigente
+LB     	LEBANON                                                     	20000101	99991231	Vigente
+LC     	SAINT LUCIA                                                 	20000101	99991231	Vigente
+LI     	LIECHTENSTEIN                                               	20000101	99991231	Vigente
+LK     	SRI LANKA                                                   	20000101	99991231	Vigente
+LR     	LIBERIA                                                     	20000101	99991231	Vigente
+LS     	LESOTHO                                                     	20000101	99991231	Vigente
+LT     	LITHUANIA                                                   	20000101	99991231	Vigente
+LU     	LUXEMBOURG                                                  	20000101	99991231	Vigente
+LV     	LATVIA                                                      	20000101	99991231	Vigente
+LY     	LIBYA                                                       	20000101	99991231	Vigente
+MA     	MOROCCO                                                     	20000101	99991231	Vigente
+MC     	MONACO                                                      	20000101	99991231	Vigente
+MD     	MOLDOVA, REPUBLIC OF                                        	20000101	99991231	Vigente
+ME     	MONTENEGRO                                                  	20080408	99991231	Vigente
+MF     	SAINT MARTIN (FRENCH PART)                                  	20140101	99991231	Vigente
+MG     	MADAGASCAR                                                  	20000101	99991231	Vigente
+MH     	MARSHALL ISLANDS                                            	20000101	99991231	Vigente
+MK     	MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF                  	20001017	99991231	Vigente
+ML     	MALI                                                        	20000101	99991231	Vigente
+MM     	MYANMAR                                                     	20000101	99991231	Vigente
+MN     	MONGOLIA                                                    	20000101	99991231	Vigente
+MO     	MACAO                                                       	20000101	99991231	Vigente
+MP     	NORTHERN MARIANA ISLANDS                                    	20000101	99991231	Vigente
+MQ     	MARTINIQUE                                                  	20000101	99991231	Vigente
+MR     	MAURITANIA                                                  	20000101	99991231	Vigente
+MS     	MONTSERRAT                                                  	20000101	99991231	Vigente
+MT     	MALTA                                                       	20000101	99991231	Vigente
+MU     	MAURITIUS                                                   	20000101	99991231	Vigente
+MV     	MALDIVES                                                    	20000101	99991231	Vigente
+MW     	MALAWI                                                      	20000101	99991231	Vigente
+MX     	MEXICO                                                      	20000101	99991231	Vigente
+MY     	MALAYSIA                                                    	20000101	99991231	Vigente
+MZ     	MOZAMBIQUE                                                  	20000101	99991231	Vigente
+NA     	NAMIBIA                                                     	20000101	99991231	Vigente
+NC     	NEW CALEDONIA                                               	20000101	99991231	Vigente
+NE     	NIGER                                                       	20000101	99991231	Vigente
+NF     	NORFOLK ISLAND                                              	20000101	99991231	Vigente
+NG     	NIGERIA                                                     	20000101	99991231	Vigente
+NI     	NICARAGUA                                                   	20000101	99991231	Vigente
+NL     	NETHERLANDS                                                 	20000101	99991231	Vigente
+NO     	NORWAY                                                      	20000101	99991231	Vigente
+NP     	NEPAL                                                       	20000101	99991231	Vigente
+NR     	NAURU                                                       	20000101	99991231	Vigente
+NT     	NEUTRAL ZONE                                                	20000101	20141001	No Vigente
+NU     	NIUE                                                        	20000101	99991231	Vigente
+NZ     	NEW ZEALAND                                                 	20000101	99991231	Vigente
+OM     	OMAN                                                        	20000101	99991231	Vigente
+PA     	PANAMA                                                      	20000101	99991231	Vigente
+PE     	PERU                                                        	20000101	99991231	Vigente
+PF     	FRENCH POLYNESIA                                            	20000101	99991231	Vigente
+PG     	PAPUA NEW GUINEA                                            	20000101	99991231	Vigente
+PH     	PHILIPPINES                                                 	20000101	99991231	Vigente
+PK     	PAKISTAN                                                    	20000101	99991231	Vigente
+PL     	POLAND                                                      	20000101	99991231	Vigente
+PM     	SAINT PIERRE AND MIQUELON                                   	20000101	99991231	Vigente
+PN     	PITCAIRN                                                    	20000101	99991231	Vigente
+PR     	PUERTO RICO                                                 	20000101	99991231	Vigente
+PS     	PALESTINE, STATE OF                                         	20140101	99991231	Vigente
+PT     	PORTUGAL                                                    	20000101	99991231	Vigente
+PW     	PALAU                                                       	20000101	99991231	Vigente
+PY     	PARAGUAY                                                    	20000101	99991231	Vigente
+QA     	QATAR                                                       	20000101	99991231	Vigente
+RE     	REUNION                                                     	20000101	99991231	Vigente
+RO     	ROMANIA                                                     	20000101	99991231	Vigente
+RS     	SERBIA                                                      	20080408	99991231	Vigente
+RU     	RUSSIAN FEDERATION                                          	20000101	99991231	Vigente
+RW     	RWANDA                                                      	20000101	99991231	Vigente
+SA     	SAUDI ARABIA                                                	20000101	99991231	Vigente
+SB     	SOLOMON ISLANDS                                             	20000101	99991231	Vigente
+SC     	SEYCHELLES                                                  	20000101	99991231	Vigente
+SD     	SUDAN                                                       	20000101	99991231	Vigente
+SE     	SWEDEN                                                      	20000101	99991231	Vigente
+SG     	SINGAPORE                                                   	20000101	99991231	Vigente
+SH     	SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA                	20000101	99991231	Vigente
+SI     	SLOVENIA                                                    	20000101	99991231	Vigente
+SJ     	SVALBARD AND JAN MAYEN                                      	20000101	99991231	Vigente
+SK     	SLOVAKIA                                                    	20000101	99991231	Vigente
+SL     	SIERRA LEONE                                                	20000101	99991231	Vigente
+SM     	SAN MARINO                                                  	20000101	99991231	Vigente
+SN     	SENEGAL                                                     	20000101	99991231	Vigente
+SO     	SOMALIA                                                     	20000101	99991231	Vigente
+SR     	SURINAME                                                    	20000101	99991231	Vigente
+SS     	SOUTH SUDAN                                                 	20130927	99991231	Vigente
+ST     	SAO TOME AND PRINCIPE                                       	20000101	99991231	Vigente
+SV     	EL SALVADOR                                                 	20000101	99991231	Vigente
+SX     	SINT MAARTEN (DUTCH PART)                                   	20120417	99991231	Vigente
+SY     	SYRIAN ARAB REPUBLIC                                        	20000101	99991231	Vigente
+SZ     	SWAZILAND                                                   	20000101	99991231	Vigente
+TC     	TURKS AND CAICOS ISLANDS                                    	20000101	99991231	Vigente
+TD     	CHAD                                                        	20000101	99991231	Vigente
+TF     	FRENCH SOUTHERN TERRITORIES                                 	20000101	99991231	Vigente
+TG     	TOGO                                                        	20000101	99991231	Vigente
+TH     	THAILAND                                                    	20000101	99991231	Vigente
+TJ     	TAJIKISTAN                                                  	20000101	99991231	Vigente
+TK     	TOKELAU                                                     	20000101	99991231	Vigente
+TL     	TIMOR-LESTE                                                 	20140101	99991231	Vigente
+TM     	TURKMENISTAN                                                	20000101	99991231	Vigente
+TN     	TUNISIA                                                     	20000101	99991231	Vigente
+TO     	TONGA                                                       	20000101	99991231	Vigente
+TP     	EAST TIMOR                                                  	20000101	20141001	No Vigente
+TR     	TURKEY                                                      	20000101	99991231	Vigente
+TT     	TRINIDAD AND TOBAGO                                         	20000101	99991231	Vigente
+TV     	TUVALU                                                      	20000101	99991231	Vigente
+TW     	TAIWAN, PROVINCE OF CHINA                                   	20010807	99991231	Vigente
+TZ     	TANZANIA, UNITED REPUBLIC OF                                	20000101	99991231	Vigente
+UA     	UKRAINE                                                     	20000101	99991231	Vigente
+UG     	UGANDA                                                      	20000101	99991231	Vigente
+UM     	UNITED STATES MINOR OUTLYING ISLANDS                        	20000101	99991231	Vigente
+US     	UNITED STATES                                               	20000101	99991231	Vigente
+UY     	URUGUAY                                                     	20000101	99991231	Vigente
+UZ     	UZBEKISTAN                                                  	20000101	99991231	Vigente
+VA     	HOLY SEE (VATICAN CITY STATE)                               	20000101	99991231	Vigente
+VC     	SAINT VINCENT AND THE GRENADINES                            	20000101	99991231	Vigente
+VE     	VENEZUELA                                                   	20000101	99991231	Vigente
+VG     	VIRGIN ISLANDS, BRITISH                                     	20000101	99991231	Vigente
+VI     	VIRGIN ISLANDS, U.S.                                        	20000101	99991231	Vigente
+VN     	VIET NAM                                                    	20000101	99991231	Vigente
+VU     	VANUATU                                                     	20000101	99991231	Vigente
+WF     	WALLIS AND FUTUNA                                           	20000101	99991231	Vigente
+WS     	SAMOA                                                       	20000101	99991231	Vigente
+XX     	PUEBA                                                       	20120101	20120502	No Vigente
+XZ     	INSTALLATIONS IN INTERNATIONAL WATER                        	20001107	20141001	No Vigente
+YE     	YEMEN                                                       	20000101	99991231	Vigente
+YT     	MAYOTTE                                                     	20000101	99991231	Vigente
+YU     	YUGOSLAVIA                                                  	20000101	20141001	No Vigente
+ZA     	SOUTH AFRICA                                                	20000101	99991231	Vigente
+ZM     	ZAMBIA                                                      	20000101	99991231	Vigente
+ZR     	ZAIRE                                                       	20000101	20110329	No Vigente
+ZW     	ZIMBABWE                                                    	20000101	99991231	Vigente

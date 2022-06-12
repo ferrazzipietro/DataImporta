@@ -1,0 +1,35 @@
+Codigo  Descripcion                                 FInicio     FFin        Vigencia
+126    	DOCENA POR 10**6                        	19960101	99991231	Vigente
+12U    	DOCENA                                  	19960101	99991231	Vigente
+2U     	PAR                                     	19960101	99991231	Vigente
+2U6    	PAR POR 10**6                           	19960101	99991231	Vigente
+CAJ    	CAJA                                    	20070801	99991231	Vigente
+CM2    	CENTIMETRO CUADRADO                     	19960101	99991231	Vigente
+CM3    	CENTIMETRO CUBICO                       	19961104	99991231	Vigente
+G      	GRAMOS                                  	19961104	99991231	Vigente
+GAL    	GALONES                                 	20060316	99991231	Vigente
+GR     	GRAMOS                                  	20000908	99991231	Vigente
+KG     	KILOGRAMO                               	19960101	99991231	Vigente
+KG3    	KILOGRAMO POR 10**3 (TM)                	19960101	99991231	Vigente
+KG6    	KILOGRAMO POR 10**6                     	19960101	99991231	Vigente
+KI     	QUILATE                                 	19960101	99991231	Vigente
+KI6    	QUILATE 10**6                           	19960101	99991231	Vigente
+KW6    	KILOVATIO HORA POR 10**6                	19960101	99991231	Vigente
+KWH    	KILOVATIO HORA                          	19960101	99991231	Vigente
+L      	LITRO                                   	19960101	99991231	Vigente
+L 6    	LITRO POR 10**6                         	19960101	99991231	Vigente
+LBS    	LIBRAS                                  	20150101	99991231	Vigente
+M      	METRO                                   	19960101	99991231	Vigente
+M 6    	METRO POR 10**6                         	19960101	99991231	Vigente
+M2     	METRO CUADRADO                          	19960101	99991231	Vigente
+M26    	METRO CUADRADO POR 10**6                	19960101	99991231	Vigente
+M3     	METRO CUBICO                            	19960101	99991231	Vigente
+M36    	METRO CUBICO POR 10**6                  	19960101	99991231	Vigente
+MLL    	MILLARES                                	19961104	99991231	Vigente
+PS     	PIES                                    	19961104	99991231	Vigente
+PS2    	PIES CUADRADOS                          	19961104	99991231	Vigente
+PS3    	PIES CUBICOS                            	19961104	99991231	Vigente
+QQ     	QUINTAL METRICO (100 KG)                	20000908	99991231	Vigente
+QUT    	QUINTAL USA (100 LB)                    	20000908	99991231	Vigente
+U      	UNIDAD                                  	19960101	99991231	Vigente
+U 6    	UNIDAD PO 10**6                         	19960101	99991231	Vigente

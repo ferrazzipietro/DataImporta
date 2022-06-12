@@ -1,0 +1,102 @@
+Codigo  Descripcion                                 FInicio     FFin        Vigencia
+126    	DOCENA POR 10**6                        	19960101	99991231	Vigente
+12U    	DOCENA                                  	19960101	99991231	Vigente
+2U     	PAR                                     	19960101	99991231	Vigente
+2U6    	PAR POR 10**6                           	19960101	99991231	Vigente
+AM     	AMPOLLA                                 	20130828	99991231	Vigente
+BAL    	BALDE                                   	20000912	99991231	Vigente
+BID    	BIDONES                                 	20130828	99991231	Vigente
+BLS    	BOLSA                                   	20000908	99991231	Vigente
+BOB    	BOBINAS                                 	20000912	99991231	Vigente
+BOT    	BOTELLAS                                	20000908	99991231	Vigente
+BRR    	BARRILES                                	20000912	99991231	Vigente
+C3     	CENTIMETRO CUBICO                       	19980206	20000907	No Vigente
+CAJ    	CAJA                                    	20000908	99991231	Vigente
+CIL    	CILINDRO                                	20000912	99991231	Vigente
+CM     	CENTIMETRO LINEAL                       	20000908	99991231	Vigente
+CM2    	CENTIMETRO CUADRADO                     	19960101	99991231	Vigente
+CM3    	CENTIMETRO CUBICO                       	20000908	99991231	Vigente
+CON    	CONOS                                   	20001106	99991231	Vigente
+CRT    	CARTONES                                	20000912	99991231	Vigente
+FDO    	FARDO                                   	20001106	99991231	Vigente
+FRC    	FRASCOS                                 	20000912	99991231	Vigente
+G      	GRAMO                                   	19960101	20000907	No Vigente
+GAL    	US GALON (3,7843 L)                     	20000908	99991231	Vigente
+GLE    	GALON INGLES (4,545956L)                	20000908	99991231	Vigente
+GR     	GRAMO                                   	20000908	99991231	Vigente
+GRU    	GRUESA                                  	20000908	99991231	Vigente
+HL     	HECTOLITRO                              	20000908	99991231	Vigente
+HOJ    	HOJA                                    	20000908	99991231	Vigente
+JGS    	JUEGO                                   	20000908	99991231	Vigente
+K 6    	KILOS X 10 EXP - 6  (MG)                	20030709	20030709	No Vigente
+K 9    	KILOS X 10 EXP - 9                      	20030709	20030709	No Vigente
+KG     	KILOGRAMO                               	19960101	99991231	Vigente
+KG3    	KILOGRAMO POR 10**3 (TM)                	19960101	99991231	Vigente
+KG6    	KILOGRAMO POR 10**6                     	19960101	99991231	Vigente
+KGA    	KILOGRAMO INGREDIENTE ACTIVO            	20000908	99991231	Vigente
+KI     	QUILATE                                 	19960101	99991231	Vigente
+KI6    	QUILATE 10**6                           	19960101	99991231	Vigente
+KIT    	KIT                                     	20000908	99991231	Vigente
+KL6    	KILOS X 10 EXP - 6 (MG)                 	20030709	99991231	Vigente
+KL9    	KILOS X 10 EXP -9                       	20030709	99991231	Vigente
+KM     	KILOMETRO                               	20000908	99991231	Vigente
+KW3    	KILOVATIO HORA POR 10**3 (1000KWH)      	19980206	99991231	Vigente
+KW6    	KILOVATIO HORA POR 10**6                	19960101	99991231	Vigente
+KWH    	KILOVATIO HORA                          	19960101	99991231	Vigente
+L      	LITRO                                   	19960101	99991231	Vigente
+L 6    	LITRO POR 10**6                         	19960101	99991231	Vigente
+LAT    	LATAS                                   	20000912	99991231	Vigente
+LB     	LIBRAS                                  	20000101	99991231	Vigente
+M      	METRO                                   	19960101	99991231	Vigente
+M 6    	METRO POR 10**6                         	19960101	99991231	Vigente
+M2     	METRO CUADRADO                          	19960101	99991231	Vigente
+M26    	METRO CUADRADO POR 10**6                	19960101	99991231	Vigente
+M3     	METRO CUBICO                            	19960101	99991231	Vigente
+M36    	METRO CUBICO POR 10**6                  	19960101	99991231	Vigente
+MGA    	MILIGRAMO ACTIVO                        	20000908	99991231	Vigente
+MGR    	MILIGRAMOS                              	20000908	99991231	Vigente
+ML     	MILILITRO                               	20000908	99991231	Vigente
+MLL    	MILLARES                                	19991206	99991231	Vigente
+MM     	MILIMETRO                               	20000908	99991231	Vigente
+MM2    	MILIMETRO CUADRADO                      	20000908	99991231	Vigente
+MM3    	MILIMETRO CUBICO                        	20000908	99991231	Vigente
+MU     	MUESTRAS                                	20000101	99991231	Vigente
+MWH    	MEGAWATT HORA                           	20000908	99991231	Vigente
+OZ     	ONZAS                                   	20000101	99991231	Vigente
+PAI    	PAILAS                                  	20000101	99991231	Vigente
+PAL    	PALETAS                                 	20000101	99991231	Vigente
+PAQ    	PAQUETE                                 	20000101	99991231	Vigente
+PL     	PLACAS                                  	20000101	99991231	Vigente
+PLC    	PLANCHAS                                	20000101	99991231	Vigente
+PLG    	PLIEGO                                  	20000101	99991231	Vigente
+PS     	PIES                                    	19991206	99991231	Vigente
+PS2    	PIES CUADRADOS                          	19991206	99991231	Vigente
+PS3    	PIES CUBICOS                            	19991206	99991231	Vigente
+PST    	PIES TABLARES(MADERA)                   	20000908	99991231	Vigente
+PUL    	PULGADAS                                	20000101	99991231	Vigente
+PZA    	PIEZAS                                  	20000101	99991231	Vigente
+QQ     	QUINTAL METRICO (100 KG)                	20000908	99991231	Vigente
+QUT    	QUINTAL USA (100 LB)                    	20000908	99991231	Vigente
+RAM    	RAMOS                                   	20000101	99991231	Vigente
+RES    	RESMA                                   	20000908	99991231	Vigente
+ROL    	ROLLOS                                  	20000101	99991231	Vigente
+SAC    	SACO                                    	20000101	99991231	Vigente
+SET    	SET                                     	20000101	99991231	Vigente
+TAM    	TAMBOR                                  	20000101	99991231	Vigente
+TC     	TONELADA CORTA                          	20000908	99991231	Vigente
+TCS    	TONELADA CORTA SECA                     	20000908	99991231	Vigente
+TIR    	TIRAS                                   	20001106	99991231	Vigente
+TL     	TONELADA LARGA                          	20000908	99991231	Vigente
+TLS    	TONELADA LARGA SECA                     	20000908	99991231	Vigente
+TM     	TONELADAS                               	20000908	99991231	Vigente
+TM3    	TONELADA CUBICA                         	20000908	99991231	Vigente
+TMS    	TONELADA METRICA SECA                   	20000908	99991231	Vigente
+TUB    	TUBOS                                   	20000908	99991231	Vigente
+U      	UNIDAD                                  	19960101	99991231	Vigente
+U 3    	UNIDAD POR 10**3                        	19980206	99991231	Vigente
+U 6    	UNIDAD PO 10**6                         	19960101	99991231	Vigente
+U2     	CIENTO DE UNIDADES                      	20000101	99991231	Vigente
+U6     	MILLON DE UNIDADES                      	20000101	99991231	Vigente
+YAR    	YARDAS                                  	20000101	20000907	No Vigente
+YD     	YARDA                                   	20000908	99991231	Vigente
+YD2    	YARDA CUADRADA                          	20000908	99991231	Vigente

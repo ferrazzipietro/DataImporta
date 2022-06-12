@@ -1,0 +1,8 @@
+Codigo  Descripcion                     FInicio     FFin        Vigencia
+1      	VAPOR                         	19960101	99991231	Vigente
+2      	FLUVIAL                       	20110907	99991231	Vigente
+4      	AVION                         	19960101	99991231	Vigente
+6      	FERROCARRIL                   	19960101	99991231	Vigente
+7      	CAMION                        	19960101	99991231	Vigente
+8      	POR TUBERIAS                  	19960101	99991231	Vigente
+9      	OTRAS                         	19960101	99991231	Vigente

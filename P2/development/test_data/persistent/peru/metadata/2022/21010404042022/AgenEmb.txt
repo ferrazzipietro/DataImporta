@@ -1,0 +1,312 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia 
+001    	FRITZ COMPANIES ING                                                   	19960101	99991231	Vigente
+002    	EMERY                                                                 	19960101	99991231	Vigente
+003    	ANDES  CARGO                                                          	19960101	99991231	Vigente
+004    	DANZAS                                                                	19960101	99991231	Vigente
+005    	AIR  EXPRESS INTERNATIONAL                                            	19960101	99991231	Vigente
+006    	LEP INTERNATIONAL                                                     	19960101	99991231	Vigente
+007    	PANALPINA                                                             	19960101	99991231	Vigente
+008    	STAIR CARGO SERVICE                                                   	19960101	99991231	Vigente
+009    	EXIMCOM                                                               	19960101	99991231	Vigente
+010    	FAXION JP JANSSEN                                                     	19960101	99991231	Vigente
+011    	INTERTRANS  CORPORATION                                               	19960101	99991231	Vigente
+012    	MSAS                                                                  	19960101	99991231	Vigente
+013    	OLIMPIC                                                               	19960101	99991231	Vigente
+014    	WORLD WIDE S.A.                                                       	19960101	99991231	Vigente
+015    	MIAMI  INT"L  FORWARDER                                               	19960101	99991231	Vigente
+016    	THYSSEN  HANIEL                                                       	19960101	99991231	Vigente
+017    	OMEGA & ASSOC. INT"L                                                  	19960101	99991231	Vigente
+018    	SCHENKER JET CARGO                                                    	19960101	99991231	Vigente
+019    	UNION AIR TRANSPORT                                                   	19960101	99991231	Vigente
+020    	BEST WAY CARGO INC.                                                   	19960101	99991231	Vigente
+021    	CARIBE EXPRESS                                                        	19960101	99991231	Vigente
+022    	SPACE AIR                                                             	19960101	99991231	Vigente
+023    	UNIVERSAL  AIR  EXPRESS                                               	19960101	99991231	Vigente
+024    	INTERCONTINENTALE                                                     	19960101	99991231	Vigente
+025    	TAC TRANSAM AIR CARGO                                                 	19960101	99991231	Vigente
+026    	RUSH TRANSPORT                                                        	19960101	99991231	Vigente
+027    	A.  HARTRODT                                                          	19960101	99991231	Vigente
+028    	SCAN FLIGHT                                                           	19960101	99991231	Vigente
+029    	OWEG  S.A.                                                            	19960101	99991231	Vigente
+030    	CONDOR OVERSEAS                                                       	19960101	99991231	Vigente
+031    	EMBARMAR  S.A.                                                        	19960101	99991231	Vigente
+032    	D.S.L.  TRANSPORTATION                                                	19960101	99991231	Vigente
+033    	SEOUL  AIRCARGO  SERVICE  CO  LTD                                     	19960101	99991231	Vigente
+034    	NORDISK AIR  CARGO                                                    	19960101	99991231	Vigente
+035    	AEROCARGO                                                             	19960101	99991231	Vigente
+036    	CIRCLE  FREIGHT  INTERNATIONAL                                        	19960101	99991231	Vigente
+037    	COMBINED  TRANSPORT  SERVICE INC                                      	19960101	99991231	Vigente
+038    	JAS INTER FRACHT AIR SERVICE                                          	19960101	99991231	Vigente
+039    	ALEXANDER INTERNATIONAL INC                                           	19960101	99991231	Vigente
+040    	MAX  GRUNHUT AIRCARGO                                                 	19960101	99991231	Vigente
+041    	MERZARIO                                                              	19960101	99991231	Vigente
+042    	INTERTRADE COURIER                                                    	19960101	99991231	Vigente
+043    	PEGASUS                                                               	19960101	99991231	Vigente
+044    	APRILE INTERNATIONAL SERVICE                                          	19960101	99991231	Vigente
+045    	BAMS INC                                                              	19960101	99991231	Vigente
+046    	INTERPRISE  FORWARDES                                                 	19960101	99991231	Vigente
+047    	SAFE  CARGO  FORWARDES                                                	19960101	99991231	Vigente
+048    	JACKY  MAEDER  BASEL                                                  	19960101	99991231	Vigente
+049    	KUEHNE & NAGEL  AIRFR                                                 	19960101	99991231	Vigente
+050    	PROFESSIONAL  CO-LOADING                                              	19960101	99991231	Vigente
+051    	MAHE                                                                  	19960101	99991231	Vigente
+052    	MITRANS CORPORATION                                                   	19960101	99991231	Vigente
+053    	AIRBORNE EXPRESS                                                      	19960101	99991231	Vigente
+054    	FORWARDING SERVICE                                                    	19960101	99991231	Vigente
+055    	ROYAL DUTCH AIRLINE                                                   	19960101	99991231	Vigente
+056    	SAIMA                                                                 	19960101	99991231	Vigente
+057    	GEBRUDER WEISS GMBH                                                   	19960101	99991231	Vigente
+058    	INTERCARGA U.S.A. CORPORATION                                         	19960101	99991231	Vigente
+059    	SKYWAY  U.S.A.                                                        	19960101	99991231	Vigente
+060    	RANDY INTERNATIONAL                                                   	19960101	99991231	Vigente
+061    	ECOTRANS TRANSITARIOS                                                 	19960101	99991231	Vigente
+062    	INTERTRANS  INTERNATIONAL                                             	19960101	99991231	Vigente
+063    	UNION INTERNATIONAL                                                   	19960101	99991231	Vigente
+064    	AEROTRANS                                                             	19960101	99991231	Vigente
+065    	HELLMANN  INT`L  FORWARD                                              	19960101	99991231	Vigente
+066    	SHIP & TRAP                                                           	19960101	99991231	Vigente
+067    	JAS  FORWARDING                                                       	19960101	99991231	Vigente
+068    	HI-TECH AIR SHIPPING INC                                              	19960101	99991231	Vigente
+069    	M.A.C. AIRLINES                                                       	19960101	99991231	Vigente
+070    	SERVICARGO INT`L                                                      	19960101	99991231	Vigente
+071    	CO-LOADDING  CORPORATION                                              	19960101	99991231	Vigente
+072    	DURLAR INC                                                            	19960101	99991231	Vigente
+073    	TRANSFAIR  LUFTFRAOHT  GMBH                                           	19960101	99991231	Vigente
+074    	SUNJIN SHIP ING & AIR CARGO                                           	19960101	99991231	Vigente
+075    	AMERFORD INT`L  CO.                                                   	19960101	99991231	Vigente
+076    	DACHSER  GMBH & CO. AIRFREIGTH                                        	19960101	99991231	Vigente
+077    	IMPERIAL AIR S.A.                                                     	19960101	99991231	Vigente
+078    	PETER JUSTESEN CO.                                                    	19960101	99991231	Vigente
+079    	DAN TRANSPORT                                                         	19960101	99991231	Vigente
+080    	NAVETRANS  S.A.                                                       	19960101	99991231	Vigente
+081    	TRISMARE  S.R.L.                                                      	19960101	99991231	Vigente
+082    	DHL WORLWIDE EXPRESS                                                  	19960101	99991231	Vigente
+083    	UNITED GLOBE INTERNATIONAL                                            	19960101	99991231	Vigente
+084    	COMPAGNIA TRANSPORTI   OLTRE                                          	19960101	99991231	Vigente
+085    	BCE CARGO                                                             	19960101	99991231	Vigente
+086    	ACRE CARGO                                                            	19960101	99991231	Vigente
+087    	SODETAIR                                                              	19960101	99991231	Vigente
+088    	GAELI INC                                                             	19960101	99991231	Vigente
+089    	PARTNER  AIR CARGO                                                    	19960101	99991231	Vigente
+090    	WILSON & CO. AB.                                                      	19960101	99991231	Vigente
+091    	ASG                                                                   	19960101	99991231	Vigente
+092    	M & M  INTERNATIONAL                                                  	19960101	99991231	Vigente
+093    	AMERILINES INC.                                                       	19960101	99991231	Vigente
+094    	REX  AIR & OCEAN FREIGHT                                              	19960101	99991231	Vigente
+095    	KROLL INT`L TRANSPORTES                                               	19960101	99991231	Vigente
+096    	INTERCARGO SERVICE CORP                                               	19960101	99991231	Vigente
+097    	ANCHOR CARGO INC.                                                     	19960101	99991231	Vigente
+098    	DHL AIRWAYS INC                                                       	19960101	99991231	Vigente
+099    	ROS  FORWARDING INC.                                                  	19960101	99991231	Vigente
+100    	BURLINTON AIR EXPRESS                                                 	19960101	99991231	Vigente
+101    	MADRID IBERFORWARDING S.A.                                            	19960101	99991231	Vigente
+102    	HENNINGSEN SHIPPINGAPS                                                	19960101	99991231	Vigente
+103    	GROUPAIR BV                                                           	19960101	99991231	Vigente
+104    	FREIGHT INTERTRANS (UK) L                                             	19960101	99991231	Vigente
+105    	LUIGI SERRA SPA                                                       	19960101	99991231	Vigente
+106    	HECNY TRASPORTATION INC.                                              	19960101	99991231	Vigente
+107    	C.H ROBINSON INTERNATIONAL                                            	19960101	99991231	Vigente
+108    	SPARBER TRANSPORT S.A.                                                	19960101	99991231	Vigente
+109    	HARTRODT LOCK LIMITED                                                 	19960101	99991231	Vigente
+110    	ATEGE AIR CARGO DIVISION                                              	19960101	99991231	Vigente
+111    	AIRLANE PROFESSIONAL SERV                                             	19960101	99991231	Vigente
+112    	NIPPON EXPRESS  U.S.A. INC                                            	19960101	99991231	Vigente
+113    	BDP INTERNATIONAL INC                                                 	19960101	99991231	Vigente
+114    	CARGOLUX                                                              	19960101	99991231	Vigente
+115    	CARGONAUTS, INC                                                       	19960101	99991231	Vigente
+116    	AIR TRANSPORT SERVICE                                                 	19960101	99991231	Vigente
+117    	RICHARD BOAS & CO.                                                    	19960101	99991231	Vigente
+118    	DONGBO EXPRESS CO.LTDO.GAVA INTERNATIONAL FREIGH                      	19960101	99991231	Vigente
+119    	CLOVER SYSTEMS INC                                                    	19960101	99991231	Vigente
+120    	LAMPRECHT TRANSPORT                                                   	19960101	99991231	Vigente
+121    	ROHDE & LIESENFELD INC.                                               	19960101	99991231	Vigente
+122    	EAGLE COMPANIES                                                       	19960101	99991231	Vigente
+123    	YUSEN AIR & SEA SERVICE CO LTD                                        	19960101	99991231	Vigente
+124    	GOLDEN EAGLE PERU                                                     	19960101	99991231	Vigente
+125    	GAVA INTERNATIONAL FREIGH                                             	19960101	99991231	Vigente
+126    	HANSHIN AIR CARGO                                                     	19960101	99991231	Vigente
+127    	RIGHT-O-WAY MIAMI                                                     	19960101	99991231	Vigente
+128    	SUPER CARGO INT`L SERVICES                                            	19960101	99991231	Vigente
+129    	AIRMAR CARGO SERVICES                                                 	19960101	99991231	Vigente
+130    	CIRCUIT INTERNATIONAL SERVICE                                         	19960101	99991231	Vigente
+131    	BAIROSA CONSOLIDATORS INC                                             	19960101	99991231	Vigente
+132    	HAPPER FREIGHT INT`L                                                  	19960101	99991231	Vigente
+133    	FIORAVANTI S.R.L.                                                     	19960101	99991231	Vigente
+134    	A & M LINE INC                                                        	19960101	99991231	Vigente
+135    	CARELI CARGO                                                          	19960101	99991231	Vigente
+136    	ANCLA CARGA LTDA                                                      	19960101	99991231	Vigente
+137    	TAVONI INTERNATIONAL                                                  	19960101	99991231	Vigente
+138    	J.M  OZALLA  S.A.                                                     	19960101	99991231	Vigente
+139    	GTE-GENERAL TRANSPORT ESPANA S.A.                                     	19960101	99991231	Vigente
+140    	IBERCONDOR                                                            	19960101	99991231	Vigente
+141    	AMR SHIPPING LTD                                                      	19960101	99991231	Vigente
+142    	DAHER AMERICA                                                         	19960101	99991231	Vigente
+143    	JAMS                                                                  	19960101	99991231	Vigente
+144    	ECUAIR                                                                	19960101	99991231	Vigente
+145    	AEROSPAW  CARGO INT`L INC                                             	19960101	99991231	Vigente
+146    	MAT TRANSPORT  LTD                                                    	19960101	99991231	Vigente
+147    	TIBA INTERNATIONAL S.A.                                               	19960101	99991231	Vigente
+148    	INTERCOEX  S.A.                                                       	19960101	99991231	Vigente
+149    	AIR CARGO PROMOTION S.A.                                              	19960101	99991231	Vigente
+150    	FERRIER AIR CARGO                                                     	19960101	99991231	Vigente
+151    	TRANS GLOBAL AIR LTD                                                  	19960101	99991231	Vigente
+152    	HAMANN INTERNATIONAL                                                  	19960101	99991231	Vigente
+153    	HANA AIR & SEA  TRANSPORT  CO  LTD                                    	19960101	99991231	Vigente
+154    	INTERN  SPEDITIONS  G/S                                               	19960101	99991231	Vigente
+155    	LOAD  CARGO  INTERNATIONAL                                            	19960101	99991231	Vigente
+156    	T,A,T,  CARGO  LTDA                                                   	19960101	99991231	Vigente
+157    	BROFOR                                                                	19960101	99991231	Vigente
+158    	HOUSE   TO  HOUSE  INC                                                	19960101	99991231	Vigente
+159    	F.X.  COUGHLIN (IBERICA) S.L.                                         	19960101	99991231	Vigente
+160    	GAMBELL  CARGO  SERVICE  S.A.                                         	19960101	99991231	Vigente
+161    	UNION  TRASPORT  CORPORATION                                          	19960101	99991231	Vigente
+163    	LAND  JOY  INT`L  FORWARDERS                                          	19960101	99991231	Vigente
+164    	RADIX GROUP  INTERNATIONAL  INC                                       	19960101	99991231	Vigente
+165    	EXPRESS  AIR  FREIGHT  UN  LTD  INC                                   	19960101	99991231	Vigente
+166    	PANATLANTIC                                                           	19960101	99991231	Vigente
+167    	GEFCO  SERVICE  AERIENS                                               	19960101	99991231	Vigente
+168    	KAMINO  INT  TRANSPORT  AG.                                           	19960101	99991231	Vigente
+169    	NEW  CARGO  JET                                                       	19960101	99991231	Vigente
+170    	TRANSPORT  SERVICE                                                    	19960101	99991231	Vigente
+171    	J.H  BACHMANN   LUFTCRACHT                                            	19960101	99991231	Vigente
+172    	NOVA  TRAFFIC                                                         	19960101	99991231	Vigente
+173    	AVIATUR  S.A.                                                         	19960101	99991231	Vigente
+174    	MERCURY  AIR  CARGO  INC                                              	19960101	99991231	Vigente
+175    	CONSOLIDATION  SERVICE  LTD                                           	19960101	99991231	Vigente
+176    	LITO  FM  S.A.                                                        	19960101	99991231	Vigente
+177    	AERO SERVICIOS  S.A.                                                  	19960101	99991231	Vigente
+178    	AIRT LINK  HOUSE                                                      	19960101	99991231	Vigente
+179    	SASCO  SHIPPING  CORP                                                 	19960101	99991231	Vigente
+180    	TIE  CARGO  CORP.                                                     	19960101	99991231	Vigente
+181    	ROEHLIG & CO.  (GMBH & CO.)                                           	19960101	99991231	Vigente
+182    	VANGUARD  FREIGHT SYSTEMS  LIMITED                                    	19960101	99991231	Vigente
+183    	COLCARGA  Y/O  AEROSUCRE                                              	19960101	99991231	Vigente
+184    	ALLFREIGHT INTL  CARGO  INC.                                          	19960101	99991231	Vigente
+185    	AIRSCHOTT  INC.                                                       	19960101	99991231	Vigente
+186    	AIR  CARGO MANIFEST + INVOICE                                         	19960101	99991231	Vigente
+187    	SCHRYVER  LUFTFRACHT                                                  	19960101	99991231	Vigente
+188    	FR.  MYERS SOHN                                                       	19960101	99991231	Vigente
+189    	E.I.  ITALY  SPA                                                      	19960101	99991231	Vigente
+190    	T.T.A.  US  TRANSPORTS  AERIENS                                       	19960101	99991231	Vigente
+191    	JOHANN  BIRKART  JB                                                   	19960101	99991231	Vigente
+192    	MORRISON  EXPRESS  CORPORATION  LTD                                   	19960101	99991231	Vigente
+193    	ARTNER  INTERNACIONAL                                                 	19960101	99991231	Vigente
+194    	FLOTA  DEL  PERU                                                      	19960101	99991231	Vigente
+195    	NISSIN  INT  SPEDITION                                                	19960101	99991231	Vigente
+196    	SUN  EXPRESS  CORPORATION                                             	19960101	99991231	Vigente
+197    	CARGO  TRANS                                                          	19960101	99991231	Vigente
+198    	TOWER  GROUP  INTL                                                    	19960101	99991231	Vigente
+199    	ATLASAIR                                                              	19960101	99991231	Vigente
+200    	RECLAV INL  FREIGHT  SERVICE                                          	19960101	99991231	Vigente
+201    	CORDOBA  INTERNATIONAL  SRL                                           	19960101	99991231	Vigente
+202    	AMARSAC                                                               	19960101	99991231	Vigente
+203    	PBB  INTERNATIONAL  FREIGHT  DERVICE                                  	19960101	99991231	Vigente
+204    	THE  HIPAGE  CO  INC                                                  	19960101	99991231	Vigente
+205    	W.  NEIMANN                                                           	19960101	99991231	Vigente
+206    	AIR  MOIROUD  S.A.                                                    	19960101	99991231	Vigente
+207    	TECHNO  AIR FREIGHT                                                   	19960101	99991231	Vigente
+208    	UNIPARA  EXPRESS                                                      	19960101	99991231	Vigente
+209    	A.S. FELLESTRANSPORTM ( IATA)                                         	19960101	99991231	Vigente
+210    	STAIR SHIPPING  S.R.L.                                                	19960101	99991231	Vigente
+211    	KN  DEIC  MAR  TRANSP.  INTL  LTDA                                    	19960101	99991231	Vigente
+212    	CONROUTE  AIR  CARGO                                                  	19960101	99991231	Vigente
+213    	JET  CARGO  CONSOLIDATORS                                             	19960101	99991231	Vigente
+214    	AIR  SEA  WORLDWIDE  LOGISTIES  LTD                                   	19960101	99991231	Vigente
+215    	S.  BOARDMAN (AIR EXPRESS)LTD                                         	19960101	99991231	Vigente
+216    	SADA  ITALIA  S.P.A.                                                  	19960101	99991231	Vigente
+217    	GLOVER INTERNATIONAL  INC                                             	19960101	99991231	Vigente
+218    	INTERNATIONAL  BONDED  COURIER ( IBC)                                 	19960101	99991231	Vigente
+219    	PRESS  CARGO  S.A.                                                    	19960101	99991231	Vigente
+220    	MAN  CARGO  HANDLIN                                                   	19960101	99991231	Vigente
+221    	SPACE  CARGO                                                          	19960101	99991231	Vigente
+222    	STAR PAK AIR  CARGO                                                   	19960101	99991231	Vigente
+223    	TRANS  EXPRESS                                                        	19960101	99991231	Vigente
+224    	AVIOMAR  S.A.                                                         	19960101	99991231	Vigente
+225    	ODINO  VALPERGA & GRAJA  SPA  GENOA                                   	19960101	99991231	Vigente
+226    	SENCARGA  S.A.                                                        	19960101	99991231	Vigente
+227    	SEKO  AIR  FREIGHT.  INC                                              	19960101	99991231	Vigente
+228    	LOCHER  EVERS  INTERNATIONAL                                          	19960101	99991231	Vigente
+229    	CARGO LINEA  JOSA  S.A.                                               	19960101	99991231	Vigente
+230    	H.J.M.  ESTELLEZ  S.A.                                                	19960101	99991231	Vigente
+231    	BERGARECHE  RUIZ  BASA                                                	19960101	99991231	Vigente
+232    	JTB  AIR  CARGO  DIVISIO.  INC                                        	19960101	99991231	Vigente
+233    	EXPEDITORS  INTL  ESPANA  S.A.                                        	19960101	99991231	Vigente
+234    	KORUS  INTERNATIONAL  FREIGHT                                         	19960101	99991231	Vigente
+235    	SECURG  FREIGHT                                                       	19960101	99991231	Vigente
+236    	ROHLIG  AIRCARGO  GMBH                                                	19960101	99991231	Vigente
+237    	D.F.E.I                                                               	19960101	99991231	Vigente
+238    	FLORIDA  CARGO  S.A.                                                  	19960101	99991231	Vigente
+239    	EXPEDITORS INT`L  OF  WASHINGTON                                      	19960101	99991231	Vigente
+240    	SERVICE  BY AIR  INC                                                  	19960101	99991231	Vigente
+241    	LOGTRANS  INTERNATIONAL                                               	19960101	99991231	Vigente
+242    	ETA  EXPRESS  TRANSPORT  BY  AIR                                      	19960101	99991231	Vigente
+243    	DYNAMIC  AIR  FREIGHT                                                 	19960101	99991231	Vigente
+244    	GEIS  CARGO  IM  INTERNATIONAL  GMBH                                  	19960101	99991231	Vigente
+245    	BIRKART  EAST  WEST  INT`L  FORWARDING LTD                            	19960101	99991231	Vigente
+246    	TRANSIACARGO  S.A.                                                    	19960101	99991231	Vigente
+247    	IRISH  EXPRESS  CARGO                                                 	19960101	99991231	Vigente
+248    	LPD  GRAJA  &  CAORSI  SPA                                            	19960101	99991231	Vigente
+249    	PAGET  SHIPPING  LIMITED  SPACEREGAL  CENTRE                          	19960101	99991231	Vigente
+250    	TRANSCAMER                                                            	19960101	99991231	Vigente
+251    	BERBEN  EXPRESS                                                       	19960101	99991231	Vigente
+252    	GROUPE  HEPPNER                                                       	19960101	99991231	Vigente
+253    	VICTOR  EK                                                            	19960101	99991231	Vigente
+254    	HOUSE  FREIGHT  TRANSITARIO  DE CARGAS  LTDA                          	19960101	99991231	Vigente
+255    	EXPRESS  S.R.L.                                                       	19960101	99991231	Vigente
+256    	CAPITAL  FREIGHT  SYSTEMS  S.A.                                       	19960101	99991231	Vigente
+257    	HANKYU  EXPRESS  INTERNATIONAL  CO.  LTD                              	19960101	99991231	Vigente
+258    	STEP  CARGO  S.A.                                                     	19960101	99991231	Vigente
+259    	CLIPER  S.A.                                                          	19960101	99991231	Vigente
+260    	SYSTEMS  AMERICAN  CARGO                                              	19960101	99991231	Vigente
+261    	A.E.I.  ITALY  SPA                                                    	19960101	99991231	Vigente
+262    	JUAN  MIGUEL  OZALLA  S.A.                                            	19960101	99991231	Vigente
+263    	AIRTRANSA                                                             	19960101	99991231	Vigente
+264    	SPECTRA  PACIFIC  AIR  CARGO  EXPRESS                                 	19960101	99991231	Vigente
+265    	E.I.  FREIGHT  CANADA  LTD                                            	19960101	99991231	Vigente
+266    	SCAN  TRANSPORT   USA                                                 	19960101	99991231	Vigente
+267    	FAMILY  EXPRESS                                                       	19960101	99991231	Vigente
+268    	ORGANINIZACION  CHILETRANS                                            	19960101	99991231	Vigente
+269    	INTERNATIONAL  TRANSPORT  FORWARDING  S.A.                            	19960101	99991231	Vigente
+270    	ENROUTE  AIR  CARGO                                                   	19960101	99991231	Vigente
+271    	TOKYU  WORLD TRANSPORT (USA) INC                                      	19960101	99991231	Vigente
+272    	DAVID  KIRSCH FORWARDERS  LTD                                         	19960101	99991231	Vigente
+273    	OTIM  ORGANIZZAZIONE  TRASPORT                                        	19960101	99991231	Vigente
+274    	CROWE  AIR  CARGO                                                     	19960101	99991231	Vigente
+275    	NCT  NECOTRANS                                                        	19960101	99991231	Vigente
+276    	ATS  EXPORT  S.R.L.                                                   	19960101	99991231	Vigente
+277    	ASSOCIATED  AIR  FREIGHT  ING                                         	19960101	99991231	Vigente
+278    	SOUTH PACIFIC  FORWARDERS  PTY  LTD                                   	19960101	99991231	Vigente
+279    	AIRSPED  LTD                                                          	19960101	99991231	Vigente
+280    	THE  EASY  WAY  USA  INC                                              	19960101	99991231	Vigente
+281    	ARNAUD                                                                	19960101	99991231	Vigente
+282    	SOUTH  BOUND  CORD                                                    	19960101	99991231	Vigente
+283    	ALMAR  INTERNACIONAL DE ARGENTINA  SA.                                	19960101	99991231	Vigente
+284    	CARGO  PLUS  AGENCIAMIENTO DE CARGA                                   	19960101	99991231	Vigente
+285    	F.F.F.  (FAST  FREIGHT   FORWODERS  INC)                              	19960101	99991231	Vigente
+286    	KINTETSU  WORLD  EXPRESS (U.S.A.)  INC                                	19960101	99991231	Vigente
+287    	AIRLINE  PROFESSIONAL  SERVICE                                        	19960101	99991231	Vigente
+288    	NEPTUNO  AGENCIAS MARITIMAS                                           	19960101	99991231	Vigente
+289    	INTERNATIONAL TRADE TRANSPORT  INC                                    	19960101	99991231	Vigente
+290    	INTER-MARITIME  FORWARDING CO, INC                                    	19960101	99991231	Vigente
+291    	MARIGNANE  AIR  FRET                                                  	19960101	99991231	Vigente
+292    	IBERSICCEX   S.L.                                                     	19960101	99991231	Vigente
+293    	AIR SEA  FORWARDERS, INC                                              	19960101	99991231	Vigente
+294    	VAROVA  OY  RAHTITIE                                                  	19960101	99991231	Vigente
+295    	MAPCARGO INTERNATIONAL                                                	19960101	99991231	Vigente
+296    	HORIZON  FORWARDERS  INC                                              	19960101	99991231	Vigente
+297    	EMO  TRANS                                                            	19960101	99991231	Vigente
+298    	CENTRAL  AIR  FREIGHT                                                 	19960101	99991231	Vigente
+299    	TIGER  EXPRESS SFO                                                    	19960101	99991231	Vigente
+300    	A.B.C AMERICAN BUSINES CARGO S.A.                                     	19960101	99991231	Vigente
+301    	JAS  JET  AIR  SERVICE  S.P.A                                         	19960101	99991231	Vigente
+302    	AIR  BALGUERIE  SERVICE  AERIEN                                       	19960101	99991231	Vigente
+303    	INTERNATIONAL AIRFREIGHT  AND  CONSOLIDATORS                          	19960101	99991231	Vigente
+304    	KOREA  AIR  FREIGHT  LTD                                              	19960101	99991231	Vigente
+305    	CALBERSON  UK  LIMITED                                                	19960101	99991231	Vigente
+306    	W.E.S.T. FORWARDING  SERVICE                                          	19960101	99991231	Vigente
+307    	CARGOTECH                                                             	19960101	99991231	Vigente
+308    	OLYMPIC  FORWARDES  LTD                                               	19960101	99991231	Vigente
+309    	ELCO  FREIGHT  INTL  INC                                              	19960101	99991231	Vigente
+310    	PACTRANS(USA)INC                                                      	19960101	99991231	Vigente
+311    	SWISS  ALPINA  CARGO  SA                                              	19960101	99991231	Vigente
+999    	VARIOS                                                                	19960101	99991231	Vigente

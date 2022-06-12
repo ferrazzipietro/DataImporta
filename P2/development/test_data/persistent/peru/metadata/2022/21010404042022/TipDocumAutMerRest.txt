@@ -1,0 +1,22 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia 
+01     	AUTORIZACION DE IMPORTACION Y/O EXPORTACION                           	19990922	99991231	Vigente
+02     	RESOLUCION DE IMPORTACION Y EXPORTACION. RES.INTERNAM                 	19990922	99991231	Vigente
+03     	CERTIFICADO                                                           	19990922	99991231	Vigente
+04     	CONSTANCIA                                                            	19990922	99991231	Vigente
+05     	LICENCIA DE INTERNAMIENTO                                             	19990922	99991231	Vigente
+06     	DECLARACION JURADA                                                    	19990922	99991231	Vigente
+07     	INF. TECNICO DE AUTORIZACION                                          	20040723	99991231	Vigente
+08     	REGISTRO                                                              	20040723	99991231	Vigente
+09     	PERMISO                                                               	20040723	99991231	Vigente
+10     	VISACION                                                              	20040723	99991231	Vigente
+11     	DECLARACION DE CONFORMIDAD                                            	20051031	99991231	Vigente
+12     	EXPEDIENTE - EN TRAMITE                                               	20070725	99991231	Vigente
+13     	REGISTRO INTERNACIONAL                                                	20070725	99991231	Vigente
+14     	AUTORIZACION DE INGRESO DE IQBF                                       	20130827	99991231	Vigente
+15     	AUTORIZACION DE SALIDA DE IQBF                                        	20130827	99991231	Vigente
+16     	NOTIFICACION SANITARIA                                                	20151021	99991231	Vigente
+17     	FICHA TECNICA                                                         	20151022	99991231	Vigente
+18     	REPORTE DE INSPECCION                                                 	20151022	99991231	Vigente
+20     	SOLICITUD ÚNICA DE COMERCIO EXTERIOR - SUCE                           	20160725	99991231	Vigente
+21     	DOCUMENTO RESOLUTIVO VUCE (DR)                                        	20160725	99991231	Vigente
+99     	OTROS                                                                 	19990922	99991231	Vigente

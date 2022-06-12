@@ -1,0 +1,209 @@
+Codigo  Descripcion                                                     FInicio     FFin        Vigencia
+AE     	AEROSOL                                                     	19970101	99991231	Vigente
+AM     	AMPOULE, NON-PROTECTED                                      	19970101	99991231	Vigente
+AP     	AMPOULE, PROTECTED                                          	19970101	99991231	Vigente
+AT     	ATOMIZER                                                    	19970101	99991231	Vigente
+ATD    	ATADOS                                                      	19960101	99991231	Vigente
+BA     	BARREL                                                      	19970101	99991231	Vigente
+BAL    	BALAS                                                       	19960101	99991231	Vigente
+BB     	BOBBIN                                                      	19970101	99991231	Vigente
+BC     	BOTTLECRATE, BOTTLERACK                                     	19970101	99991231	Vigente
+BD     	BOARD                                                       	19970101	99991231	Vigente
+BE     	BUNDLE                                                      	19970101	99991231	Vigente
+BF     	BALLOON, NON-PROTECTED                                      	19970101	99991231	Vigente
+BG     	BAG                                                         	19970101	99991231	Vigente
+BH     	BUNCH                                                       	19970101	99991231	Vigente
+BI     	BIN                                                         	19970101	99991231	Vigente
+BID    	BIDONES                                                     	19960101	99991231	Vigente
+BJ     	BUCKET                                                      	19970101	99991231	Vigente
+BK     	BASKET                                                      	19970101	99991231	Vigente
+BL     	BALE, COMPRESSED                                            	19970101	99991231	Vigente
+BLL    	BULLET                                                      	19960101	99991231	Vigente
+BLS    	BOLSAS                                                      	19960101	99991231	Vigente
+BN     	BALE, NON-COMPRESSED                                        	19970101	99991231	Vigente
+BO     	BOTTLE, NON-PROTECTED, CYLINDRICAL                          	19970101	99991231	Vigente
+BOB    	BOBINAS                                                     	19960101	99991231	Vigente
+BOT    	BOTELLAS                                                    	19960101	99991231	Vigente
+BP     	BALLOON, PROTECTED                                          	19970101	99991231	Vigente
+BQ     	BOTTLE, PROTECTED CYLINDRICAL                               	19970101	99991231	Vigente
+BR     	BAR                                                         	19970101	99991231	Vigente
+BRR    	BARRILES                                                    	19960101	99991231	Vigente
+BS     	BOTTLE, NON-PROTECTED, BULBOUS                              	19970101	99991231	Vigente
+BT     	BOLT                                                        	19970101	99991231	Vigente
+BU     	BUTT                                                        	19970101	99991231	Vigente
+BUL    	BULTOS                                                      	19960101	99991231	Vigente
+BV     	BOTTLE, PROTECTED BULBOUS                                   	19970101	99991231	Vigente
+BX     	BOX                                                         	19970101	99991231	Vigente
+BY     	BOARD, IN BUNDLE/BUNCH/TRUSS                                	19970101	99991231	Vigente
+BZ     	BARS, IN BUNDLE/BUNCH/TRUSS                                 	19970101	99991231	Vigente
+CA     	CAN, RECTANGULAR                                            	19970101	99991231	Vigente
+CAJ    	CAJAS                                                       	19960101	99991231	Vigente
+CB     	BEER CRATE                                                  	19970101	99991231	Vigente
+CC     	CHURN                                                       	19970101	99991231	Vigente
+CE     	CREEL                                                       	19970101	99991231	Vigente
+CF     	COFFER                                                      	19970101	99991231	Vigente
+CG     	CAGE                                                        	19970101	99991231	Vigente
+CH     	CHEST                                                       	19970101	99991231	Vigente
+CI     	CANISTER                                                    	19970101	99991231	Vigente
+CIL    	CILINDROS                                                   	19960101	99991231	Vigente
+CJ     	COFFIN                                                      	19970101	99991231	Vigente
+CK     	CASK                                                        	19970101	99991231	Vigente
+CKD    	COMPLETELY KNOCKDOWN                                        	19960101	99991231	Vigente
+CL     	COIL                                                        	19970101	99991231	Vigente
+CNT    	CIENTOS                                                     	19960101	99991231	Vigente
+CO     	CARBOY, NON-PROTECTED                                       	19970101	99991231	Vigente
+CP     	CARBOY, PROTECTED                                           	19970101	99991231	Vigente
+CR     	CRATE                                                       	19970101	99991231	Vigente
+CRT    	CARTONES                                                    	19960101	99991231	Vigente
+CS     	CASE                                                        	19970101	99991231	Vigente
+CT     	CARTON                                                      	19970101	99991231	Vigente
+CTN    	CONTENEDOR                                                  	19960101	99991231	Vigente
+CU     	CUP                                                         	19970101	99991231	Vigente
+CUB    	CUBETA                                                      	19960101	99991231	Vigente
+CUN    	CUYETES                                                     	19960101	99991231	Vigente
+CV     	COVER                                                       	19970101	99991231	Vigente
+CX     	CAN, CYLINDRICAL                                            	19970101	99991231	Vigente
+CY     	CYLINDER                                                    	19970101	99991231	Vigente
+CZ     	CANVAS                                                      	19970101	99991231	Vigente
+DJ     	DEMIJOHN, NON-PROTECTED                                     	19970101	99991231	Vigente
+DOC    	DOCENA                                                      	19960101	99991231	Vigente
+DP     	DEMIJOHN, PROTECTED                                         	19970101	99991231	Vigente
+DPA    	DOCENA DE PARES                                             	19960101	99991231	Vigente
+DR     	DRUM                                                        	19970101	99991231	Vigente
+EN     	ENVELOPE                                                    	19970101	99991231	Vigente
+ENG    	ENGRADADOS                                                  	19960101	99991231	Vigente
+ERJ    	ENREJADOS                                                   	19960101	99991231	Vigente
+ESQ    	ESQUELETOS                                                  	19960101	99991231	Vigente
+EST    	ESTIBAS                                                     	19960101	99991231	Vigente
+FAR    	FARDOS                                                      	19960101	99991231	Vigente
+FC     	FRUIT CRATE                                                 	19970101	99991231	Vigente
+FD     	FRAMED CRATE                                                	19970101	99991231	Vigente
+FI     	FIRKIN                                                      	19970101	99991231	Vigente
+FL     	FLASK                                                       	19970101	99991231	Vigente
+FO     	FOOTLOCKER                                                  	19970101	99991231	Vigente
+FP     	FILMPACK                                                    	19970101	99991231	Vigente
+FR     	FRAME                                                       	19970101	99991231	Vigente
+GAL    	US GALON                                                    	19960101	99991231	Vigente
+GB     	GAS BOTTLE                                                  	19970101	99991231	Vigente
+GI     	GIRDER                                                      	19970101	99991231	Vigente
+GRM    	GRAMOS                                                      	19960101	99991231	Vigente
+GRN    	GRANEL                                                      	19960101	99991231	Vigente
+GRU    	GRUESAS                                                     	19960101	99991231	Vigente
+GZ     	GIRDERS, IN BUNDLE/BUNCH/TRUSS                              	19970101	99991231	Vigente
+HG     	HOGSHEAD                                                    	19970101	99991231	Vigente
+HOJ    	HOJAS                                                       	19960101	99991231	Vigente
+HR     	HAMPER                                                      	19970101	99991231	Vigente
+HUA    	HUACALES                                                    	19960101	99991231	Vigente
+IN     	INGOT                                                       	19970101	99991231	Vigente
+IZ     	INGOTS, IN BUNDLE/BUNCH/TRUSS                               	19970101	99991231	Vigente
+JAB    	JABAS                                                       	19960101	99991231	Vigente
+JC     	JERRICAN, RECTANGULAR                                       	19970101	99991231	Vigente
+JG     	JUG                                                         	19970101	99991231	Vigente
+JGS    	JUEGO DE PIEZAS                                             	19960101	99991231	Vigente
+JR     	JAR                                                         	19970101	99991231	Vigente
+JT     	JUTEBAG                                                     	19970101	99991231	Vigente
+JY     	JERRICAN, CYLINDRICAL                                       	19970101	99991231	Vigente
+KG     	KEG                                                         	19970101	99991231	Vigente
+KGS    	KILOGRAMOS                                                  	19960101	99991231	Vigente
+KLW    	KILOWATTS                                                   	19960101	99991231	Vigente
+KM     	KILOMETROS                                                  	20080717	99991231	Vigente
+KW3    	KILOVATIO HORA POR 10**3                                    	19980203	99991231	Vigente
+LAT    	LATAS                                                       	19960101	99991231	Vigente
+LBS    	LIBRAS                                                      	19960101	99991231	Vigente
+LG     	LOG                                                         	19970101	99991231	Vigente
+LIT    	LITROS                                                      	19960101	99991231	Vigente
+LOT    	LOTES                                                       	19960101	99991231	Vigente
+LZ     	LOGS, IN BUNDLE/BUNCH/TRUSS                                 	19970101	99991231	Vigente
+M      	METROS                                                      	20080717	99991231	Vigente
+M3     	METRO CUBICO                                                	20110101	99991231	Vigente
+M36    	TONELADA CUBICA                                             	20110101	99991231	Vigente
+MB     	MULTIPLY BAG                                                	19970101	99991231	Vigente
+MC     	MILK CRATE                                                  	19970101	99991231	Vigente
+MLL    	MILLARES                                                    	19960101	99991231	Vigente
+MS     	MULTIWALL SACK                                              	19970101	99991231	Vigente
+MT     	MAT                                                         	19970101	99991231	Vigente
+MT2    	METROS CUADRADOS                                            	19960101	99991231	Vigente
+MT3    	METROS CUBICOS                                              	19960101	99991231	Vigente
+MTS    	METROS LINEALES                                             	19960101	99991231	Vigente
+MX     	MATCH BOX                                                   	19970101	99991231	Vigente
+NE     	UNPACKED OR UNPACKAGED                                      	19970101	99991231	Vigente
+NS     	NEST                                                        	19970101	99991231	Vigente
+NT     	NET                                                         	19970101	99991231	Vigente
+ONZ    	ONZAS                                                       	19960101	99991231	Vigente
+PA     	PACKET                                                      	19970101	99991231	Vigente
+PAL    	PALETAS                                                     	19960101	99991231	Vigente
+PAR    	PARES                                                       	19960101	99991231	Vigente
+PC     	PARCEL                                                      	19970101	99991231	Vigente
+PCH    	PLANCHAS                                                    	19960101	99991231	Vigente
+PG     	PLATE                                                       	19970101	99991231	Vigente
+PG2    	PULGADAS CUADRADAS                                          	19960101	99991231	Vigente
+PGS    	PULGADAS                                                    	19960101	99991231	Vigente
+PH     	PITCHER                                                     	19970101	99991231	Vigente
+PI     	PIPE                                                        	19970101	99991231	Vigente
+PIE    	PIE                                                         	19960101	99991231	Vigente
+PK     	PACKAGE                                                     	19970101	99991231	Vigente
+PL     	PAIL                                                        	19970101	99991231	Vigente
+PN     	PLANK                                                       	19970101	99991231	Vigente
+PO     	POUCH                                                       	19970101	99991231	Vigente
+PQT    	PAQUETES                                                    	19960101	99991231	Vigente
+PS2    	PIES CUADRADOS                                              	19960101	99991231	Vigente
+PS3    	PIES CUBICOS                                                	19960101	99991231	Vigente
+PT     	POT                                                         	19970101	99991231	Vigente
+PTE    	POTES                                                       	19960101	99991231	Vigente
+PTF    	PLATAFORMAS                                                 	19960101	99991231	Vigente
+PU     	TRAY                                                        	19970101	99991231	Vigente
+PY     	PLATES, IN BUNDLE/BUNCH/TRUSS                               	19970101	99991231	Vigente
+PZ     	PIPES, IN BUNDLE/BUNCH/TRUSS                                	19970101	99991231	Vigente
+PZS    	PIEZAS                                                      	19960101	99991231	Vigente
+QLT    	QUILATES                                                    	19960101	99991231	Vigente
+RD     	ROD                                                         	19970101	99991231	Vigente
+RG     	RING                                                        	19970101	99991231	Vigente
+RL     	REEL                                                        	19970101	99991231	Vigente
+RLL    	ROLLOS                                                      	19960101	99991231	Vigente
+RO     	ROLL                                                        	19970101	99991231	Vigente
+RT     	REDNET                                                      	19970101	99991231	Vigente
+RZ     	RODS, IN BUNDLE/BUNCH/TRUSS                                 	19970101	99991231	Vigente
+SA     	SACK                                                        	19970101	99991231	Vigente
+SAC    	SACOS                                                       	19960101	99991231	Vigente
+SC     	SHALLOW CRATE                                               	19970101	99991231	Vigente
+SD     	SPINDLE                                                     	19970101	99991231	Vigente
+SE     	SEA-CHEST                                                   	19970101	99991231	Vigente
+SH     	SACHET                                                      	19970101	99991231	Vigente
+SK     	SKELETON CASE                                               	19970101	99991231	Vigente
+SKI    	SKIDS                                                       	19960101	99991231	Vigente
+SL     	SLIPSHEET                                                   	19970101	99991231	Vigente
+SM     	SHEETMETAL                                                  	19970101	99991231	Vigente
+ST     	SHEET                                                       	19970101	99991231	Vigente
+SU     	SUITCASE                                                    	19970101	99991231	Vigente
+SW     	SHRINKWRAPPED                                               	19970101	99991231	Vigente
+SZ     	SHEETS, IN BUNDLE/BUNCH/TRUSS                               	19970101	99991231	Vigente
+TAM    	TAMBORES                                                    	19960101	99991231	Vigente
+TB     	TUB                                                         	19970101	99991231	Vigente
+TC     	TEA-CHEST                                                   	19970101	99991231	Vigente
+TD     	COLLAPSIBLE TUBE                                            	19970101	99991231	Vigente
+TK     	TANK, RECTANGULAR                                           	19970101	99991231	Vigente
+TN     	TIN                                                         	19970101	99991231	Vigente
+TNM    	TONELADAS METRICAS                                          	19960101	99991231	Vigente
+TO     	TUN                                                         	19970101	99991231	Vigente
+TR     	TRUNK                                                       	19970101	99991231	Vigente
+TS     	TRUSS                                                       	19970101	99991231	Vigente
+TU     	TUBE                                                        	19970101	99991231	Vigente
+TY     	TANK, CYLINDRICAL                                           	19970101	99991231	Vigente
+TZ     	TUBES, IN BUNDLE/BUNCH/TRUSS                                	19970101	99991231	Vigente
+UNI    	UNIDADES                                                    	19960101	99991231	Vigente
+VA     	VAT                                                         	19970101	99991231	Vigente
+VEI    	VEHICULO                                                    	19960101	99991231	Vigente
+VG     	BULK, GAS (AT 1031 MBAR AND 15ØC)                           	19970101	99991231	Vigente
+VI     	VIAL                                                        	19970101	99991231	Vigente
+VL     	BULK, LIQUID                                                	19970101	99991231	Vigente
+VO     	BULK, SOLID, LARGE PARTICLES ("NODULES")                    	19970101	99991231	Vigente
+VP     	VACUUM-PACKED                                               	19970101	99991231	Vigente
+VQ     	BULK, LIQUEFIED GAS (AT ABNORMAL TEMPERATURE/PRESSURE)      	19970101	99991231	Vigente
+VR     	BULK, SOLID, GRANULAR PARTICLES ("GRAINS")                  	19970101	99991231	Vigente
+VY     	BULK, SOLID, FINE PARTICLES ("POWDERS")                     	19970101	99991231	Vigente
+WAT    	WATT                                                        	19960101	99991231	Vigente
+WB     	WICKERBOTTLE                                                	19970101	99991231	Vigente
+YRD    	YARDAS                                                      	19960101	99991231	Vigente
+Z1     	PALETA                                                      	19970101	99991231	Vigente
+Z2     	CONTENEDOR                                                  	19970101	99991231	Vigente
+Z3     	UNIDADES                                                    	19970101	99991231	Vigente

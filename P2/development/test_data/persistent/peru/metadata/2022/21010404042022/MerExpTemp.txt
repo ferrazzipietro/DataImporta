@@ -1,0 +1,7 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia 
+1      	PROCESAMIENTO DE PELICULA                                             	19960101	99991231	Vigente
+2      	REPARACIONES                                                          	19960101	99991231	Vigente
+3      	BIENES DE CAPITAL                                                     	19960101	99991231	Vigente
+4      	ENVASE PARA REMISION DE MERCADERIA                                    	19960101	99991231	Vigente
+5      	MOLDES Y MATRICES                                                     	19960101	99991231	Vigente
+6      	OTROS                                                                 	19960101	99991231	Vigente

@@ -1,0 +1,42 @@
+Each file in this folder explain the codes that are present in the import-export data (from now on called DATA). 
+Each DATA's column has a name. That name is the title of the respective file in this folder.
+
+
+
+
+These names are codes, that represent respectively:
+
+###########
+### EXPORT and IMPORT FILES
+###########
+
+
+SH = Harmonized System "Códigos e descrições do Sistema Harmonizado (Seções, Capítulos-SH2, Posições-SH4 e Subposições-SH6)." All the data here have the code SH4 that IS VERY GENERAL. The use is deprecated. It is better to use NCM data
+
+NCM = Código da Nomenclatura Comum Mercosul - Utilizada para controle e identificação das mercadorias comercializadas no Brasil e nos outros países do Mercosul (cada NCM representa um produto diferente).
+THIS CONTAINS:
+	- PPE: Schedule of Exported Products
+	- PPI: Schedule of Imported Products
+	- FAT_AGREG: Not clear to me
+	- CGCE_N3: Classificação por Grandes Categorias Econômicas
+	- SIIT: Not clear at all (there are not data about it)
+	- ISIC: International Classification Economical Activities. "Códigos e descrições da classificação ISIC (Revisão 4)."
+	- EXP_SUBSET: Not clear at all (there are not data about it)
+
+CUCI = Standard Classification for International Commerce. "Códigos e descrições dos níveis da classificação CUCI (Revisão 4). Pode ser utilizada conjuntamente com ISIC."
+
+PAIS = Country
+
+MUN = City (in Brazil). Contains also the information about the Unitad Federativa (State). (código município da empresa declarante); 
+
+UF = Unidades da Federação. Brazil is dived in multiple UF, also called States. (sigla UF da empresa declarante)
+
+KG_LIQUIDO = net kilograms of product
+
+VL_FOB = valor dólar FOB (US$).
+
+CO_UNID = código da unidade estatística
+
+
+On the websites we can download the data from 1997. The aggregation can also be for NCM (Nomenclatur Comúm del Mercosur). 
+https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta#Tabelas_Correlacoes

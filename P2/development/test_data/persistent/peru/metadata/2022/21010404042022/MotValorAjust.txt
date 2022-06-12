@@ -1,0 +1,14 @@
+Codigo  Descripcion                                                     FInicio     FFin        Vigencia
+01     	FACTURA COMERCIAL                                           	19990922	99991231	Vigente
+02     	CONTRATO                                                    	19990922	99991231	Vigente
+03     	SIVAM REFERENCIAS OFICIALES                                 	19990922	99991231	Vigente
+04     	SIVAM LISTA DE PRECIOS                                      	19990922	99991231	Vigente
+05     	SIVAM OTROS MODULOS                                         	19990922	99991231	Vigente
+06     	DESPACHOS ANTERIORES                                        	19990922	99991231	Vigente
+07     	CERTIFICADO DE INSPECCION                                   	19990922	99991231	Vigente
+08     	CATALOGO O REVISTA ESPECIALIZADA                            	19990922	99991231	Vigente
+09     	CAMBIO DE REGIMEN DE DS A DUI                               	19990922	99991231	Vigente
+10     	ACTA DE RETENCION DE MENSAJERIA,POR AJUSTE PASA A DUI       	19990922	99991231	Vigente
+11     	AJUSTE POR APLICACION DE PADRON DE AJUSTE DE VALOR          	19990922	99991231	Vigente
+12     	OTROS, ESPECIFIQUE                                          	19990922	99991231	Vigente
+13     	NO SE ENCONTRO REFERENCIAS SIVAM                            	19990922	99991231	Vigente

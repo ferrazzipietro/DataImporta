@@ -1,0 +1,28 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia
+10     	NUEVO/BUENO                                                           	19960101	99991231	Vigente
+11     	NUEVO ARMADO                                                          	19960101	20151030	No Vigente
+12     	NUEVO DESARMADO                                                       	19960101	99991231	Vigente
+13     	NUEVO SEMIDESARMADO                                                   	19960101	20100929	No Vigente
+14     	NUEVO SEMI-ARMADO                                                     	19960101	99991231	Vigente
+15     	NUEVO SINIESTRADO                                                     	19960101	20151030	No Vigente
+16     	NUEVO AVERIADO                                                        	19960101	99991231	Vigente
+17     	NUEVO RECONSTRUIDO                                                    	20000805	99991231	Vigente
+20     	USADO                                                                 	19960101	99991231	Vigente
+21     	USADO ARMADO                                                          	19960101	20151030	No Vigente
+22     	USADO DESARMADO                                                       	19960101	99991231	Vigente
+23     	USADO SEMIDESARMADO                                                   	19960101	20100929	No Vigente
+24     	USADO SEMI-ARMADO                                                     	19960101	99991231	Vigente
+25     	USADO SINIESTRADO                                                     	19960101	20151030	No Vigente
+26     	USADO AVERIADO                                                        	19960101	99991231	Vigente
+27     	USADO RECONSTRUIDO                                                    	19960101	99991231	Vigente
+28     	USADO REMANUFACTURADO                                                 	20050716	99991231	Vigente
+30     	BUENO                                                                 	19960101	20140921	No Vigente
+40     	INCOMPLETO                                                            	19960101	20100929	No Vigente
+41     	Incompleto Bueno                                                      	20031119	99991231	Vigente
+42     	Incompleto Nuevo                                                      	20031119	99991231	Vigente
+43     	Incompleto Usado                                                      	20031119	99991231	Vigente
+50     	DETERIORADO                                                           	19960101	20100929	No Vigente
+60     	SINIESTRADO                                                           	19960101	20100929	No Vigente
+70     	INSERVIBLE                                                            	19960101	20100929	No Vigente
+80     	Reconstruido                                                          	20000101	20100929	No Vigente
+99     	OTROS (nuevo 2da. calidad, 3ra. calidad, obsoleto, etc.)              	19960101	99991231	Vigente

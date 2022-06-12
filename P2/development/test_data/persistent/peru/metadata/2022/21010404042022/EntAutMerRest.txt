@@ -1,0 +1,43 @@
+Codigo  Descripcion                                                                                             FInicio     FFin        Vigencia
+01     	MITINCI                                                                                             	19990922	20040722	No Vigente
+02     	SUCAMEC (EX-DICSCAMEC)                                                                              	19990922	99991231	Vigente
+03     	ADMINISTRACION CENTRAL-DIGEMID (MINSA)                                                              	19990922	99991231	Vigente
+04     	DIGESA (MINSA)                                                                                      	19990922	99991231	Vigente
+05     	SENASA (MINAG)                                                                                      	19990922	99991231	Vigente
+06     	SERFOR (EX-DGFFS O INRENA)                                                                          	19990922	99991231	Vigente
+07     	MINISTERIO DE RELACIONES EXTERIORES (MRREE)                                                         	19990922	99991231	Vigente
+08     	MINISTERIO DE TRANSPORTE Y COMUNICACIONES (MTC)                                                     	19990922	99991231	Vigente
+09     	MINISTERIO DE AGRICULTURA                                                                           	19990922	20040722	No Vigente
+10     	MINISTERIO DE EDUCACION                                                                             	19990922	20040722	No Vigente
+11     	VICEMINISTERIO DE PESCA Y ACUICULTURA (PRODUCE)                                                     	19990922	99991231	Vigente
+12     	INC, BILIOTECA NACIONAL O ARCHIVO GRAL. (MINED)                                                     	19990922	99991231	Vigente
+13     	MINISTERIO DE ENERGIA Y MINAS                                                                       	20020421	20040722	No Vigente
+14     	AGRO RURAL (EX-PROABONOS)                                                                           	20020421	99991231	Vigente
+15     	CONACS (MINAG)-DS 030-2007-AG                                                                       	20040723	20071231	No Vigente
+16     	OTRAS DEPENDENCIAS DE MINAG                                                                         	20040723	99991231	Vigente
+17     	DIQPF (PRODUCE)                                                                                     	20040723	99991231	Vigente
+18     	OTO/PERU (PRODUCE)                                                                                  	20040723	99991231	Vigente
+19     	OTRAS DEPENDENCIAS DE PRODUCE                                                                       	20040723	99991231	Vigente
+20     	OTRAS DEPENDENCIAS DE MININTER                                                                      	20040723	99991231	Vigente
+21     	OTRAS DEPENDENCIAS DE MINSA                                                                         	20040723	99991231	Vigente
+22     	OTRAS DEPENDENCIAS MINED                                                                            	20040723	99991231	Vigente
+23     	IPEN (MEM)                                                                                          	20040723	99991231	Vigente
+24     	OTRAS DEPENDENCIAS DE MEM                                                                           	20040723	99991231	Vigente
+25     	DIR.GRAL.JUEGOS CASINO Y MAQ.TRAGAMONEDAS (MINCETUR)                                                	20040723	99991231	Vigente
+26     	OTRAS DEPENDENCIAS DE MINCETUR                                                                      	20040723	99991231	Vigente
+27     	DIRECCION DE REGULACION (PRODUCE)                                                                   	20051031	99991231	Vigente
+28     	SANIPES (EX-ITP)                                                                                    	20070321	99991231	Vigente
+29     	PRODUCE                                                                                             	20091231	99991231	Vigente
+30     	SUNAT-INT.NAC.INS. QUIMICOS Y BS FISCALIZADOS                                                       	20130827	99991231	Vigente
+50     	VUCE - APN (AUTORIDAD PORTUARIA NACIONAL)                                                           	99991231	99991231	No Vigente
+51     	VUCE - DICAPI (MARINA DE GUERRA DEL PERU - DIRECCION GENERAL DE CAPITANIAS Y GUARDACOSTAS)          	99991231	99991231	No Vigente
+52     	VUCE - DIGEANA (MARINA DE GUERRA DEL PERU - DIRECCION GENERAL DE AYUDA A LA NAVEGACION)             	99991231	99991231	No Vigente
+53     	VUCE - DIGE (MARINA DE GUERRA DEL PERU - DIRECCION GENERAL DE ECONOMIA)                             	99991231	99991231	No Vigente
+54     	VUCE - DIRESA CALLAO                                                                                	99991231	99991231	No Vigente
+55     	VUCE - DIRESA PIURA                                                                                 	99991231	99991231	No Vigente
+56     	VUCE - DIRESA AREQUIPA                                                                              	99991231	99991231	No Vigente
+57     	MINCETUR                                                                                            	99991231	99991231	No Vigente
+58     	MINCU                                                                                               	99991231	99991231	No Vigente
+90     	DOCUMENTOS DE CONTROL DEL PAIS DE ORIGEN                                                            	20020421	99991231	Vigente
+98     	NO NECESITA PERMISO                                                                                 	19990923	99991231	Vigente
+99     	OTROS                                                                                               	19990922	99991231	Vigente

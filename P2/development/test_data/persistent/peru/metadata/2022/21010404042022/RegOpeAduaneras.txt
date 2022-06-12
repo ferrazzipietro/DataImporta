@@ -1,0 +1,132 @@
+Codigo  Descripcion                                                                         FInicio     FFin        Vigencia
+01     	MANIFIESTO DE CARGA                                                             	19960101	99991231	Vigente
+02     	INFORMES DE INSPECCION                                                          	20000621	99991231	Vigente
+03     	INFORMES DE INSPECCION CON VALOR OBSERVADO                                      	20000621	99991231	Vigente
+04     	DUIM MENSAJERIA INTERNACIONAL / MANIFIESTO EER INGRESO                          	20001130	99991231	Vigente
+05     	MANIFIESTO EER SALIDA                                                           	20110822	99991231	Vigente
+07     	TRASLADO DE MERCANCIAS ENTRE ALMACENES                                          	20010319	99991231	Vigente
+08     	MANIFIESTO DE CARGA - EDI - IMPORTACIONES                                       	20010330	99991231	Vigente
+09     	MANIFIESTO DE CARGA - EDI - EXPORTACIONES                                       	20010402	99991231	Vigente
+10     	IMPORTACION DEFINITIVA                                                          	19960101	99991231	Vigente
+11     	SOLICITUD TRASLADO A ZONA DE TRATAMIENTO COMUN                                  	20040115	99991231	Vigente
+12     	CERTIFICADO DE REPOSICION                                                       	19960101	99991231	Vigente
+13     	RESTITUCION DE DERECHOS                                                         	19960101	99991231	Vigente
+14     	DUIM - IMPORTACIONES                                                            	20010405	99991231	Vigente
+15     	DUIM - EXPORTACIONES                                                            	20010405	99991231	Vigente
+16     	ACTA DE TRASLADO DE ENVIOS POSTALES                                             	20010427	99991231	Vigente
+17     	TRASLADO DIRECTO DE CARGA A TERMINALES                                          	20010515	99991231	Vigente
+18     	IMPORTACION SIMPLIFICADA                                                        	19960101	99991231	Vigente
+19     	SOLICITUD SALIDA/REINGRESO - PECO-AMAZONIA                                      	20040115	99991231	Vigente
+20     	ADMISION TEMPORAL PARA REEXPORTACION EN EL MISMO ESTADO                         	19960101	99991231	Vigente
+21     	ADMISION TEMPORAL PARA PERFECCIONAMIENTO ACTIVO                                 	19960101	99991231	Vigente
+22     	SALIDA/RETORNO IMPORTACION TEMPORAL                                             	19980105	99991231	Vigente
+23     	INTERNACION TEMPORAL DE VEHICULOS PARA TURISMO                                  	19960101	99991231	Vigente
+24     	INTERNACION TEMPORAL DE CONTENEDORES                                            	19961105	99991231	Vigente
+24     	INTERNACION TEMPORAL DE CONTENEDORES                                            	19961022	99991231	Vigente
+25     	CUADRO INSUMO-PRODUCTO                                                          	19980205	99991231	Vigente
+26     	RELACION INSUMO-PRODUCTO                                                        	19980205	99991231	Vigente
+29     	TRANSFERENCIA DE ADMISION TEMPORAL                                              	19981201	99991231	Vigente
+30     	REIMPORTACION EN EL MISMO ESTADO                                                	19960101	99991231	Vigente
+31     	TRANSFERENCIA DE IMPORTACION TEMPORAL                                           	19981201	99991231	Vigente
+32     	LIBRETA DE PASOS                                                                	19990412	99991231	Vigente
+33     	CUENTA CORRIENTE OBSEQUIOS (SIMPLIFICADAS)                                      	20000515	99991231	Vigente
+34     	DESTINO ADUANERO ESPECIAL                                                       	19991103	99991231	Vigente
+35     	ENTRADA Y SALIDA                                                                	19991103	99991231	Vigente
+36     	REGIMEN REIMPORTACION EN EL MISMO ESTADO                                        	20090317	99991231	Vigente
+40     	EXPORTACION DEFINITIVA - O/E                                                    	19960101	99991231	Vigente
+41     	EXPORTACION DEFINITIVA-DUE                                                      	19980101	99991231	Vigente
+42     	REINGRESO/SALIDA EXPORTACION                                                    	19990912	99991231	Vigente
+43     	INGRESO TEMPORAL                                                                	19991103	99991231	Vigente
+44     	SALIDA/REINGRESO DE ZONA PRIMARIA                                               	19991103	99991231	Vigente
+45     	ATIT - CAN                                                                      	19960101	99991231	Vigente
+48     	EXPORTACION SIMPLIFICADA                                                        	19960101	99991231	Vigente
+50     	EXPORTACION TEMPORAL                                                            	19960101	99991231	Vigente
+51     	EXPORTACION TEMPORAL PARA REIMPORTACION EN MISMO ESTADO                         	20090119	99991231	Vigente
+52     	EXPORTACION TEMPORAL PARA PEFECCIONAMIENTO PASIVO                               	20090119	99991231	Vigente
+58     	VUCE - MTC                                                                      	20091231	99991231	Vigente
+59     	VUCE - ITP                                                                      	20091231	99991231	Vigente
+60     	REEXPORTACION                                                                   	19960101	99991231	Vigente
+61     	IMPORTACION TEMPORAL - DECLARACION JURADA                                       	20001115	99991231	Vigente
+62     	MANIFIESTO DE PASAJERO                                                          	20050701	99991231	Vigente
+63     	DECLARACION JURADA DE CARGA                                                     	20050701	99991231	Vigente
+65     	DECLARACION JURADA DE MENSAJERIA                                                	20070924	99991231	Vigente
+66     	VUCE - MINSA-ADMINISTRACION CENTRAL-DIGEMID                                     	20091231	99991231	Vigente
+67     	VUCE - SENASA                                                                   	20081209	99991231	Vigente
+68     	VUCE - DIGESA                                                                   	20091231	99991231	Vigente
+69     	VUCE - PRODUCE                                                                  	20091231	99991231	Vigente
+70     	DEPOSITO                                                                        	19960101	99991231	Vigente
+71     	MATERIAL PARA USO AERONAUTICO                                                   	19990413	99991231	Vigente
+72     	INGRESO DE MERCANCIAS EXTRANJERAS AL DUTY FREE                                  	19990517	99991231	Vigente
+73     	SALIDA DE MERCANCIAS EXTRANJERAS AL EXTERIOR(DUTY FREE)                         	19990517	20010926	No Vigente
+74     	INGRESO DE MERCANCIA NACIONAL (DUTY FREE)                                       	19990517	20010926	No Vigente
+75     	REINGRESO DE MERCANCIA NACIONAL (DUTY FREE)                                     	19990517	20010926	No Vigente
+76     	SOLICITUD DE TRASLADO (DUTY FREE)                                               	19990601	99991231	Vigente
+77     	SOLICITUD DE TRASLADO (DMA)                                                     	19990601	99991231	Vigente
+78     	MATERIAL PARA USO AERONAUTICO - REPORTE DE MOVIMIENTO                           	19990601	99991231	Vigente
+79     	PRORROGA DE DEPOSITO                                                            	19990901	99991231	Vigente
+80     	TRANSITO                                                                        	19960101	99991231	Vigente
+81     	TRANSBORDO                                                                      	19960101	99991231	Vigente
+82     	RANCHO DE NAVE O PROVISIONES DE A BORDO                                         	19980529	99991231	Vigente
+83     	MIC/DTA                                                                         	19980101	99991231	Vigente
+84     	MCI/DTAI                                                                        	19980101	99991231	Vigente
+85     	SOLICITUD DE REEXPEDICION/DEVOLUCION DE ENVIOS POSTALES                         	19990302	99991231	Vigente
+86     	SALIDA REINGRESO DE RANCHO DE NAVE                                              	20001024	99991231	Vigente
+87     	REMATE DE MERCANCIAS - INTERNET                                                 	20010319	99991231	Vigente
+88     	SOLICITUD ACOG.-FRACCIO. 848                                                    	19961024	19970228	No Vigente
+89     	REEMBARQUE                                                                      	19960101	99991231	Vigente
+8M     	TRANSITO MARITIMO INTERNO                                                       	20090421	20091231	No Vigente
+9      	OPERADORES                                                                      	20010101	99991231	Vigente
+90     	INGRESO A ZONA FRANCA                                                           	19960101	99991231	Vigente
+91     	CETICOS-CENTROS DE EXPORT.,TRANSF.,IND.,COMERC. Y SERV.                         	19970305	99991231	Vigente
+92     	MOTIVO DE RETENCION                                                             	19961001	99991231	Vigente
+93     	OPERACION DE TRASLADO POR VIA MARITIMA                                          	19970628	99991231	Vigente
+94     	REVISA 1                                                                        	20000505	99991231	Vigente
+95     	DECLARACION SIMPLIFICADA ZOFRATACNA                                             	20020524	99991231	Vigente
+96     	LIQUIDACION DE COBRANZA                                                         	19960101	99991231	Vigente
+97     	INFORMACION ESTADISTICA                                                         	19960101	99991231	Vigente
+98     	RECLAMOS                                                                        	20000329	99991231	Vigente
+99     	REEXPEDICION-ZONAFRANCA                                                         	20000621	99991231	Vigente
+AA     	ACTA DE ADJUDICACION                                                            	19960101	99991231	Vigente
+AC     	ACTA DE INCAUTACION                                                             	19981214	99991231	Vigente
+AD     	ACTA DE DESTRUCCION                                                             	19960101	99991231	Vigente
+AH     	ACTA DE HALLAZGO                                                                	20070430	99991231	Vigente
+AI     	ACTA DE INCINERACION                                                            	19960101	99991231	Vigente
+AL     	ACTA DE LEVANTAMIENTO                                                           	20120216	99991231	Vigente
+AM     	ACTA DE INMOVILIZACION                                                          	20000301	99991231	Vigente
+AN     	ACTA DE INSPECCION                                                              	20050520	99991231	Vigente
+AO     	ACTA DE COMISO                                                                  	19990101	99991231	Vigente
+AR     	ACTA DE RETENCION                                                               	19960101	99991231	Vigente
+AS     	ACTA DE SEPARACION                                                              	19960101	99991231	Vigente
+AV     	ACTA DE VERIFICACIÓN                                                            	20120216	99991231	Vigente
+BB     	INGRESO - SALIDA DE BILLETES DE BANCO CON CURSO LEGAL TRANSPORTADOS COMO CARGA  	20141119	99991231	Vigente
+D2     	EXPORT. DEFINITIVA                                                              	19960101	99991231	Vigente
+DC     	COURIER / ENVIOS DE ENTREGA RAPIDA                                              	19800101	99991231	Vigente
+DE     	DECRETOS                                                                        	20000505	99991231	Vigente
+DQ     	EQUIPAJES                                                                       	19960101	99991231	Vigente
+IN     	INFORME                                                                         	20071219	99991231	Vigente
+ME     	MEMORANDUM                                                                      	20071219	99991231	Vigente
+MG     	MATERIAL DE GUERRA                                                              	19800101	99991231	Vigente
+P2     	DRAWBACK                                                                        	19960101	99991231	Vigente
+PT     	PAPELETA DE INCAUTACION                                                         	20000301	99991231	Vigente
+RA     	RESOLUCION DE INTENDENCIA DE ADMINISTRACION                                     	19960101	99991231	Vigente
+RC     	RESOLUCION COACTIVA                                                             	20071219	99991231	Vigente
+RD     	RESOLUCION DE DIVISION                                                          	19960101	99991231	Vigente
+RF     	RESOLUCION DE INTENDENCIA DE FISCALIZACION                                      	19960101	99991231	Vigente
+RG     	RESOLUCION DE GERENCIA                                                          	19960101	99991231	Vigente
+RI     	RESOLUCION DE INTENDENCIA DE ADUANA                                             	19960101	99991231	Vigente
+RJ     	RESOLUCION JUDICIAL                                                             	20071219	99991231	Vigente
+RL     	RESOLUCION JEFATURAL DE SECCION DE SOPORTE ADMINISTRATIVO                       	20130710	99991231	Vigente
+RM     	REPATRIACION DE MERCANCIA                                                       	20001002	99991231	Vigente
+RO     	RESOLUCION DE OFICINA                                                           	20080819	99991231	Vigente
+RR     	RESOLUCION DE INTENDENCIA DE RECAUDACION ADUANERA                               	19960101	99991231	Vigente
+RS     	RESOLUCION DE SUPERINTENDENCIA                                                  	19960101	99991231	Vigente
+RT     	RESOLUCION DE INTENDENCIA DE TECNICA ADUANERA                                   	19960101	99991231	Vigente
+S5     	TRASLADO DE MERCANCIAS                                                          	19960101	99991231	Vigente
+S6     	ACTA DE TRASLADO DE ENVIOS POSTALES                                             	19800101	20010516	No Vigente
+SE     	DECLARACION SIMPLIFICADA-AREA DE EQUIPAJES                                      	19980112	99991231	Vigente
+SI     	DECLARACION SIMPLIFICADA-AREA DE IMPORTACION                                    	19980112	99991231	Vigente
+T2     	EXPORT. TEMPORAL                                                                	19960101	99991231	Vigente
+T3     	REIMPORTACION                                                                   	19960101	99991231	Vigente
+TF     	RESOLUCION TRIBUNAL FISCAL                                                      	20071219	99991231	Vigente
+VI     	AVISO DE INSPECCION                                                             	20091231	99991231	Vigente
+XC     	ENVIOS DE ENTREGA RAPIDA                                                        	20111231	99991231	Vigente

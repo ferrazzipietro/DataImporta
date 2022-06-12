@@ -1,0 +1,17 @@
+Codigo  Descripcion                                                     FInicio     FFin        Vigencia
+1      	Todo el arancel                                             	19930101	99991231	Vigente
+2      	Lista de partidas                                           	19930101	99991231	Vigente
+3      	Todo arancel, asociado a un importador                      	19930101	99991231	Vigente
+4      	Lista de partidas, asociado a un importador                 	19930101	99991231	Vigente
+5      	ALADI-Verificacion Nandina,Naladisa y T.Margen              	19930101	99991231	Vigente
+6      	ALADI-Lista de partidas NANDINA sin Naladisa                	19930101	99991231	Vigente
+7      	ALADI-Todo el arancel, sin Naladisa y sin Nandina           	19930101	99991231	Vigente
+8      	Todo arancel/Lista de Partidas                              	19930101	99991231	Vigente
+9      	Peruano Colombiano                                          	19930101	99991231	Vigente
+A      	Convenio Internacional 504 con nandina,naladisa,3 M.P.      	19930101	99991231	Vigente
+B      	Convenio Internacional 110 incluye der.especifico           	19930101	99991231	Vigente
+C      	Estabilidad Tributaria/Todo el Arancel                      	19930101	99991231	Vigente
+D      	Estabilidad Tributaria/Lista de Excepciones                 	19930101	99991231	Vigente
+E      	Convenio 110-Lista de excepciones                           	19930101	99991231	Vigente
+F      	Ley de Amazonia                                             	19930101	99991231	Vigente
+G      	Tratado Libre Comercio                                      	20081212	99991231	Vigente

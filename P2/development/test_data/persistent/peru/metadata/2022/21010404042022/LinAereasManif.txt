@@ -1,0 +1,134 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia
+0A     	SERVICIOS AEREOS COLIBRI S.A.                                         	19950201	20000201	No Vigente
+0B     	AERO CONDOR S.A.                                                      	19980313	20050707	No Vigente
+0C     	LAN PERU S.A                                                          	19990624	20010706	No Vigente
+0D     	AVIACION LIDER S.A.                                                   	19980122	20030122	No Vigente
+0E     	TRANS AMERICAN AIR LINES S.A.                                         	19990715	20181129	Vigente
+0F     	TRANSPORTE AERO BOLIVIANO (TAB)                                       	20030620	20070803	No Vigente
+0G     	SERVICIOS AERONAUTICOS SIPESA S.A.                                    	19971026	20021026	No Vigente
+0H     	STAR UP S.A.                                                          	19990828	20060602	No Vigente
+0I     	SERVICIOS AEREOS AQP S.A.                                             	19980313	20070627	No Vigente
+0J     	AVIACION DEL SUR S.A.                                                 	20000515	20001231	No Vigente
+0K     	LINEAS AEREAS SURAMERICANAS S.A.                                      	20010101	20060705	No Vigente
+0L     	AERO TRANSPORTE S.A.                                                  	20050805	20131102	No Vigente
+0M     	AIR MADRID LINEAS AEREAS S.A.                                         	20041124	20090719	No Vigente
+0N     	AIRMAX S.A.                                                           	20070817	20090818	No Vigente
+0O     	AVIATION RAMP SERVICE PERU S.A.C.                                     	20050801	20111102	No Vigente
+0P     	GOL TRANSPORTES AEREOS S.A. SUCURSAL PERU                             	20070118	20110211	No Vigente
+0Q     	TRANSPORTES AEREOS CIELOS ANDINOS S.A.C.                              	20080502	20090221	No Vigente
+0Ñ     	AVIATION RAMP SERVICE PERU S.A.C.                                     	20050801	20051123	No Vigente
+1G     	AERCARIBE-PERU S.A.C.                                                 	20160713	20200225	Vigente
+1Z     	AECA - AEROSERVICIOS ECUATORIANOS                                     	19971101	20030604	No Vigente
+2K     	AEROLINEAS GALAPAGOS S.A. AEROGAL SUCURSAL DEL PERU                   	20130131	20200514	Vigente
+4M     	LAN ARGENTINA S.A.C                                                   	20091020	20170125	Vigente
+4S     	SOLAR CARGO SUCURSAL PERU                                             	20150312	20170115	Vigente
+5L     	COMPA?IA BOLIVIANA DE TRA.AEREO PRIVADO AEROSUR S.A.                  	19970101	99991231	Vigente
+5X     	UNITED PARCEL SERVICE CO,SUCURSAL DEL PERU                            	20020103	20041126	No Vigente
+5Y     	ATLAS AIR INC                                                         	19980801	20201023	Vigente
+6N     	AEROSUCRE SOCIEDAD ANONIMA                                            	19970101	20160305	No Vigente
+7G     	MK AIRLINES LIMITED                                                   	20030617	20080611	No Vigente
+8A     	AMERICANA DE AVIACION                                                 	19970101	20001231	No Vigente
+9P     	PERUVIAN AIR LINE S.A.C.                                              	20150713	20160101	No Vigente
+A2     	CIELOS DEL PERU S.A                                                   	20010905	20130725	No Vigente
+A4     	SOUTHERN WINDS S.A.                                                   	20041101	20041230	No Vigente
+A7     	AIR COMET SUCURSAL PERU                                               	20050323	20130501	No Vigente
+AA     	AMERICAN AIRLINES                                                     	19950101	20201102	Vigente
+AC     	AIR CANADA SUCURSAL DEL PERU                                          	20041102	20170630	Vigente
+AF     	SOCIETE AIR FRANCE SUCURSAL EN EL PERU                                	20041123	20190726	Vigente
+AM     	AEROMEXICO (AEROVIAS DE MEXICO S.A. DE C.V.)                          	19970101	20161103	No Vigente
+AN     	AERONAVES DEL PERU                                                    	19960101	20001231	No Vigente
+AP     	AEROPERU                                                              	19800101	20021120	No Vigente
+AR     	AEROLINEAS ARGENTINAS                                                 	19960101	20170715	Vigente
+AT     	AERO TURISMO Y PLUBICIDAD S.A. AEROTURPU S.A.                         	19990609	20030609	No Vigente
+AV     	AEROVIAS DEL CONTINENTE AMERICANO SA (AVIANCA) SCL PERU               	19960101	20200602	Vigente
+AZ     	ALITALIA LINES AEREAS                                                 	19960101	20021208	No Vigente
+B6     	JETBLUE AIRWAYS CORPORATION SUCURSAL DEL PERU                         	20140117	20180828	Vigente
+BA     	BRITISH AIRWAYS PLC SUCURSAL PERU                                     	20160906	20200820	Vigente
+CA     	AIR CANADA SUCURSAL DEL PERU                                          	20041102	20140409	No Vigente
+CF     	FAUCETT                                                               	19960901	20001231	No Vigente
+CM     	COPA-COMPAYIA PANAMEYA                                                	19960101	20190603	Vigente
+CO     	UNITED AIRLINES INC. SUCURSAL DEL PERU                                	19960901	20140822	No Vigente
+CP     	CANADIAN PACIFIC                                                      	19960101	20001231	No Vigente
+CU     	CUBANA DE AVIACION                                                    	19960901	20011021	No Vigente
+DL     	DELTA AIR LINES INC. SUCURSAL DEL PERU                                	19980708	20200701	Vigente
+DO     	COMPA?IA DOMINICANA DE AVIACION S.A.                                  	19970101	20001231	No Vigente
+EB     	EMERY WORLDWIDE                                                       	19981207	19981214	No Vigente
+EH     	SAETA                                                                 	19961016	20001231	No Vigente
+EL     	CIELOS DEL PERU S.A.                                                  	19980928	20010927	No Vigente
+EQ     	EMPRESA PUBLICA TAME LINEA AEREA DEL ECUADOR "TAME EP"                	20130909	20170815	Vigente
+ER     	DHL AIRWAYS                                                           	20001125	20001209	No Vigente
+ES     	HELICOPTEROS DEL CUSCO S.A.                                           	19970101	20001231	No Vigente
+EU     	ECUATORIANA                                                           	19960101	20001231	No Vigente
+EX     	EXPORT AIR DEL PERU S.A.                                              	19960101	20001231	No Vigente
+FB     	FINE AIR SERVICES INC                                                 	19990715	20040715	No Vigente
+FE     	PRIMARIS AIRLINES INC- SUCURSAL PERU                                  	20080116	20080315	No Vigente
+FM     	FEDERAL EXPRESS CORPORATION                                           	19970101	20001231	No Vigente
+FS     	STAF AIRLINES (SERVICIOS TRANSPORTES AEREOS FUEGUINOS)                	19960101	20001231	No Vigente
+G8     	GRUPO AEREO NUMERO 8                                                  	19960101	20001231	No Vigente
+GB     	ABX AIR INC. SUCURSAL DEL PERU                                        	20120227	20170629	Vigente
+GD     	TAESA-TRANSPORTES AEREOS EJECUTIVOS S.A. de C.V.                      	19971101	20091030	No Vigente
+GG     	SKY LEASE I, INC. SUCURSAL DEL PERU                                   	20150721	20161206	Vigente
+GR     	GEMINI AIR CARGO                                                      	20031022	20070209	No Vigente
+H2     	SKY AIRLINE PERU                                                      	20101222	20181105	Vigente
+HC     	SAETA                                                                 	19960101	19961016	No Vigente
+IB     	IBERIA LINEAS AEREAS DE ESPAÑA S.A.OPERADORA                          	19950101	20170831	Vigente
+IW     	AOM-AOM MINERVE S.A.                                                  	19960101	20001231	No Vigente
+JJ     	TAM LINEAS AEREAS S.A. SUCURSAL PERU.                                 	20080922	20170517	Vigente
+JL     	JAPAN AIRLINES COMPANY LTD                                            	19970101	20001231	No Vigente
+JN     	RICH INTERNATIONAL AIRWAYS,INC                                        	19971101	20091030	No Vigente
+JW     	ARROW AIR INC.                                                        	19970101	20121027	No Vigente
+KE     	KOREAN AIR LINES CO. LTD. SUCURSAL DEL PERU                           	20120829	20180824	Vigente
+KL     	KLM CARGO                                                             	20000101	20181231	Vigente
+LA     	LATAM AIRLINES GROUP S.A. SUCURSAL PERU                               	19960101	20170520	Vigente
+LB     	LLOYD AEREO BOLIVIANO                                                 	19960101	20090618	No Vigente
+LC     	VARIG LOGISTICA S.A. SUCURSAL PERU                                    	20060922	20101122	No Vigente
+LH     	LUFTHANSA CARGO AG SUCURSAL DEL PERU                                  	20140415	20180705	Vigente
+LP     	LAN PERU S.A.                                                         	19990624	20161219	Vigente
+LR     	LACSA                                                                 	20040123	20170323	Vigente
+M3     	SUCURSAL PERUANA DE ABSA AEROLINHAS BRASILEIRAS S.A.                  	20160722	20170910	Vigente
+MM     	TRASLADO MARITIMO                                                     	20140101	20151231	No Vigente
+MP     	MARTINAIR HOLLAND                                                     	19970101	20130329	No Vigente
+MX     	COMPA?IA MEXICANA DE AVIACION   S.A.                                  	19970101	20001231	No Vigente
+MY     	AEROTRANSPORTES MAS DE CARGA S.A.                                     	20001023	20031231	No Vigente
+MZ     	SAEREO S.A. SUCURSAL EN PERU                                          	20110525	20110830	No Vigente
+N4     	NATIONAL AIRLINES CHILE S.A.                                          	19961014	20001231	No Vigente
+N6     	AEROCONTINENTE                                                        	19970101	20050215	No Vigente
+NK     	SPIRIT AIRLINES INC. SUCURSAL DEL PERU                                	20070624	20190626	Vigente
+NN     	VUELOS SIN CARGA                                                      	20090902	20100926	No Vigente
+NP     	HEAVYLIFT CARGO AIRLINES, LTD.                                        	19970616	20001231	No Vigente
+OC     	LAN PERU  S.A.                                                        	19990624	20010706	No Vigente
+OX     	MILLON AIR                                                            	19961016	20001231	No Vigente
+PA     	TRANS PACIFIC AIR CARGO                                               	19960901	20001231	No Vigente
+PL     	AEROPERU                                                              	19950116	20001231	No Vigente
+PZ     	TRANSPORTES AEREOS DEL MERCOSUR S.A.                                  	20150212	20190118	Vigente
+R7     	ASERCA AIRLINES C.A.SUCURSAL DEL PERU                                 	19990301	19990429	No Vigente
+RF     	FLORIDA WEST AIRLINES                                                 	19970101	20170309	Vigente
+RG     	VARIG                                                                 	19960101	20061111	No Vigente
+S3     	SANTA BARBARA AIRLINES S.A. SUC.PERU                                  	20030714	20040407	No Vigente
+SJ     	SOUTHERN AIR TRANSP                                                   	19960101	20020730	No Vigente
+ST     	SITRA                                                                 	19960101	20001231	No Vigente
+SU     	AEROFLOT                                                              	19960101	20030527	No Vigente
+T7     	TRANSCARGA INTL. AIRWAYS, CA.                                         	20160602	20200806	Vigente
+TC     	AERO TRANSCOLOMBIANA DE CARGA                                         	19960901	20001231	No Vigente
+TJ     	TANS                                                                  	20000101	99991231	Vigente
+TP     	TAMPA CARGO S.A. (ANTES TRANSP AEREOS MERC. PANAMERICAN               	19960101	20161201	Vigente
+UA     	UNITED AIRLINES                                                       	19960101	20200124	Vigente
+UC     	LAN CARGO S.A. SUCURSAL PERU                                          	20000218	20170313	Vigente
+UD     	FAST AIR CARRIER LTD                                                  	19961014	20001231	No Vigente
+UJ     	AEROSANTA (EMPRESA DE SERVICIOS MARITIMA Y AEREA SA)                  	19970101	20001231	No Vigente
+US     	USAF                                                                  	19960101	20001231	No Vigente
+UX     	AIR EUROPA LINEAS AEREAS S.A. SUCURSAL DEL PERU                       	20100312	20181112	Vigente
+VA     	VIASA                                                                 	19960101	20001231	No Vigente
+VB     	MAERSK AIR LTD                                                        	19970101	20001231	No Vigente
+VC     	SERVIVENSA                                                            	19960101	20011123	No Vigente
+VE     	AVENSA (AEROLINEAS VENEZOLANAS S.A.)                                  	19970101	20010524	No Vigente
+VH     	AEROPOSTAL ALAS DE VENEZUELA SUC.EN EL PERU                           	19990309	20090512	No Vigente
+VX     	AEROLINEAS CENTRALES DE COLOMBIA (ACES)                               	19980507	20030917	No Vigente
+WE     	CENTURION AIR CARGO INC.                                              	19930101	20200625	Vigente
+WO     	WORLD AIRWAYS, INC.                                                   	19990227	20020130	No Vigente
+XL     	AEROLANE LINEAS AEREAS NACIONALES DEL ECUADOR SUCURSAL                	20100607	20200107	Vigente
+XX     	TAM LINEAS AEREAS S.A.                                                	20090323	20090403	No Vigente
+YU     	AEROLINEAS DOMINICANAS S.A. (DOMINAIR)                                	19970101	20001231	No Vigente
+ZA     	BAY AIR CARGO SA                                                      	19960101	20001231	No Vigente
+ZS     	ANGLO AMERICAN CORPORATION OF SOUTH AFRICA LTD.                       	20000811	20000820	No Vigente
+ZZ     	OTRAS                                                                 	20090101	99991231	Vigente

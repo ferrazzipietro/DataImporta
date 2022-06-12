@@ -1,0 +1,224 @@
+Codigo  Agente_Naviero                                                          Jurisdiccion                                Estado
+0019   	HARRYSON LINE                                                         	A NIVEL NACIONAL                        	HABILITADO
+0091   	NEDLLOYD LINE                                                         	A NIVEL NACIONAL                        	HABILITADO
+0109   	EMPREMAR S.A. CHILE                                                   	A NIVEL NACIONAL                        	HABILITADO
+0118   	COMPANIA TRASATLANTICO ESPA%OLA                                       	A NIVEL NACIONAL                        	HABILITADO
+0127   	COMPANIA CHILENA DE NAVEGACION                                        	A NIVEL NACIONAL                        	HABILITADO
+0136   	SEALAND SERVICE INC                                                   	A NIVEL NACIONAL                        	HABILITADO
+0145   	NAVIGAZ SPA GENOVA ITALIA                                             	A NIVEL NACIONAL                        	HABILITADO
+0154   	SUDAMERICANA DE VAPORES                                               	A NIVEL NACIONAL                        	HABILITADO
+0163   	KAWASAKI KISEN KAISHA LTD                                             	A NIVEL NACIONAL                        	HABILITADO
+0172   	NIPPON YUSEN KAISHA                                                   	A NIVEL NACIONAL                        	HABILITADO
+0181   	UNIMAR - NAVIERA UNIVERSAL - UNILINE                                  	A NIVEL NACIONAL                        	HABILITADO
+0190   	TRANSPORTE NAVIEROS ECUATORIANOS                                      	A NIVEL NACIONAL                        	HABILITADO
+0208   	FLOTA MERCANTE GRANCOLOMBIANA                                         	A NIVEL NACIONAL                        	HABILITADO
+0217   	CGA SUA                                                               	A NIVEL NACIONAL                        	HABILITADO
+0226   	HAPAG LLOYD BELGIUM                                                   	A NIVEL NACIONAL                        	HABILITADO
+0235   	LASER LINES                                                           	A NIVEL NACIONAL                        	HABILITADO
+0244   	CONSORCIO NAVIERO PERUANO                                             	A NIVEL NACIONAL                        	HABILITADO
+0253   	MARUBA                                                                	A NIVEL NACIONAL                        	HABILITADO
+0262   	EL CLAN                                                               	A NIVEL NACIONAL                        	HABILITADO
+0271   	TRANSPORTES MARITIMOS MEXICANOS                                       	A NIVEL NACIONAL                        	HABILITADO
+0280   	ITALIA LINE                                                           	A NIVEL NACIONAL                        	HABILITADO
+0299   	LYKES BROWSE                                                          	A NIVEL NACIONAL                        	HABILITADO
+0307   	FLOTA OCEANICA BRASILERA                                              	A NIVEL NACIONAL                        	HABILITADO
+0316   	COOL CARRIER                                                          	A NIVEL NACIONAL                        	HABILITADO
+0325   	AFRAN LINE                                                            	A NIVEL NACIONAL                        	HABILITADO
+0334   	SEABORD MARINE LTDO                                                   	A NIVEL NACIONAL                        	HABILITADO
+0343   	DOWH LINE                                                             	A NIVEL NACIONAL                        	HABILITADO
+0352   	ECUATORIAN LINE                                                       	A NIVEL NACIONAL                        	HABILITADO
+0361   	INTEROCEAN                                                            	A NIVEL NACIONAL                        	HABILITADO
+0370   	ECU LINE                                                              	A NIVEL NACIONAL                        	HABILITADO
+0389   	PACIFIC EXPRESS LINE                                                  	A NIVEL NACIONAL                        	HABILITADO
+0398   	COMERCIAL MARITIMA OCEANICA                                           	A NIVEL NACIONAL                        	HABILITADO
+0406   	FINE SHIPPING                                                         	A NIVEL NACIONAL                        	HABILITADO
+0415   	CARGILL AMSTERDAN                                                     	A NIVEL NACIONAL                        	HABILITADO
+0424   	LIBRA LINHAS                                                          	A NIVEL NACIONAL                        	HABILITADO
+0433   	TRANSORIAN                                                            	A NIVEL NACIONAL                        	HABILITADO
+0442   	CIA. GENERAL MARITIMA                                                 	A NIVEL NACIONAL                        	HABILITADO
+0451   	CO. MARITIME BELGIEN                                                  	A NIVEL NACIONAL                        	HABILITADO
+0460   	FRESHTAINER                                                           	A NIVEL NACIONAL                        	HABILITADO
+0479   	LINABOL EUROSAL                                                       	A NIVEL NACIONAL                        	HABILITADO
+0488   	PACIFIC STEAM NAVIG                                                   	A NIVEL NACIONAL                        	HABILITADO
+0505   	GREAT LAKES TRANSC                                                    	A NIVEL NACIONAL                        	HABILITADO
+0514   	GAS - MITSUI                                                          	A NIVEL NACIONAL                        	HABILITADO
+0523   	LINEA NAVIERA BOLIVIANA                                               	A NIVEL NACIONAL                        	HABILITADO
+0532   	MITSUI O.S.K. LINE                                                    	A NIVEL NACIONAL                        	HABILITADO
+0541   	LINABOL MEDITERRANEO                                                  	A NIVEL NACIONAL                        	HABILITADO
+0550   	EMPRESA MARITIMA S.A.                                                 	A NIVEL NACIONAL                        	HABILITADO
+0569   	JHONSON LINE                                                          	A NIVEL NACIONAL                        	HABILITADO
+0578   	FLOTA LAURO                                                           	A NIVEL NACIONAL                        	HABILITADO
+0587   	EMPRESA NAVIERA SANTA                                                 	A NIVEL NACIONAL                        	HABILITADO
+0596   	MARASIA                                                               	A NIVEL NACIONAL                        	HABILITADO
+0604   	CONSULMAR                                                             	A NIVEL NACIONAL                        	HABILITADO
+0613   	COLUMBUS LINE                                                         	A NIVEL NACIONAL                        	HABILITADO
+0622   	MULTINAV S.A.                                                         	A NIVEL NACIONAL                        	HABILITADO
+0631   	NAUTILIUS S.A.                                                        	A NIVEL NACIONAL                        	HABILITADO
+0640   	PACIFIC SHIPPING LTDO                                                 	A NIVEL NACIONAL                        	HABILITADO
+0659   	TRANSTOTAL                                                            	A NIVEL NACIONAL                        	HABILITADO
+0677   	CORVAL LINES SERVICE                                                  	A NIVEL NACIONAL                        	HABILITADO
+0686   	CROWLEY AMERICAN TRANSPORT                                            	A NIVEL NACIONAL                        	HABILITADO
+0695   	AGROMAR                                                               	A NIVEL NACIONAL                        	HABILITADO
+0703   	CROWLEY CARIBIAN TRANSPORT                                            	A NIVEL NACIONAL                        	HABILITADO
+0712   	CHAVAL NAVEGACAO LTD                                                  	A NIVEL NACIONAL                        	HABILITADO
+0721   	MERCATOR SERVICIOS M                                                  	A NIVEL NACIONAL                        	HABILITADO
+0730   	MARITIMA OCEANO                                                       	A NIVEL NACIONAL                        	HABILITADO
+0749   	MED. SHIPPING CO.                                                     	A NIVEL NACIONAL                        	HABILITADO
+0758   	CROATA LINE                                                           	A NIVEL NACIONAL                        	HABILITADO
+0767   	TRANSORIENT SHIPPING                                                  	A NIVEL NACIONAL                        	HABILITADO
+0776   	TRINITY SHIPPING LINE                                                 	A NIVEL NACIONAL                        	HABILITADO
+0785   	COLER OCEAN INDEPENDENT LINES                                         	A NIVEL NACIONAL                        	HABILITADO
+0794   	DAN-GULF SHIPPING INCORPORATED                                        	A NIVEL NACIONAL                        	HABILITADO
+0802   	TBS PACIFIC LINER LTD.                                                	A NIVEL NACIONAL                        	HABILITADO
+0811   	YUWA SHIPPING CO., LTD. 0325 AFRAN LINE                               	A NIVEL NACIONAL                        	HABILITADO
+0820   	WILSON, SONS S.A.                                                     	A NIVEL NACIONAL                        	HABILITADO
+0839   	CARGOPORT TRANSPORTATION S.A.                                         	A NIVEL NACIONAL                        	HABILITADO
+1504   	GRANELCO S.A.                                                         	A NIVEL NACIONAL                        	HABILITADO
+1513   	DOWA LINE AMERICA (U.S.A.)                                            	A NIVEL NACIONAL                        	HABILITADO
+1522   	MAERSK LINE                                                           	A NIVEL NACIONAL                        	HABILITADO
+1531   	FLAMAR ZEEBRUGGE, BELGIUM                                             	A NIVEL NACIONAL                        	HABILITADO
+1540   	BLYSTAD SHIPPING USA. INC.                                            	A NIVEL NACIONAL                        	HABILITADO
+1603   	CHINA LIAONING INTERNATIONAL                                          	A NIVEL NACIONAL                        	HABILITADO
+1612   	ASSOCIATED TRANSPORT LINE, INC.                                       	A NIVEL NACIONAL                        	HABILITADO
+1621   	OFICINA NAVIERA COMERCIAL - NAVACOM                                   	A NIVEL NACIONAL                        	HABILITADO
+1667   	WOODLINES SHIPPING LIMITED                                            	A NIVEL NACIONAL                        	HABILITADO
+1676   	COSCO CONTAINERS LINE                                                 	A NIVEL NACIONAL                        	HABILITADO
+1685   	DOLE OCEAN LINER EXPRESS                                              	A NIVEL NACIONAL                        	HABILITADO
+1694   	D.F.E.I.                                                              	A NIVEL NACIONAL                        	HABILITADO
+1702   	MITRANS CORPORATION                                                   	A NIVEL NACIONAL                        	HABILITADO
+1711   	FINN CONTAINER CARGO SERVICES, INC                                    	A NIVEL NACIONAL                        	HABILITADO
+1720   	ANDINO CHEMICAL TAUKERS,INC                                           	A NIVEL NACIONAL                        	HABILITADO
+1739   	ECOPETROL                                                             	A NIVEL NACIONAL                        	HABILITADO
+1748   	THE KEIHINCO.LTD                                                      	A NIVEL NACIONAL                        	HABILITADO
+1757   	HYUNDAI                                                               	A NIVEL NACIONAL                        	HABILITADO
+1766   	ULTRAMAR SHIPPING CO.                                                 	A NIVEL NACIONAL                        	HABILITADO
+1775   	ANDES LINES                                                           	A NIVEL NACIONAL                        	HABILITADO
+1784   	WORLDWIDE SERVICES                                                    	A NIVEL NACIONAL                        	HABILITADO
+1793   	TBS LATIN AMERICA LINER LTD                                           	A NIVEL NACIONAL                        	HABILITADO
+1802   	JEBSEN CARRIER LTD.                                                   	A NIVEL NACIONAL                        	HABILITADO
+1811   	UNIVERSAL SHIPPING AG. IMC                                            	A NIVEL NACIONAL                        	HABILITADO
+1829   	PETROLEOS DEL PERU S.A.                                               	A NIVEL NACIONAL                        	HABILITADO
+1838   	ECOPETROL-D.C.C.                                                      	A NIVEL NACIONAL                        	HABILITADO
+1847   	HOEGH-UGLAND AUTO LINERS A/S                                          	A NIVEL NACIONAL                        	HABILITADO
+1856   	BHP INTERNATIONAL MARINE TRANSPORT INC                                	A NIVEL NACIONAL                        	HABILITADO
+1865   	MARITIMA DEL PACIFICO                                                 	A NIVEL NACIONAL                        	HABILITADO
+1874   	POL-AMERICA OCEAN SIKORSKI SHIPPING LTD                               	A NIVEL NACIONAL                        	HABILITADO
+1883   	GULFCOAST TRANSIT COMPANY                                             	A NIVEL NACIONAL                        	HABILITADO
+1892   	GCI FORWARDING CO                                                     	A NIVEL NACIONAL                        	HABILITADO
+1900   	LARS JONSSON TRAIDING AB.                                             	A NIVEL NACIONAL                        	HABILITADO
+1901   	FAMTPESA                                                              	A NIVEL NACIONAL                        	HABILITADO
+1919   	PANAMERICAN TANKERS INC                                               	A NIVEL NACIONAL                        	HABILITADO
+1991   	LAURITZEN BULKERS                                                     	A NIVEL NACIONAL                        	HABILITADO
+2008   	PAN OCEAN SHIPPING CO.,                                               	A NIVEL NACIONAL                        	HABILITADO
+2017   	FISHING AND HUNTING EIRL.                                             	A NIVEL NACIONAL                        	HABILITADO
+2026   	RENADSA-(CHARTER) AG.NAVIERO                                          	A NIVEL NACIONAL                        	HABILITADO
+2035   	DOOYANG LINE CO., LTD KOREA                                           	A NIVEL NACIONAL                        	HABILITADO
+2044   	CHARTER - AG.MILNE SERV.MARITIMOS S.A.                                	A NIVEL NACIONAL                        	HABILITADO
+2053   	MARAVEN S.A. - CHARTER                                                	A NIVEL NACIONAL                        	HABILITADO
+2062   	BYZANTINE MARITIME - CHARTER                                          	A NIVEL NACIONAL                        	HABILITADO
+2071   	PANAMANIAN CARRIERS CORPORATION                                       	A NIVEL NACIONAL                        	HABILITADO
+2080   	GULF CHARTERING                                                       	A NIVEL NACIONAL                        	HABILITADO
+2099   	H.MULLER SHIPPING CORP.                                               	A NIVEL NACIONAL                        	HABILITADO
+3007   	NAVIERA ANDINA S.A.                                                   	A NIVEL NACIONAL                        	HABILITADO
+3016   	TRANSWORLD BULK SERVICES                                              	A NIVEL NACIONAL                        	HABILITADO
+3025   	HAMBURG SUD - THE SHIPPING GROUP                                      	A NIVEL NACIONAL                        	HABILITADO
+3034   	FRANSER SHIPPING S.A. - TRIDENTUM SA.                                 	A NIVEL NACIONAL                        	HABILITADO
+3043   	POLISH OCEAN LINE - PORT.TAYLOR S.A.                                  	A NIVEL NACIONAL                        	HABILITADO
+3052   	STEEL TRADERS SHIPPING LTD - USA.                                     	A NIVEL NACIONAL                        	HABILITADO
+3061   	ARMADA ANZ PARCEL SERV.BY ARMADA-HOLLAND                              	A NIVEL NACIONAL                        	HABILITADO
+3070   	ALLIED MARITIME INC.                                                  	A NIVEL NACIONAL                        	HABILITADO
+3089   	NAVIERA HUMBOLDT S.A.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3098   	AUSTRALIAN BARLEY BOARD                                               	A NIVEL NACIONAL                        	HABILITADO
+3106   	FED.OF JAPAN TUNA FISHERIES COOP.ASS.                                 	A NIVEL NACIONAL                        	HABILITADO
+3115   	LEIF HOEGH & CO. A/S                                                  	A NIVEL NACIONAL                        	HABILITADO
+3124   	ORION DEL PACIFICO AG.MARITIMO-NAVIERO                                	A NIVEL NACIONAL                        	HABILITADO
+3133   	ZENGYOREN TOKYO                                                       	A NIVEL NACIONAL                        	HABILITADO
+3142   	OSO MARINE S.A. - TRIDENTUM S.A.                                      	A NIVEL NACIONAL                        	HABILITADO
+3151   	MARITIMA DE BARCOS S.A. - AG.NAVIERA                                  	A NIVEL NACIONAL                        	HABILITADO
+3160   	SUNG-BO SHIPPING CO., LTD                                             	A NIVEL NACIONAL                        	HABILITADO
+3179   	NOMADIC INTERNATIONAL KS - NORUEGA                                    	A NIVEL NACIONAL                        	HABILITADO
+3188   	EAGLE INTERNATIONAL SHIPPING, INC.                                    	A NIVEL NACIONAL                        	HABILITADO
+3197   	MONTREAL SHIPPING CO.,                                                	A NIVEL NACIONAL                        	HABILITADO
+3205   	SHARP SHIPPING LTD.                                                   	A NIVEL NACIONAL                        	HABILITADO
+3214   	GENCHEM SHIPPING LIMITED                                              	A NIVEL NACIONAL                        	HABILITADO
+3223   	SAMTPESA - VARTOSA                                                    	A NIVEL NACIONAL                        	HABILITADO
+3232   	MARITIMA OCEANICA GRANELERA - MOG.                                    	A NIVEL NACIONAL                        	HABILITADO
+3241   	BLACK SEA SHIPPING CO.,                                               	A NIVEL NACIONAL                        	HABILITADO
+3250   	GLOBAL TRANSPORTE OCEANICO S.A.                                       	A NIVEL NACIONAL                        	HABILITADO
+3269   	NAVIERA CHILENA DEL PACIFICO                                          	A NIVEL NACIONAL                        	HABILITADO
+3278   	SEABIRD MARINE LTD                                                    	A NIVEL NACIONAL                        	HABILITADO
+3287   	MAX MARINE COMPANY                                                    	A NIVEL NACIONAL                        	HABILITADO
+3296   	AGENCIA MARITIMA SUDOCEAN S.A.                                        	A NIVEL NACIONAL                        	HABILITADO
+3304   	ARMADA SHIPPING                                                       	A NIVEL NACIONAL                        	HABILITADO
+3313   	LYGMAR SHIPPING INC., USA                                             	A NIVEL NACIONAL                        	HABILITADO
+3322   	MAR-TEX SHIPPING                                                      	A NIVEL NACIONAL                        	HABILITADO
+3331   	CIA. MARITIMA DE CABOTAJE S.A.                                        	A NIVEL NACIONAL                        	HABILITADO
+3340   	EVALEND SHIPPING CO. S.A.                                             	A NIVEL NACIONAL                        	HABILITADO
+3359   	TEXACO INTERNATIONAL TRADER ULSA                                      	A NIVEL NACIONAL                        	HABILITADO
+3368   	KIL MANAGEMENTS                                                       	A NIVEL NACIONAL                        	HABILITADO
+3377   	SEALIFT INC. - COSMOS AG.MARIT.                                       	A NIVEL NACIONAL                        	HABILITADO
+3386   	BARWILL AGENCIES (NA) INC.                                            	A NIVEL NACIONAL                        	HABILITADO
+3395   	LAKE CITY STEAMSHIP AGENCY                                            	A NIVEL NACIONAL                        	HABILITADO
+3403   	UNITED PIONEER CO., LTD MALTA                                         	A NIVEL NACIONAL                        	HABILITADO
+3412   	PAMAEV ST LTD MALTA                                                   	A NIVEL NACIONAL                        	HABILITADO
+3421   	CLIPPER MARITIME ASIA                                                 	A NIVEL NACIONAL                        	HABILITADO
+3430   	JUHL & EHRHORN ESBJERG                                                	A NIVEL NACIONAL                        	HABILITADO
+3449   	BULKHANDLING - INV.CANOPUS S.A.                                       	A NIVEL NACIONAL                        	HABILITADO
+3458   	PANAMA BIMINI SHIPPING CO.,                                           	A NIVEL NACIONAL                        	HABILITADO
+3467   	SMT.SHIP MANAGEMET & TRANSPORT LIMITED.                               	A NIVEL NACIONAL                        	HABILITADO
+3476   	OVERSEAS ENTERPRISES INC.                                             	A NIVEL NACIONAL                        	HABILITADO
+3485   	ANCHOR WORLDWIDE INC.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3494   	TRANSVERSAL SHIPPING COMPANY                                          	A NIVEL NACIONAL                        	HABILITADO
+3502   	ULTRAGAS INTERNATIONAL S.A.                                           	A NIVEL NACIONAL                        	HABILITADO
+3511   	WHITNEY MARITIME S.A.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3520   	J.POULSEN SHIPPING AS.                                                	A NIVEL NACIONAL                        	HABILITADO
+3539   	GREEN CARRIER PVT LTD.                                                	A NIVEL NACIONAL                        	HABILITADO
+3548   	SEA SWAN COMPANIA NAVIERA LTD.                                        	A NIVEL NACIONAL                        	HABILITADO
+3557   	NAVES DEL SUR S.A.                                                    	A NIVEL NACIONAL                        	HABILITADO
+3566   	SUNRISE SHIPPING AGENCY INC.                                          	A NIVEL NACIONAL                        	HABILITADO
+3575   	INDUSTRIAL MARITIME CARRIERS INC.                                     	A NIVEL NACIONAL                        	HABILITADO
+3584   	LESSWODD CORPORATION                                                  	A NIVEL NACIONAL                        	HABILITADO
+3593   	SEA CARGO INTERNATIONAL                                               	A NIVEL NACIONAL                        	HABILITADO
+3601   	FRITZ TRANSPORTATION INTERNATIONAL                                    	A NIVEL NACIONAL                        	HABILITADO
+3610   	SOTRAMAR LTDA.                                                        	A NIVEL NACIONAL                        	HABILITADO
+3629   	AQUATOR SHIPPING CO LTD CYPRUS                                        	A NIVEL NACIONAL                        	HABILITADO
+3638   	UNITED ARAB SHIPPING COMPANY (S.A.G.)                                 	A NIVEL NACIONAL                        	HABILITADO
+3647   	NAVIERA ALTAMAR LTDA.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3656   	COLONIAL MARINE                                                       	A NIVEL NACIONAL                        	HABILITADO
+3665   	TSCHUDI & EITZEN INTERNATIONAL / DENMARK                              	A NIVEL NACIONAL                        	HABILITADO
+3674   	D AMICO SOCIETA DI NAVIGAZIONE - ITALIA                               	A NIVEL NACIONAL                        	HABILITADO
+3683   	TAIKYU SUISAN KABUSHIKI KAISHA                                        	A NIVEL NACIONAL                        	HABILITADO
+3692   	GLSL SHIPPING & CHARTERING GMBH                                       	A NIVEL NACIONAL                        	HABILITADO
+3700   	MARUHA CORPORATION                                                    	A NIVEL NACIONAL                        	HABILITADO
+3719   	GUANGZHOU OCEAN SHIPPING CO.,                                         	A NIVEL NACIONAL                        	HABILITADO
+3728   	CHO YANG SHIPPING CO., LTD KOREA                                      	A NIVEL NACIONAL                        	HABILITADO
+3737   	CHARTER - AG.MARITIMA GENESIS S.A.                                    	A NIVEL NACIONAL                        	HABILITADO
+3746   	NAVIERA UNITRADER NV.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3755   	BLUE WATER SHIPPING COMPANY                                           	A NIVEL NACIONAL                        	HABILITADO
+3764   	WESTFAL LARSEN SHIPPING BERGEN                                        	A NIVEL NACIONAL                        	HABILITADO
+3773   	POLASCAMAR SRL - GENOVA                                               	A NIVEL NACIONAL                        	HABILITADO
+3782   	INTERNAVES                                                            	A NIVEL NACIONAL                        	HABILITADO
+3791   	STOLT NIELSEN INC.                                                    	A NIVEL NACIONAL                        	HABILITADO
+3809   	COPENHAGEN TANKERS APS. DINAMARCA                                     	A NIVEL NACIONAL                        	HABILITADO
+3818   	PRECIOUS SHIPPING LIMITED                                             	A NIVEL NACIONAL                        	HABILITADO
+3827   	SIPESA - SINDICATO PESQUERO DEL PERU SA                               	A NIVEL NACIONAL                        	HABILITADO
+3836   	ODFJELL TANKERS KS                                                    	A NIVEL NACIONAL                        	HABILITADO
+3845   	HALLA MERCHANT MARINE CO.                                             	A NIVEL NACIONAL                        	HABILITADO
+3854   	TRINITAS SCHEEPVAARTKANTOOR BV                                        	A NIVEL NACIONAL                        	HABILITADO
+3863   	WINDWARD PASSAGE SHIPPING                                             	A NIVEL NACIONAL                        	HABILITADO
+3872   	ALBAMAR SHIPPING CO., S.A.                                            	A NIVEL NACIONAL                        	HABILITADO
+3881   	HOKO SHIPPING CO., LTD                                                	A NIVEL NACIONAL                        	HABILITADO
+3890   	BRANDTSHIP USA, INC                                                   	A NIVEL NACIONAL                        	HABILITADO
+3908   	NORTH AMERICAN GRAIN - STA.SOFIA PUERTOS                              	A NIVEL NACIONAL                        	HABILITADO
+3917   	NOSAC-NORWEGIAN SPECIALIZED AUTOCARRIERS                              	A NIVEL NACIONAL                        	HABILITADO
+3926   	NAVIERA AMAZONICA - SOUTH SHIPPING LTDA                               	A NIVEL NACIONAL                        	HABILITADO
+3935   	THORESEN AND COMPANY THAILAND                                         	A NIVEL NACIONAL                        	HABILITADO
+3944   	PETROLERA MEXICANA I.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3953   	MARINE CHARTERING CO.,                                                	A NIVEL NACIONAL                        	HABILITADO
+3962   	NAVIERA AMAZONICA PERUANA                                             	A NIVEL NACIONAL                        	HABILITADO
+3963   	MARKO BUSONICH S.R.L.                                                 	A NIVEL NACIONAL                        	HABILITADO
+3964   	SERVICIOS MARSHIP S.A.                                                	A NIVEL NACIONAL                        	HABILITADO
+3971   	TOKINA KAIUN K.K.                                                     	A NIVEL NACIONAL                        	HABILITADO
+3980   	KEIMIN CO. LTD                                                        	A NIVEL NACIONAL                        	HABILITADO
+3999   	K.K. MARWN                                                            	A NIVEL NACIONAL                        	HABILITADO
+5012   	BARWIL PERU SA                                                        	SEDE CENTRAL - CHUCUITO                 	HABILITADO

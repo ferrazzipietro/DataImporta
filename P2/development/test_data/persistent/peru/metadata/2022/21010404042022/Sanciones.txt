@@ -1,0 +1,362 @@
+CODIGO  DESCRIPCION                                                                                             LEY             ART                                 FVIGENCIA   FINICIO
+100    	No cumplir con remitir los datos del manifiesto de carga.                                           	D.L.809        	ART. 103 inc A) num 1)             	99991231  	19970621  
+101    	No entregar en el momento de la recepcion por la Autoridad Aduanera el Manifiesto y demas documentos	D.L.809        	ART. 103 inc A) num 2)             	99991231  	19970621  
+102    	No presentar la relaci?n de mercancias faltantes o sobrantes.                                       	D.L.809        	ART. 103 inc A) num 3)             	99991231  	19970621  
+103    	Presentar la solicitud de rectificaci?n de errores fuera de plazo.                                  	D.L.809        	ART. 103 inc A) num 4)             	99991231  	19970621  
+104    	No entregar a los almancenes aduaneros los bultos manifestados y descargados dentro del plazo.      	D.L.809        	ART. 103 inc A) num 5)             	99991231  	19970621  
+105    	No formular el inventario de bultos llegados en mal estado.                                         	D.L.809        	ART. 103 inc A) num 6)             	99991231  	19970621  
+106    	Cuando formulen erroneamente los manifiestos correspondientes a desconsolidaci?n.                   	D.L.809        	ART. 103 inc B)                    	99991231  	19970621  
+107    	Por custodiar mercancia que no tiene documentaci?n legal.                                           	D.L.809        	ART. 103 inc C) num 1)             	99991231  	19970621  
+108    	No entregar a Aduanas la conformidad de las mercancias por las mercancias recibidas.                	D.L.809        	ART. 103 inc C) num 2)             	99991231  	19970621  
+109    	Impedir a la Autoridad Aduanera las labores de inspecci?n.                                          	D.L.809        	ART. 103 inc C) num 3)             	99991231  	19970621  
+110    	Entregar las mercancias sin haber sido concedido el levante sin haberse pagado los tributos.        	D.L.809        	ART. 103 inc C) num 4)             	99991231  	20010224  
+111    	Destinar areas autorizadas para recinto aduanero a fines distintos.                                 	D.L.809        	ART. 103 inc C) num 5)             	99991231  	19970621  
+112    	Ubicar mercancias sin nacionalizar en areas diferentes a las autorizadas.                           	D.L.809        	ART. 103 inc C) num 6)             	99991231  	19970621  
+113    	Incumplir con entregar a la Autoridad Aduanera la relaci?n de mercancias en abandono legal.         	D.L.809        	ART. 103 inc C) num 7)             	99991231  	19970621  
+114    	No formular el inventario de los bultos llegados en mal estado.                                     	D.L.809        	ART. 103 inc C) num 8)             	99991231  	19970621  
+115    	Al detectar la falta de mercancias como consecuencia del inventario de existencia.                  	D.L.809        	ART. 103 inc C) num 9)             	99991231  	19970621  
+116    	No proporcionar dentro del plazo otorgado, la informaci?n requerida.                                	D.L.809        	ART. 103 inc D) num 1)             	99991231  	19970621  
+117    	No presentar la Declaraci?n Jurada de su movimiento operacional.                                    	D.L.809        	ART. 103 inc D) num 2)             	99991231  	19970621  
+118    	No comunicar a Aduanas, la modificaci?n del directorio o gerentes.                                  	D.L.809        	ART. 103 inc D) num 3)             	99991231  	19970621  
+119    	Usar indebidamente el carne y/o documentos identificatorios.                                        	D.L.809        	ART. 103 inc D) num 4)             	99991231  	19970621  
+120    	No llevar libros, registros y documentos aduaneros exigidos o llevarlos desactualizados.            	D.L.809        	ART. 103 inc D) num 5)             	99991231  	19970621  
+121    	Formular declaraciones incorrectas o proporcionar información incompleta de mcias en cuanto su valor	D.L.809        	ART. 103 inc D) num 6)             	99991231  	19961225  
+122    	No cumplir con los plazos para efectuar el reembarque.                                              	D.L.809        	ART. 103 inc D) num 7)             	99991231  	19970621  
+124    	Calcular incorrectamente la liquidaci?n de tributos.                                                	D.L.809        	ART. 103 inc D) num 9)             	99991231  	19961225  
+125    	Asignar una partida arancelaria incorrecta a la Mercanc!a declarada                                 	D.L.809        	ART. 103 inc D) num 10)            	99991231  	19961225  
+126    	Incumplir el plazo para regularizar la declaraci?n de exportaci?n.                                  	D.L.809        	ART. 103 inc E)                    	99991231  	19970621  
+127    	No reexportar las mercancias importadas dentro del plazo concedido.                                 	D.L.809        	ART. 103 inc F) num 1)             	99991231  	19961225  
+128    	No consignar o consignar erroneamente los datos de la Declaraci?n de Importaci?n.                   	D.L.809        	ART. 103 inc F) num 2)             	99991231  	19970621  
+129    	Transferir las mercancias sin comunicar previamente a la Autoridad Aduanera.                        	D.L.809        	ART. 103 inc F) num 3)             	99991231  	19961225  
+130    	No consignar o consignar erroneamente el n?mero de la respectiva Declaraci?n de Adm.Temporal.       	D.L.809        	ART. 103 inc G) num 1)             	99991231  	19970621  
+131    	Transferir mercancia sin comunicar a Aduanas.                                                       	D.L.809        	ART. 103 inc G) num 2)             	99991231  	19961225  
+132    	No regularizar el regimen dentro del plazo establecido.                                             	D.L.809        	ART. 103 inc G) num 3)             	99991231  	19961225  
+133    	No renovar la garant!a.                                                                             	D.L.809        	ART. 103 inc G) num 4)             	99991231  	19970621  
+134    	No cumplir con la reexportaci?n o exportaci?n definitiva dentro del plazo.                          	D.L.809        	ART. 103 inc H)                    	99991231  	19970621  
+136    	Consignar datos faltos o erroneos en la solicitud de reposici?n.                                    	D.L.809        	ART. 103 inc J)                    	99991231  	20010224  
+137    	Destinar las mercancias a finalidad distinta a la autorizada.                                       	D.L.809        	ART. 103 inc K) num 1)             	99991231  	19961225  
+138    	Transferir mercancias antes de los plazos establecidos.                                             	D.L.809        	ART. 103 inc K) num 2)             	99991231  	19961225  
+139    	Permitir la utilizaci?n de las mercancias por terceros.                                             	D.L.809        	ART. 103 inc K) num 3)             	99991231  	19961225  
+140    	Violar las medidas de seguridad colocadas por Aduanas o permitir su violaci?n.                      	D.L.809        	ART. 103 inc L)                    	99991231  	19970621  
+141    	No mantener o adecuar los requisitos y condiciones con los cuales fueron autorizados.               	D.L.809        	ART. 105 inc A) num 1)             	99991231  	19970621  
+142    	No adecuar, reponer o renovar la garant!a modificada, ejecutada.                                    	D.L.809        	ART. 105 inc A) num 2)             	99991231  	19970621  
+143    	No adecuar, reponer o renovar la garant!a modificada, ejecutada.                                    	D.L.809        	ART. 105 inc B) num 1)             	99991231  	19970621  
+144    	Haber cometido infracci?n administrativa vinculada al delito de contrabando.                        	D.L.809        	ART. 105 inc B) num 2)             	99991231  	19970621  
+145    	No cumplir o mantener los requisitos establecidos en la Ley o el Reglamento.                        	D.L.809        	ART. 105 inc B) num 3)             	99991231  	19970621  
+146    	Haber sido sancionado con multa por tres veces durante el lapso de un a?o.                          	D.L.809        	ART. 105 inc B) num 4)             	99991231  	19970621  
+147    	Perder documentos relacionados con los despachos en que intervenga.                                 	D.L.809        	ART. 105 inc B) num 5)             	99991231  	19970621  
+148    	Estar procesado por supuesto delito en el ejercicio de sus funciones.                               	D.L.809        	ART. 105 inc B) num 6)             	99991231  	19970621  
+149    	Permanecer inactivo en forma comprobada en cuanto al ingreso de mercancias.                         	D.L.809        	ART. 106 inc A) num 1)             	99991231  	19970621  
+150    	Incurrir en causal de suspensi?n por m?s de tres veces.                                             	D.L.809        	ART. 106 inc A) num 2)             	99991231  	19970621  
+151    	La condena por sentencia firme por delitos cometidos con ocasion del ejercicio de sus funciones.    	D.L.809        	ART. 106 inc B) num 1)             	99991231  	19970621  
+152    	No efectuar despachos durante tres meses consecutivos.                                              	D.L.809        	ART. 106 inc B) num 2)             	99991231  	19970621  
+153    	Librar indebidamente cheques, salvo que regularice en el t?rmino de tres d!as.                      	D.L.809        	ART. 106 inc B) num 3)             	99991231  	19970621  
+154    	No renovar, adecuar o reponer la garantia dentro del plazo de treinta d!as.                         	D.L.809        	ART. 106 inc B) num 4)             	99991231  	19970621  
+155    	Facilitar su firma a terceras personas para que efectuen tr?mites relacionados con operaciones y reg	D.L.809        	ART. 106 inc B) num 5)             	99991231  	19970621  
+156    	Ser condenado por delitos cometidos en el desempe?o de la actividad aduanera.                       	D.L.809        	ART. 107 inc A)                    	99991231  	19970621  
+157    	Facilitar su firma a terceras personas para que efectuen tr?mites de operaciones aduaneras.         	D.L.809        	ART. 107 inc B)                    	99991231  	19970621  
+158    	Mercancias ingresadas al amparo de un benef.trib.cuya finalidad y dem?s cond., hayan sido incumplida	D.L.809        	ART. 108 inc A) num 1)             	99991231  	19961225  
+159    	Mercancias que carezcan de la documentaci?n aduanera pertinente.                                    	D.L.809        	ART. 108 inc A) num 2)             	99991231  	19961225  
+160    	Mercancias que esten consideradas como contrarias a la soberania nacional.                          	D.L.809        	ART. 108 inc B) num 1)             	99991231  	19961225  
+161    	Mercancias que no figuren en los manif. o en los dem?s documentos que est?n obligados a presentar   	D.L.809        	ART. 108 inc B) num 2)             	99991231  	19961225  
+162    	Mercancia y rancho que porten los medios de transporte que no se encuentre debidamente manifestada. 	D.L.809        	ART. 108 inc B) num 3)             	99991231  	19961225  
+163    	Mercancia que se expendan a bordo de la nave.                                                       	D.L.809        	ART. 108 inc B) num 4)             	99991231  	19961225  
+164    	Mercancias que ingresen o salgan por lugares y horas no autorizados.                                	D.L.809        	ART. 108 inc B) num 5)             	99991231  	19961225  
+165    	Las mercancias cuya importaci?n se encuentre prohibida.                                             	D.L.809        	ART. 108 inc B) num 6)             	99991231  	19961225  
+166    	Cuando en un bulto se encuentre mercancia no declarada.                                             	D.L.809        	ART. 108 inc B) num 7)             	99991231  	20000328  
+168    	La mercancia en comiso que no fuere hallada o entregada a la autoridad aduanera.                    	D.L.809        	ART. 109                           	99991231  	19970621  
+169    	INFRACCION ADMINISTRATIVA RELATIVA AL CONTRABANDO                                                   	LEY 26461      	ART. 29                            	99991231  	19961225  
+170    	Por VALOR                                                                                           	RS 0602/94     	ART                                	99991231  	19940101  
+171    	Por consignar una CANTIDAD SUPERIOR                                                                 	RS0602/94      	ART                                	99991231  	19940101  
+172    	Por consignar una CANTIDAD INFERIOR                                                                 	RS 0602/94     	ART                                	99991231  	19940101  
+173    	Por PARTIDA ARANCELARIA                                                                             	RS 0602/94     	ART                                	99991231  	19940101  
+174    	Por INFORMACION EXTEMPORANEA                                                                        	RS 0602/94     	ART                                	99991231  	19940101  
+175    	Por NO ENTREGAR EL INFORME ESTADISTICO MENSUAL                                                      	RS 0602/94     	ART                                	99991231  	19940101  
+176    	Por REIMPRESION                                                                                     	RS 0602/94     	ART                                	99991231  	19940101  
+177    	Por NO SELLAR LOS CONTENEDORES                                                                      	RS 0602/94     	ART                                	99991231  	19940101  
+178    	Por VALOR                                                                                           	DS 5-96-EF     	ART                                	99991231  	19940101  
+179    	Por CANTIDAD                                                                                        	DS 5-96-EF     	ART                                	99991231  	19940101  
+180    	Por PARTIDA ARANCELARIA                                                                             	DS 5-96-EF     	ART                                	99991231  	19940101  
+181    	Por INFORMACION EXTEMPORANEA                                                                        	DS 5-96-EF     	ART                                	99991231  	19940101  
+182    	Por NO ENTREGAR EL INFORME ESTADISTICO MENSUAL                                                      	DS 5-960EF     	ART                                	99991231  	19940101  
+183    	Por REIMPRESION                                                                                     	DS 5-96-EF     	ART                                	99991231  	19940101  
+184    	Por NO SELLAR LOS CONTENEDORES                                                                      	DS 5-96-EF     	ART                                	99991231  	19940101  
+185    	POR REINCIDENCIA DEL ART. 29 º                                                                      	LEY 26461      	ART. 30                            	99991231  	19961225  
+186    	POR TRANSPORTAR, CON CONOCIMIENTO, MERCANCIAS VINCULADOS A LA INFRACC. ADM. DE CONTRABANDO          	LEY 26461      	ART. 31                            	99991231  	19961225  
+187    	POR ALMACENAMIENTO O COMERCIALIZACION DE MERCANCIAS CONTEMPLADO EN EL ART. 26º                      	LEY 26461      	ART. 33                            	99991231  	19961225  
+188    	Formular declaraciones incorrectas o proporcionar información incompleta de mcias cuanto su origen  	D.L.809        	ART. 103 inc D) num 6)             	99991231  	19961225  
+189    	Formular declarac.incorrectas o proporcionar información incompleta de mcias en cuanto su especie   	D.L.809        	ART. 103 inc D) num 6)             	99991231  	20000526  
+190    	Formular declaraciones incorrectas o proporcionar información incompleta de mcias cuanto su cantidad	D.L.809        	ART. 103 inc D) num 6)             	99991231  	19961225  
+191    	Formular declaraciones incorrectas o proporcionar información incompleta de mcias cuanto su calidad 	D.L.809        	ART. 103 inc D) num 6)             	99991231  	19961225  
+192    	NO PRESENTAR OTRAS DECLARACIONES O COMUNICACIONES DENTRO DE LOS PLAZOS ESTABLECIDOS                 	D.L.816        	ART. 176 num 2)                    	99991231  	20000301  
+194    	Asignar una partida arancelaria incorrecta a la Mercancia declarada si no existe incidencia trib.   	D.L.809        	ART. 103 inc D) num 10)            	99991231  	20000526  
+195    	Entregar las mercancias sin haber sido concedido el levante habiendo pagado los tributos.           	D.L.809        	ART. 103 inc C) num 4)             	99991231  	20010224  
+196    	Entregar las mercancias sin haber sido concedido el levante en el caso de exportación de mercancías 	D.L.809        	ART. 103 inc C) num 4)             	99991231  	20010224  
+197    	Cuando se presenten con errores el manifiesto o no se cumpla con las disposiciones aplicables.      	D.L.809        	ART. 103 inc A) num 2)             	99991231  	20010224  
+198    	Formular declaraciones incorrectas o proporcionar informaci¿n incompleta de mcias cuanto su uso     	D.L.809        	ART. 103 inc D) num 6)             	99991231  	20010224  
+199    	Cuando se destinen las mercancias importadas a fin distinto al autorizado.                          	D.L.809        	ART. 103 inc F) num 1)             	99991231  	20010224  
+200    	Cuando se trasladan las mercancías importadas a un lugar distinto.                                  	D.L.809        	ART. 103 inc F) num 1)             	99991231  	20010224  
+201    	Consignar datos falsos o erroneos en la solic. de restituci?n cuando no tenga incid en su determinc.	D.L.809        	ART. 103 inc I)                    	99991231  	20010224  
+202    	Consignar datos faltos o erroneos en la solic. de reposici?n cuando no tenga incid en su determinc. 	D.L.809        	ART. 103 inc J)                    	99991231  	20010224  
+203    	Los articulos no considerados como equipaje ni menaje de casa                                       	D.S.059-95     	ART. 4 inc C)                      	99991231  	19950404  
+204    	MULTA A LAS PERSONAS QUE INGRESAN O EXTRAEN MCIAS. ELUDIENDO EL CONTROL ADUANERO                    	LEY 28008      	ART.36                             	99991231  	20030828  
+205    	REINCIDENCIA AL ART. 36                                                                             	LEY 28008      	ART.37                             	99991231  	20030828  
+206    	MULTA A LA PERSONA NATURAL QUE TRANSPORTA MCIAS EN INFRACCION                                       	LEY 28008      	ART. 39 inc A)                     	99991231  	20030828  
+207    	MULTA A LA PERSONA JURíDICA QUE TRANSPORTA MCIAS EN INFRACCION                                      	LEY 28008      	ART. 39 inc B)                     	99991231  	20030828  
+208    	REINCIDENCIA AL ART 39A  Y 39B                                                                      	LEY 28008      	ART. 40                            	99991231  	20030828  
+209    	MULTA POR ALMACENAMIENTO Y COMERCIALIZACIóN DE MCIAS EN INFRACCION                                  	LEY 28008      	ART. 42                            	99991231  	20030828  
+210    	Consignar datos erroneos que tengan incidencia en su detereminación                                 	D.L.809        	ART. 103 inc I)                    	99991231  	20040613  
+211    	Consignar datos falsos que tengan incidencia en su determinacion                                    	D.L.809        	ART. 103 inc I)                    	99991231  	20040613  
+99     	OTROS                                                                                               	OTROS          	OTROS                              	99991231  	0         
+A1     	No remitan la informacion del manifiesto de carga, en medios magneticos o transmisiones de enlac    	D.S. 129       	Numeral 1,Inc.a) Art.103           	99991231  	20050129  
+A11    	No entreguen al momento de ingreso del medio transp.  declaracion general                           	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A12    	No entreguen al momento de ingreso manifiesto de carga                                              	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A13    	No entreguen al momento de ing.del medio transp.copia del dcto. Transporte                          	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A14    	No entreguen al momento de ing.del medio transp.lista de pasaj.equipajes tripulantes y efec.pers.   	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A15    	No entreguen al momento de ing.del medio transp.lista de povisiones de a bordo                      	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A16    	No entreguen al momento de ing.del medio transp.guia de valija y envios postales                    	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A2     	No entregen al momento del ingreso o salida del medio de transpor.,el manif.de carga o los demas    	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A21    	No entreguen al momento de salida del medio transp.  declaracion general                            	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A22    	No entreguen al momento de salida manifiesto de carga                                               	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A23    	No entreguen al momento de salida del medio transp.copia del dcto. Transporte                       	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A24    	No entreguen al momento de salida del medio transp.lista de pasaj.equipajes tripulantes y efec.pers.	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A25    	No entreguen al momento de salidadel medio transp.lista de povisiones de a bordo                    	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A26    	No entreguen al momento de salida del medio transp.guia de valija y envios postales                 	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A27    	No implementen,cautelen,mantengan o violen medidas de seguridad precintos o similares con valor Fob 	D.Leg 1053     	Numeral 2,Inc.a) Art.192           	99991231  	20160728  
+A28    	No implementen,cautelen,mantengan o violen medidas de seguridad precintos o similar con val.FOB mín.	D.Leg 1053     	Numeral 2,Inc.a) Art.192           	99991231  	20160728  
+A29    	No implemente, no cautele, no mantenga o viole medid. de segurid. precintos o similar sin valor FOB 	D.Leg 1053     	Numeral 2,Inc.a) Art.192           	99991231  	20160728  
+A3     	Entregen el manifiesto de carga o los demas documentos con errores excepto en cuanto al peso.       	D.S. 129       	Numeral 2,Inc.a) Art.103           	99991231  	20050129  
+A30    	No comuniquen a la Adm Ad revocación repres legal o conclusión vínculo contractual auxiliar en plazo	D.Leg 1053     	Numeral 1,inc.a) Art.192           	99991231  	20090317  
+A31    	Violen las medidas de seguridad colocadas o verificadas por autoridad aduanera..                    	D.Leg 1053     	Numeral 2,inc.a) Art.192           	99991231  	20090317  
+A32    	No presten la logística necesaria, impidan la labor de reconoc,inspecc                              	D.Leg 1053     	Numeral 3,inc.a) Art.192           	99991231  	20090317  
+A33    	No cumplan los plazos establecidos por la autoridad aduanera reembarque y transito terrestre        	D.Leg 1053     	Numeral 4,inc.a) Art.192           	99991231  	20090317  
+A34    	No cumplan plazos establec autoridad aduanera, reembarque,transito,transbordo no terr               	D.Leg 1053     	Numeral 4,inc.a) Art.192           	99991231  	20090317  
+A35    	No implementesn no cacutelen no mantengan o violen medidad de seguridad los demas casos             	D.Leg 1053     	Numeral 2,Inc.a) Art.192           	99991231  	20160728  
+A4     	No suscriban nota de tarja, relacion de bultos faltantes o sobrantes o actas de inven.de bultos     	D.S. 129       	Numeral 3,Inc.a) Art.103           	99991231  	20050129  
+A41    	Violen las medidas de seguridad colocadas o verificadas por autoridad aduanera..                    	D.Leg 1053     	Numeral 2,inc.a) Art.192           	99991231  	20090317  
+A5     	No comuniquen a la autori. aduan la fecha del termino de descarga o embarque o lo hagan con erro    	D.S. 129       	Numeral 4,Inc.a) Art.103           	99991231  	20050129  
+A50    	No proporcionen, exhiban o entreguen información o doc requerida en el control posterior            	D.Leg 1053     	Numeral 5,inc.a) Art.192           	99991231  	20090317  
+A51    	Comuniquen con error a la autori. Aduanera la fecha del termino de descarga                         	D.S. 129       	Numeral 4,Inc.a) Art.103           	99991231  	20080325  
+A52    	Comuniquen con error a la autori. Aduanera la fecha del termino de embarque                         	D.S. 129       	Numeral 4,Inc.a) Art.103           	99991231  	20080325  
+A53    	No proporcionen, exhiban o entreguen información o doc requerida en el despacho                     	D.Leg 1053     	Numeral 5,inc.a) Art.192           	99991231  	20090317  
+A54    	No proporcionen, exhiban o entreguen información o doc requerida relativa a restitucion             	D.Leg 1053     	Numeral 5,inc.a) Art.192           	99991231  	20090317  
+A55    	No proporcionen, exhiban o entreguen información o doc requerida ¿origen merc der antidump comp.    	D.Leg 1053     	Numeral 5,inc.a) Art.192           	99991231  	20090317  
+A56    	No proporcionen, exhiban o entreguen información o doc requerida otros casos                        	D.Leg 1053     	Numeral 5,inc.a) Art.192           	99991231  	20090317  
+A6     	No entreguen a los almacenes aduaneros o al dueño o consignatario,los bultos desconsolidado         	D.S. 129       	Numeral 5,Inc.a) Art.103           	99991231  	20050129  
+A60    	No comparezcan ante la autoridad aduanera cuando sean requeridos                                    	D.Leg 1053     	Numeral 6,inc.a) Art.192           	99991231  	20090317  
+A7     	No presenten o presenten fuera de plazo la solicitud de rectificacion de errores del manif. de c    	D.S. 129       	Numeral 6,Inc.a) Art.103           	99991231  	20050129  
+A70    	No lleven los libros, registros o documentos aduaneros exigidos                                     	D.Leg 1053     	Numeral 7,inc.a) Art.192           	99991231  	20090317  
+A71    	Presenten fuera de plazo la solicitud de rectificacion de errores del manif. de carga - ingreso     	D.S. 129       	Numeral 6,Inc.a) Art.103           	99991231  	20080325  
+A72    	Presenten fuera de plazo la solicitud de rectificacion de errores del manif. de carga - salida      	D.S. 129       	Numeral 6,Inc.a) Art.103           	99991231  	20080325  
+A73    	Lleven los libros desactualizados incompletos  o sin cumplir las formalidades establecidos          	D.Leg 1053     	Numeral 7,inc.a) Art.192           	99991231  	20090317  
+A8     	No entreguen a los viajeros el formulario para la declar.jurada de equipaje, antes de arribar al    	D.S. 129       	Numeral 7,Inc.a) Art.103           	99991231  	20050129  
+A80    	No sometan mercancías control no intrusivo a su ingreso traslado o salida del terr nacional         	D.Leg 1053     	Numeral 8,inc.a) Art.192           	99991231  	20130111  
+A9     	Trasladen mercan. entre lugares consider. o habil. zona primaria, utilizando vehiculos sin sistema¿ 	D.Leg 1053     	Numeral 9,inc.a) Art.192           	99991231  	20160728  
+B0     	La documentacion aduanera presentada contenga datos de identificacion que no corresp..al dueño      	D.Leg 1053     	Numeral 1,inc.b) Art.192           	99991231  	20090317  
+B1     	No remitan informacion del manif. de carga desconsol.o consolidada en medios magneticos enlaces     	D.S. 129       	Numeral 1,Inc.b) Art.103           	99991231  	20050129  
+B10    	Destinen mercancías de importación restringida sin contar con la documentacion exigida              	D.Leg 1053     	Numeral 10,inc.b) Art.192          	99991231  	20090317  
+B11    	Destine la merc sin contar con los documentos exigibles segun el regimen aduanero                   	D.Leg 1053     	Numeral 2,inc.b) Art.192           	99991231  	20090317  
+B12    	Destinen merc import restringida sin contar con document exigida o document no cumpla formalidades  	D.Leg 1053     	Numeral 10,inc.b) Art.192          	99991231  	20130111  
+B13    	No mantengan o no se adecuen a los requisitos documentarios establecidos para operar                	D.Leg 1053     	Numeral 11,inc.b) Art.192          	99991231  	20160728  
+B14    	No se adecuen a los requisitos y condiciones de infraestruc. o no mantener el patrimo.pers. o social	D.Leg 1053     	Numeral 11,inc.b) Art.192          	99991231  	20160728  
+B15    	Desempeñen sus funciones en locales no autorizados por la autoridad aduanera                        	D.Leg 1053     	Numeral 12,inc.b) Art.192          	99991231  	20160728  
+B16    	Autenticar doc.presenta sin contar con original en sus arch. o corresp. a un despacho no intervenido	D.Leg 1053     	Numeral 13,inc.b) Art.192          	99991231  	20160728  
+B17    	Retiro de las mercancías,inmovilizadas sin autorizacion de salida o levante                         	D.Leg 1053     	Numeral 14,inc.b) Art.192          	99991231  	20160728  
+B18    	Retiro de las mercancías,inmovilizadas sin autorizac. de salida o levante minimo                    	D.Leg 1053     	Numeral 14,inc.b) Art.192          	99991231  	20160728  
+B19    	Presenten DAM con datos distintos a los transmitidos electron. o rectificados                       	D.Leg 1053     	Numeral 15,inc.b) Art.192          	99991231  	20160728  
+B2     	No entreguen el manifies. de carga desconsol. o consolidada o demas documentos                      	D.S. 129       	Numeral 2,Inc.b) Art.103           	99991231  	20050129  
+B20    	Destinar mercan.a nombre de un tercero sin contar con autorización                                  	D.Leg 1053     	Numeral 16,inc.b) Art.192          	99991231  	20160728  
+B21    	Destinar mercan.a nombre de un tercero sin contar con autorización minimo                           	D.Leg 1053     	Numeral 16,inc.b) Art.192          	99991231  	20160728  
+B22    	Retiro de las mercancías,inmovilizadas sin autorizacion de salida o levante maximo                  	D.Leg 1053     	Numeral 14,inc.b) Art.192          	99991231  	20160728  
+B23    	Destinar mercan.a nombre de un tercero sin contar con autorización maximo                           	D.Leg 1053     	Numeral 16,inc.b) Art.192          	99991231  	20160728  
+B3     	Entregen el manifiesto de carga o los demas documentos con errores excepto en cuanto al peso        	D.S. 129       	Numeral 2,Inc.b) Art.103           	99991231  	20050129  
+B31    	Formulen declaracion incorrecta o proporcionen informac. incompleta de mercancias,con incid. Tribut.	D.Leg 1053     	Numeral 3,inc.b) Art.192           	99991231  	20090317  
+B32    	Formulen declarac incorrecta o proporcionen informac, sin inc. Tributaria casos origen,pais adquis. 	D.Leg 1053     	Numeral 3,inc.b) Art.192           	99991231  	20090317  
+B33    	Formulen declarac incorrecta o proporcionen informac. ..por cada tipo de  mercancias, sin incid. Tri	D.Leg 1053     	Numeral 3,inc.b) Art.192           	99991231  	20090317  
+B34    	Formulen declaracion incorrecta o proporcionen informac. incompleta de mercancias,con incid. Tribut.	D.Leg 1053     	Numeral 3,inc.b) Art.192           	99991231  	20090317  
+B4     	No presenten o presenten fuera de plazo la solic.de rectific.de errores del manifies.de carga de    	D.S. 129       	Numeral 3,Inc.b) Art.103           	99991231  	20050129  
+B40    	No consignen o consignen erroneamente en declarac codigos a efectos determ tributos con incid trib  	D.Leg 1053     	Numeral 4,inc.b) Art.192           	99991231  	20090317  
+B41    	Agente de carga-presenten fuera de plazo solic rect errores de manif carga descons o consol-ingreso 	D.S. 129       	Numeral 3,Inc.b) Art.103           	99991231  	20080325  
+B42    	Concesio postal-presenten fuera de plazo solic rect errores de manif carga descons o consol-ingreso 	D.S. 129       	Numeral 3,Inc.b) Art.103           	99991231  	20080325  
+B43    	Agente de carga-presenten fuera de plazo solic rect errores de manif carga descons o consol-salida  	D.S. 129       	Numeral 3,Inc.b) Art.103           	99991231  	20080325  
+B44    	Concesio postal-presenten fuera de plazo solic rect errores de manif carga descons o consol-salida  	D.S. 129       	Numeral 3,Inc.b) Art.103           	99991231  	20080325  
+B45    	No consignen o consignen erroneamente en la declarac codigos sin incid trib.                        	D.Leg 1053     	Numeral 4,inc.b) Art.192           	99991231  	20090317  
+B46    	No consignen o consignen erroneamente en declarac codigos a efectos determ tributos con incid trib  	D.Leg 1053     	Numeral 4,inc.b) Art.192           	99991231  	20090317  
+B5     	 Asignen subpartida nacional incorrecta por cada mercan declarada, si existe incidencia en los trib.	D.Leg 1053     	Numeral 5,inc.b) Art.192           	99991231  	20090317  
+B51    	Asignen subpartida nacional incorrecta por cada mercan declarada, si existe incidencia en los trib. 	D.Leg 1053     	Numeral 5,inc.b) Art.192           	99991231  	20090317  
+B6     	No consignen o consignen erróneamente en cada en cada serie..los datos del regimen precedente       	D.Leg 1053     	Numeral  6,inc.b) Art.192          	99991231  	20090317  
+B7     	Numeren mas de una(1) declaracion para 1 misma mercancia sin que haya dejado sin efecto la anterior 	D.Leg 1053     	Numeral 7,inc.b) Art.192           	99991231  	20090317  
+B8     	No conserv 5 años document original o la que conserva en copia no concuerde con la document original	D.Leg 1053     	Numeral 8,inc.b) Art.192           	99991231  	20090317  
+B80    	No entregar documentacion transcurrido 5 años o casos cancelación o revocación                      	D.Leg 1053     	Numeral 8,inc.b) Art.192           	99991231  	20110223  
+B9     	Destinen mercancias prohibidas                                                                      	D.Leg 1053     	Numeral 9,inc.b) Art.192           	99991231  	20090317  
+B90    	Destinen mercancías prohibidas                                                                      	D.Leg 1053     	Numeral 9,inc.b) Art.192           	99991231  	20130111  
+C01    	Formulen declaracion incorrecta o proporcionen informac. incompleta de mercancias,con incid. Tribut.	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C1     	Custodien mercancias que no esten amparadas con la documentacion sustentatoria                      	D.S. 129       	Numeral 1,Inc.c) Art.103           	99991231  	20050129  
+C10    	Exista mercancia no consignada en la declaracion aduanera demercancia                               	D.Leg 1053     	Numeral 10,inc.c) Art.192          	99991231  	20090317  
+C11    	No comuniquen a la Adminis. aduanera la denegatoria del sector competente respecto  merc restring   	D.Leg 1053     	Numeral 11,inc.c) Art.192          	99991231  	20090317  
+C12    	Formulen declaracion incorrecta o proporcionen informac. incompleta merc,con incid antidump compens 	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C13    	Formulen declarac incorrecta o proporcionen informac,sin incid. Tributaria casos origen,pais adquis.	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C14    	Formulen declarac incorrecta o proporcionen inform.por c/tipo de mercancias,sin incid.Trib otros    	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C15    	Formulen declaracion incorrecta o proporcionen informac. incompleta de mercancias,con incid. Tribut.	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C16    	Formulen declaracion incorrecta o proporcionen informac. incompleta merc,con incid antidump compens 	D.Leg 1053     	Numeral 1,inc.c) Art.192           	99991231  	20090317  
+C17    	Reg. deposito se evidencie falta o perdida de mercancia durante el traslado desde el punto de llegad	D.Leg 1053     	Numeral 12,inc.c) Art.192          	99991231  	20100222  
+C2     	Ubiquen mercancias en areas diferentes a las autorizadas para cada fin                              	D.S. 129       	Numeral 2,Inc.c) Art.103           	99991231  	20050129  
+C20    	No regularicen dentro del plazo establecido los despachos urgentes o los despachos anticipados      	D.Leg 1053     	Numeral 2,inc.c) Art.192           	99991231  	20090317  
+C3     	No remitan la conformidad de la recepcion de las mercancias o la informac. referida a notas de t    	D.S. 129       	Numeral 3,Inc.c) Art.103           	99991231  	20050129  
+C30    	Consignen datos incorrectos en solic de restitucion o no acrediten requisit.drawback con incid deter	D.Leg 1053     	Numeral 3,inc.c) Art.192           	99991231  	20090317  
+C31    	Consignen datos incorrectos en solic de restitucion o no acrediten requis.drawback sin incid determ 	D.Leg 1053     	Numeral 3,inc.c) Art.192           	99991231  	20090317  
+C32    	Consig.datos incorrectos solic restitucion o no acrediten requis,drawback c/incid por sobreval o sim	D.Leg 1053     	Numeral 3,inc.c) Art.192           	99991231  	20090317  
+C34    	Consignen datos incorrectos en solic de restitucion o no acrediten requisit.drawback con incid deter	D.Leg 1053     	Numeral 3,inc.c) Art.192           	99991231  	20090317  
+C4     	Impidan a la autoridad aduanera las labores de inspección o reconocimiento                          	D.S. 129       	Numeral 4,Inc.c) Art.103           	99991231  	20050129  
+C40    	Transmitan o consig.datos incorrecto en CIP para acogerse reposicion merc en franq con incid determ 	D.Leg 1053     	Numeral 4,inc.c) Art.192           	99991231  	20090317  
+C41    	Transmitan o consig.datos incorrecto en CIP para acogerse reposicion merc en franq sin incid determ 	D.Leg 1053     	Numeral 4,inc.c) Art.192           	99991231  	20090317  
+C42    	Transmitan o consig.datos incorrecto en CIP para acogerse reposicion merc en franq con incid determ 	D.Leg 1053     	Numeral 4,inc.c) Art.192           	99991231  	20090317  
+C5     	No formulen o no suscriban las notas de tarja,la relación de bultos faltantes o sobrantes o las     	D.S. 129       	Numeral 5,Inc.c) Art.103           	99991231  	20050129  
+C51    	No regularicen el regimen de esportacion definitiva en la forma y plazo establecido                 	D.Leg 1053     	Numeral 5,inc.c) Art.192           	99991231  	20090317  
+C6     	No informen a la autoridad aduanera, la relación de las mercancías en situación de abandono lega    	D.S. 129       	Numeral 6,Inc.c) Art.103           	99991231  	20050129  
+C61    	Transfieran mercancias sujetos a regimen de inafectacion,exoneracion o beneficio tributario         	D.Leg 1053     	Numeral 6,inc.c) Art.192           	99991231  	20090317  
+C62    	Transfieran mercancias objeto del regimen de admision temporal reexp y perf act                     	D.Leg 1053     	Numeral 6,inc.c) Art.192           	99991231  	20090317  
+C7     	Se detecte la falta, pérdida o daño de las mercancías recibidas.                                    	D.S. 129       	Numeral 7,Inc.c) Art.103           	99991231  	20050129  
+C71    	Se detecte daño de las mercancias recibidas                                                         	D.S. 129       	Numeral 7,Inc.c) Art.103           	99991231  	20050129  
+C72    	Destinen a otro fin merc admis temp para reexp sin comunicar aut.aduanera                           	D.Leg 1053     	Numeral 7,inc.c) Art.192           	99991231  	20090317  
+C73    	Cuando trasladen a lugar distinto merc Admis temp para reexp sin comunicar aut. Aduanera            	D.Leg 1053     	Numeral 7,inc.c) Art.192           	99991231  	20090317  
+C8     	Destinen a otro fin o permitan utilizacion por terceros las mercan sujetas a reg.Inafec o beneficio 	D.Leg 1053     	Numeral 8,inc.c) Art.192           	99991231  	20090317  
+C9     	Efectuen el retiro de las mercancias del punto de llegada cuando no se haya concedido el levante... 	D.Leg 1053     	Numeral 9,inc.c) Art.192           	99991231  	20090317  
+D1     	Gestionen la destinacion a un regimen,operacion,destino aduanero especial o de excepcion...         	D.S. 129       	Numeral 1,Inc.d) Art.103           	99991231  	20050129  
+D10    	Numeren mas de una declarac.para una misma mercan.,sin que previamente haya sido dejada sin efec    	D.S. 129       	Numeral 7,Inc.d) Art.103           	99991231  	20050129  
+D11    	No comuniquen a la autoridad aduanera, la modific.del directorio,gerencia y composición societar    	D.S. 129       	Numeral 8,Inc.d) Art.103           	99991231  	20050129  
+D12    	No entreguen la document. original de los despachos en que haya intervenido en los casos de canc    	D.S. 129       	Numeral 9,Inc.d) Art.103           	99991231  	20050129  
+D13    	No transmitan a la Administ. Aduanera la infor. de manif. carga y de los demas documentos           	D.Leg 1053     	Numeral 1,inc.d) Art.192           	99991231  	20090317  
+D14    	No entreguen al dueño o consignatario o al respons del almacen cuando corres.la mercan descargada   	D.Leg 1053     	Numeral 1,inc.d) Art.192           	99991231  	20160728  
+D2     	Gestionen el despacho sin contar con los docum.exigibles segun el regimen,operacion o destino       	D.S. 129       	Numeral 2,Inc.d) Art.103           	99991231  	20050129  
+D20    	No entregen a Adm.Aduanera al momento del ingreso o salida del medio de trans.el manf. De carga...  	D.Leg 1053     	Numeral 2,inc.d) Art.192           	99991231  	20090317  
+D21    	No transmitan o no entreguen el manifiesto de carga,descarga de la mercancia y carga embarcar       	D.Leg 1053     	Numeral 2,inc.d) Art.192           	99991231  	20160728  
+D22    	No transm. o no entreg. otros docu. o actos relacionados con ingreso o salida mercancía             	D.Leg 1053     	Numeral 2,inc.d) Art.192           	99991231  	20160728  
+D3     	Formulen declaracion incorrecta o proporcionen informac. incompleta de mercancias,con incid. tri    	D.S. 129       	Numeral 3,Inc.d) Art.103           	99991231  	20050129  
+D30    	No entregen o no transmitan la informacion contenida en la nota de tarja a la adminis. Aduanera ¿   	D.Leg 1053     	Numeral 3,inc.d) Art.192           	99991231  	20090317  
+D31    	Evidencia falta o perdida de mercancia bajo su responsabilidad                                      	D.Leg 1053     	Numeral 3,inc.d) Art.192           	99991231  	20160728  
+D4     	Formulen declaración incorrecta o proporcionen informac. incompleta de mercancías...sin incid.tr    	D.S. 129       	Numeral 3,Inc.d) Art.103           	99991231  	20050129  
+D40    	No comuniquen a la adminis. Aduanera la fecha del termino de la descarga o embarque                 	D.Leg 1053     	Numeral 4,inc.d) Art.192           	99991231  	20090317  
+D41    	Doc. Transporte no figure en Manifiesto, salvo esten consignados correctamente en la DAM -Maritimo  	D.Leg 1053     	Numeral 4,inc.d) Art.192           	99991231  	20160728  
+D42    	Doc. Transporte no figure en Manifiesto, salvo esten consignados correctamente en la DAM-otras vias 	D.Leg 1053     	Numeral 4,inc.d) Art.192           	99991231  	20160728  
+D5     	No consignen o consignen erroneamente en la declaración,los codigos aprobados...,con incid.tribu    	D.S. 129       	Numeral 4,Inc.d) Art.103           	99991231  	20050129  
+D50    	Se evidencie la falta o perdida de las mercancias bajo su responsabilidad.                          	D.Leg 1053     	Numeral 5,inc.d) Art.192           	99991231  	20090317  
+D51    	Diferencia entre mercancia y descrip. registrada en manif. salvo registro correcto en la DAMMaritimo	D.Leg 1053     	Numeral 5,inc.d) Art.192           	99991231  	20160728  
+D52    	Diferencia entre mercancia y descrip registrada en manif, salvo registro correcto en la DAMotrasvias	D.Leg 1053     	Numeral 5,inc.d) Art.192           	99991231  	20160728  
+D6     	No consignen o consignen erroneamente en la declaracion, los codigos aprobados...,sin incid.trib    	D.S. 129       	Numeral 4,Inc.d) Art.103           	99991231  	20050129  
+D60    	Las mercancia no figuren en los manifiestos de carga o documentos obligados a transmitir            	D.Leg 1053     	Numeral 6,inc.d) Art.192           	99991231  	20090317  
+D61    	Autoridad aduanera verifique diferencia entre mercancia y descrip en MC                             	D.Leg 1053     	Numeral 6,inc.d) Art.192           	99991231  	20090317  
+D62    	Docum de transporte no figuren en MC, en la vía marítima                                            	D.Leg 1053     	Numeral 6,inc.d) Art.192           	99991231  	20130111  
+D63    	Docum de transporte no figuren en MC, en la vía aérea, terrestre, fluvial u otras                   	D.Leg 1053     	Numeral 6,inc.d) Art.192           	99991231  	20130111  
+D7     	Asignen una subpartida nacional incorrecta por cada mercancía declarada. con incidenc. trib.        	D.S. 129       	Numeral 5,Inc.d) Art.103           	99991231  	20050129  
+D70    	Aut aduan verifique difer entre merc que contienen bultos y descrip consignada en MC vía marítima   	D.Leg 1053     	Numeral 7,inc.d) Art.192           	99991231  	20130111  
+D71    	Aut aduan verifique difer entre merc que contienen bultos y descrip consignada en MC otras vías     	D.Leg 1053     	Numeral 7,inc.d) Art.192           	99991231  	20130111  
+D8     	Asignen una subpartida nacional incorrecta por cada mercancía declarada. sin incidenc. trib.        	D.S. 129       	Numeral 5,Inc.d) Art.103           	99991231  	20050129  
+D9     	No consignen o consignen erronea en cada serie de la declar.,los datos del reg.u operac.preceden    	D.S. 129       	Numeral 6,Inc.d) Art.103           	99991231  	20050129  
+E1     	Formulen declaracion incorrecta o  proporcionen informacion incompleta de mercan., con incid.tri    	D.S. 129       	Numeral 1,Inc.e) Art.103           	99991231  	20050129  
+E10    	No concluyan el regimen de importac.temporal, admisión tempor. o exportac.tempor.,dentro del pla    	D.S. 129       	Numeral 7,Inc.e) Art.103           	99991231  	20050129  
+E11    	Transfieran las mercancias sujetos a un regimen de inafectac., exonerac.o beneficio tributario..    	D.S. 129       	Numeral 8,Inc.e) Art.103           	99991231  	20050129  
+E12    	Transfieran las mercancias admitidas o importadas temporalmente sin comunicarlo previamente...      	D.S. 129       	Numeral 8,Inc.e) Art.103           	99991231  	20050129  
+E13    	Destinen a otro fin las mercancias importadas temporalmente sin comunicarlo previamente...          	D.S. 129       	Numeral 9,Inc.e) Art.103           	99991231  	20050129  
+E14    	Trasladen a un lugar distinto las mercan. importadas temporalmente sin comunicarlo previamente      	D.S. 129       	Numeral 9,Inc.e) Art.103           	99991231  	20050129  
+E15    	Destinen a otro fin o permitan la utilización por terceros ...                                      	D.S. 129       	Numeral 10,Inc.e) Art.103          	99991231  	20050129  
+E16    	Efectue el retiro de las mercancias de los almacenes aduaneros cuando no se haya concedido el le    	D.S. 129       	Numeral 11,Inc.e) Art.103          	99991231  	20050129  
+E17    	Se detecte la existencia de mercancia no declarada.                                                 	D.S. 129       	Numeral 12,Inc.e) Art.103          	99991231  	20050129  
+E18    	No entregen a la Administ.Aduanera MC desconsolidado o consolidado                                  	D.Leg 1053     	Numeral 1,inc.e) Art.192           	99991231  	20090317  
+E19    	Las mercancias no figuren en los manifiestos de carga desconsolidado o consolidado o no transmitan  	D.Leg 1053     	Numeral 2,inc.e) Art.192           	99991231  	20090317  
+E2     	Formulen declaracion incorrecta o  proporcionen informacion incompleta de mercan.,sin incid. Tri    	D.S. 129       	Numeral 1,Inc.e) Art.103           	99991231  	20050129  
+E20    	Autoridad aduanera verifique diferencia entre mercancia y descrip en MC                             	D.Leg 1053     	Numeral 2,inc.e) Art.192           	99991231  	20090317  
+E21    	Docum de transporte no figuren en MC consolid o desconsolid, en la vía marítima                     	D.Leg 1053     	Numeral 2,inc.e) Art.192           	99991231  	20130111  
+E22    	Docum de transporte no figuren en MC consolid o desconsolid, vía aérea, terrestre, fluvial u otras  	D.Leg 1053     	Numeral 2,inc.e) Art.192           	99991231  	20130111  
+E23    	No transmitan o no entreguen a la Admi.Aduanera Manfiesto de carga desconsolidado o consolidado     	D.Leg 1053     	Numeral 1,inc.e) Art.192           	99991231  	20160728  
+E24    	No transm. o no entreg. otros docu. o actos relacionados con ingreso o salida mercancía.            	D.Leg 1053     	Numeral 1,inc.e) Art.192           	99991231  	20160728  
+E3     	No cumplan con los plazos establecidos por la autoridad aduanera para efectuar el reembar., tran    	D.S. 129       	Numeral 2,Inc.e) Art.103           	99991231  	20050129  
+E30    	Aut aduan verifiq difer entre merc q contienen bultos y descrip consign en MC cons o desc vía marít 	D.Leg 1053     	Numeral 3,inc.e) Art.192           	99991231  	20130111  
+E31    	Aut aduan verifiq difer entre merc q contienen bultos y descrip consign en MC cons o desc otras vías	D.Leg 1053     	Numeral 3,inc.e) Art.192           	99991231  	20130111  
+E4     	No regularicen dentro del plazo establecido, los despachos urgentes o los del SADA.                 	D.S. 129       	Numeral 3,Inc.e) Art.103           	99991231  	20050129  
+E5     	Consignen datos incorrectos en la solicitud de restitución o no acrediten los requis.,con incid.    	D.S. 129       	Numeral 4,Inc.e) Art.103           	99991231  	20050129  
+E51    	Inform. incorrecta en solic de restitucion proveniente insumos adquiridos directamente con benefic  	D.S. 129       	Numeral 4,Inc.e) Art.103           	99991231  	20090309  
+E52    	Inform. incorrecta en solic de restitucion proveniente  insumos de proveedores locales con benefic  	D.S. 129       	Numeral 4,Inc.e) Art.103           	99991231  	20090309  
+E6     	Consignen datos incorrectos en la solicitud de restitución o no acrediten los requis.,sin incid.    	D.S. 129       	Numeral 4,Inc.e) Art.103           	99991231  	20050129  
+E7     	Consignen datos incorrec.en el cuadro C.I.P.para acogerse al regimen de reposicion...,con incid.    	D.S. 129       	Numeral 5,Inc.e) Art.103           	99991231  	20050129  
+E8     	Consignen datos incorrec.en el cuadro C.I.P.para acogerse al regimen de reposicion...,sin incid.    	D.S. 129       	Numeral 5,Inc.e) Art.103           	99991231  	20050129  
+E9     	No regularicen el regimen de exportacion, dentro del plazo establecido                              	D.S. 129       	Numeral 6,Inc.e) Art.103           	99991231  	20050129  
+F1     	No presenten a la autoridad aduanera la informacion sobre el ingreso y salida de las mercancias,    	D.S. 129       	Numeral 1,Inc.f) Art.103           	99991231  	20050129  
+F11    	Amacenen mercancias que no esten amparadas con la documentacion sustentatoria                       	D.Leg 1053     	Numeral 1,inc.f) Art.192           	99991231  	20090317  
+F2     	Almacenen o vendan mercancías que no han sido sometidas a control por la autoridad aduanera;        	D.S. 129       	Numeral 2,Inc.f) Art.103           	99991231  	20050129  
+F21    	Ubiquen mercancias en areas diferentes a las autorizadas para cada fin                              	D.Leg 1053     	Numeral 2,inc.f) Art.192           	99991231  	20090317  
+F22    	No suscriban, no remitan, o no transmitan a la Admin. Aduanera la informac. Referida a la tarja     	D.Leg 1053     	Numera 3,inc.f) Art.192            	99991231  	20090317  
+F23    	No informen o no transmitan a la Admin Aduan relacion merc en aband legal en forma y plazo          	D.Leg 1053     	Numeral 4,inc.f) Art.192           	99991231  	20090317  
+F24    	Se evidencie la falta o perdida de las mercancias bajo su responsabilidad.                          	D.Leg 1053     	Numeral 5,inc.f) Art.192           	99991231  	20090317  
+F3     	Vendan mercancías a personas distintas a los pasajeros que ingresan o salen del país ...            	D.S. 129       	Numeral 3,Inc.f) Art.103           	99991231  	20050129  
+F30    	No transm. o no entreguen a la autoridad aduanera info. relacionada ingreso y recepción de mercanci 	D.Leg 1053     	Numera 3,inc.f) Art.192            	99991231  	20160728  
+F31    	No transmitan o no entreguen a la Adm.Aduan.info ref. a la Mcia que debieron recibir los demas casos	D.Leg 1053     	Numera 3,inc.f) Art.192            	99991231  	20160728  
+F4     	No mantengan actualizado el inventario de las mercancías almacenadas                                	D.S. 129       	Numeral 4,Inc.f) Art.103           	99991231  	20050129  
+F5     	La autoridad aduanera detecte falta de mercancías.                                                  	D.S. 129       	Numeral 5,Inc.f) Art.103           	99991231  	20050129  
+F6     	No mantengan o no se adecuen a las obligaciones, los requisitos documentario para operar            	D.Leg 1053     	Numera 6,inc.f) Art.192            	99991231  	20160728  
+F61    	No mantengan o no adecuen las obligaciones por cada requis. de infraes. nivel de solvencia economica	D.Leg 1053     	Numera 6,inc.f) Art.192            	99991231  	20160728  
+F7     	No destinen las áreas y recintos autorizados para fines o funciones específicos de la autorización  	D.Leg 1053     	Numera 7,inc.f) Art.192            	99991231  	20160728  
+F8     	Modifiquen o reubiquen las áreas y recintos sin autorización de la autoridad aduanera.              	D.Leg 1053     	Numera 8,inc.f) Art.192            	99991231  	20160728  
+F9     	Entreguen o dispongan de las mercancías sin levante o dejado sin efecto la medida preventiva        	D.Leg 1053     	Numera 9,inc.f) Art.192            	99991231  	20160728  
+F90    	Entreguen o dispongan de las mercancías sin levante o dejado sin efecto la medida preventiva -maximo	D.Leg 1053     	Numera 9,inc.f) Art.192            	99991231  	20160728  
+F91    	Entreguen o dispongan de las mercancías sin levante o dejado sin efecto la medida preventiva-minimo 	D.Leg 1053     	Numera 9,inc.f) Art.192            	99991231  	20160728  
+F92    	Entreguen o dispon. de las mercancí.sin levante o dejado sin efecto la medida preventiva sin val.FOB	D.Leg 1053     	Numera 9,inc.f) Art.192            	99991231  	20160728  
+G1     	No informe a la autoridad aduanera el movimiento de ingreso y salida del material de uso aeronau    	D.S. 129       	Numeral 1,Inc.g) Art.103           	99991231  	20050129  
+G11    	No transmitan a la Administ. Aduanera lacantidad de bultos y peso bruto que se recepciona...        	D.Leg 1053     	Numeral 1,inc.g) Art.192           	99991231  	20090317  
+G2     	Permita la utilización del material por parte de terceros sin contar con la autorización aduaner    	D.S. 129       	Numeral 2,Inc.g) Art.103           	99991231  	20050129  
+G21    	No transmitan a la Adminis. Aduanera la informacion de lpeso total y numero de envios¿              	D.Leg 1053     	Numeral 2,inc.g) Art.192           	99991231  	20090317  
+G23    	No remitan a Adm.Aduanera originales Declar Simplif y document sustentatoria en forma y plazo Reglam	D.Leg 1053     	Numeral 3,inc.g) Art.192           	99991231  	20090317  
+G24    	No embarquen,reexpidan o devuelvan envios postales  dentro del plazo que establece su reglamento    	D.Leg 1053     	Numeral 4,inc.g) Art.192           	99991231  	20090317  
+G3     	No mantenga actualizado el inventario de los materiales almacenados;                                	D.S. 129       	Numeral 3,Inc.g) Art.103           	99991231  	20050129  
+G4     	La autoridad aduanera detecte falta de material de uso aeronautico                                  	D.S. 129       	Numeral 4,Inc.g) Art.103           	99991231  	20050129  
+G5     	Serv. Postal No mantengan o no se adecuen a los requisitos documentario establecidos para operar -  	D.Leg 1053     	Numeral 5,inc.g) Art.192           	99991231  	20160728  
+G51    	Serv.Postal No se adecuen a los requi. y condici.de infraestruc.o no mante el patrimo.pers.o social 	D.Leg 1053     	Numeral 5,inc.g) Art.192           	99991231  	20160728  
+H1     	Los viajeros que porten articulos que por su naturaleza o cantidad se presuma que estan destinad    	D.S. 129       	Inc.h) Art.103                     	99991231  	20050129  
+H2     	No transmiten por medios electronicos a la Adm.Aduan. inform. De manif. de envios de entrega rapida 	D.Leg 1053     	Numeral 1,inc.h) Art.192           	99991231  	20100101  
+H3     	No presenten a la autoridad aduanera los envios de entrega rapida identificados individualmente¿    	D.Leg 1053     	Numeral 2,inc.h) Art.192           	99991231  	20100101  
+H4     	No mantengan actualizado el registro de envios de entrega rapida desde recoleccion hasta su entrega¿	D.Leg 1053     	Numeral 3,inc.h) Art.192           	99991231  	20100101  
+H5     	Las mercancias no figuren en los manifiestos de envio de entrega rapida                             	D.Leg 1053     	Numeral 4,inc.h) Art.192           	99991231  	20100101  
+H50    	Las guías no figuren en manifiesto de carga EER                                                     	D.Leg 1053     	Numeral 4,inc.h) Art.192           	99991231  	20130111  
+H51    	Aut aduan verifiq difer entre merc q contienen bultos y descrip consign en manifiesto de carga EER  	D.Leg 1053     	Numeral 5,inc.h) Art.192           	99991231  	20130111  
+H6     	La autoridad aduanera  verifique diferencia entre las mercancia que contiene los bultos y la descrip	D.Leg 1053     	Numeral 4,inc.h) Art.192           	99991231  	20100101  
+H61    	EER- No mantengan o no se adecuen a los requisitos documentarios establecidos para operar           	D.Leg 1053     	Numeral 6,inc.h) Art.192           	99991231  	20160728  
+H62    	EER No se adecuen a los requi. y condicio. de infraestruc. o no mantener el patrimo. pers. o social 	D.Leg 1053     	Numeral 6,inc.h) Art.192           	99991231  	20160728  
+I1     	Violen las medidas de seguridad colocadas por la autoridad aduanera, o permitan su violación,       	D.S. 129       	Numeral 1,Inc.i) Art.103           	99991231  	20050129  
+I11    	No transmitan a la autoridad aduanera inform. Sobre ingreso y salida de merc. y el inventario       	D.Leg 1053     	Numeral 1,inc.i) Art.192           	99991231  	20090317  
+I12    	Amacenen las mercancias en lugares no autorizados por la Administracion Aduanera.                   	D.Leg 1053     	Numeral 2,inc.i) Art.192           	99991231  	20090317  
+I13    	Almacenen o vendan mercancias que no han sido sometidas a control por la autoridad aduanera.        	D.Leg 1053     	Numeral 3,inc.i) Art.192           	99991231  	20090317  
+I14    	Vendan mercancias a personas distintas a los pasajeros que ingresan o salen del pais ...            	D.Leg 1053     	Numeral 4,inc.i) Art.192           	99991231  	20090317  
+I15    	No mantengan actualizado el registro e inventario de operaciones de ingreso y salida de las merc¿.  	D.Leg 1053     	Numeral 5,inc.i) Art.192           	99991231  	20090317  
+I16    	Se evidencie la falta o perdida de las mercancias bajo su responsabilidad.                          	D.Leg 1053     	Numeral 6,inc.i) Art.192           	99991231  	20090317  
+I17    	No informen respecto de la relacion de los bienes que hubieren sufrido daño, perdida ¿              	D.Leg 1053     	Numeral 7,inc.i) Art.192           	99991231  	20090317  
+I2     	Impidan, obstaculicen o no presten la logistica necesaria para las labores de reconocimiento, in    	D.S. 129       	Numeral 2,Inc.i) Art.103           	99991231  	20050129  
+I3     	No proporcionen, exhiban o entreguen información o documentacion requerida dentro del plazo...      	D.S. 129       	Numeral 3,Inc.i) Art.103           	99991231  	20050129  
+I4     	No comparezcan ante la autoridad aduanera cuando sean requeridos                                    	D.S. 129       	Numeral 4,Inc.i) Art.103           	99991231  	20050129  
+I5     	No comuniquen a la autoridad aduanera el nombramiento y la revocacion del  representante  legal     	D.S. 129       	Numeral 5,Inc.i) Art.103           	99991231  	20050129  
+I6     	No lleven los libros, registros y documentos aduaneros exigidos ...                                 	D.S. 129       	Numeral 6,Inc.i) Art.103           	99991231  	20050129  
+I7     	Lleven los libros, registros y documentos aduaneros desactualizados, incompletos,...                	D.S. 129       	Numeral 6,Inc.i) Art.103           	99991231  	20050129  
+I8     	No mantengan o no se adecuen a los requisitos y condiciones establecidos por la SUNAT               	D.S. 129       	Numeral 7,Inc.i) Art.103           	99991231  	20050129  
+J1     	Si decretado el comiso la mercan. no fuere hallada o entregada a la autor.aduanera,se aplicara u    	D.S. 129       	Art. 108                           	99991231  	20050129  
+J11    	No lleven o no transmita a la Adm.Aduanera el registro automatizado de operac.  Ingreso y salida DMA	D.Leg 1053     	Numeral 1,inc.j) Art.192           	99991231  	20090317  
+J12    	No mantengan actualizado el  inventario de del material de uso aeronautico almacenado¿              	D.Leg 1053     	Numeral 2,inc.j) Art.192           	99991231  	20090317  
+J13    	No informen respecto de la relacion de los bienes que hubieren sufrido daño, perdida ¿              	D.Leg 1053     	Numeral 3,inc.j) Art.192           	99991231  	20090317  
+J14    	No informen las modificacines producidas en ambiente autorizados de dep mater.Uso aeronautico.      	D.Leg 1053     	Numeral 4,inc.j) Art.192           	99991231  	20090317  
+J15    	Permitan la utilizacion de material uso aero.por parte de otros benefic.sin contar autor. Adua.     	D.Leg 1053     	Numeral 5,inc.j) Art.192           	99991231  	20090317  
+J16    	Se evidencie la falta de material de uso aeronautico bajosu responsabilidad.                        	D.Leg 1053     	Numeral 6,inc.j) Art.192           	99991231  	20090317  
+J2     	Se detecte la existencia de mercancía no declarada, en cuyo supuesto adicio. se aplicara una mul    	D.S. 129       	Inciso i),Art.108                  	99991231  	20050129  
+K01    	Si decretado el comiso la mercancia o el medio de transporte no fueran hallados¿                    	D.Leg 1053     	Ultimo parrafo Art. 197            	99991231  	20090317  
+K02    	Regularizacion excepcional por exceder plazo otorgado para permanencia de vehiculo                  	D.Leg 1053     	Segundo parrafo Art. 197           	99991231  	20160120  
+L01    	Si el viajero opta por recuperar los bienes, debera pagar una multa.                                	D.Leg 1053     	Inciso j) Art. 197                 	99991231  	20090317  
+M1     	No cuenten con la infraestruc. física, los sistemas o los dispositi. que garanticen la seguridad¿   	D.Leg 1053     	Numeral 1,inc.k) Art.192           	99991231  	20160728  
+M2     	No proporcionen, exhiban, entreguen o transmitan la información o documen. requerida ¿              	D.Leg 1053     	Numeral 2,inc.k) Art.192           	99991231  	20160728  
+M3     	Impidan u obstaculicen a la autoridad aduanera las labores de reconoci., inspección o fiscaliz¿.    	D.Leg 1053     	Numeral 3,inc.k) Art.192           	99991231  	20160728  
+M4     	No implementen,cautelen,mantengan o violen medidas de segu. precintos o similares con valor Fob     	D.Leg 1053     	Numeral 4,inc.k) Art.192           	99991231  	20160728  
+M41    	No implemente,no cautele,no mantenga o viole medid. de segur. precintos o similar con val FOB mín   	D.Leg 1053     	Numeral 4,inc.k) Art.192           	99991231  	20160728  
+M42    	No implementen no cautelen no mantengan o violen medidas de seguridad precintos o similar sin valFOB	D.Leg 1053     	Numeral 4,inc.k) Art.192           	99991231  	20160728  
+M43    	No implementesn no cacutelen no mantengan o violen medidad de seguridad los demas casos             	D.Leg 1053     	Numeral 4,inc.k) Art.192           	99991231  	20160728  
+M5     	No pongan a disposición de la autoridad aduanera las instalaciones, infraes. equipos o medios ...   	D.Leg 1053     	Numeral 5,inc.k) Art.192           	99991231  	20160728  
+M6     	No permitan el acceso a sus sistemas de control y seguimiento para las acciones de control ¿        	D.Leg 1053     	Numeral 6,inc.k) Art.192           	99991231  	20160728  
+M7     	No permitan u obstaculicen a la Administración Aduanera la instalación de los sistemas ¿            	D.Leg 1053     	Numeral 7,inc.k) Art.192           	99991231  	20160728  
+V1     	Multa por incurrir en fraude o falsedad en la declaración, información o documentación presentada   	LEY 27444      	ART. 32.3                          	99991231  	20050419  
+V2     	Multa por incurrir en fraude o falsedad en la prueba documental o en la declaración del interesado  	D.S.070-89     	ART.17                             	99991231  	20050419  
+V3     	Omisión o Falsedad en Declaración de portar Dinero Efectivo y/o IFN emitido al portador             	LEY 28306      	                                   	29991231  	20120619  

@@ -1,0 +1,61 @@
+Codigo  Descripcion                                                             FInicio     FFin        Vigencia
+000    	SEDE CENTRAL - CHUCUITO                                               	19960101	99991231	Vigente
+013    	JUNIN                                                                 	20151109	99991231	Vigente
+016    	CAJAMARCA                                                             	20151109	99991231	Vigente
+019    	TUMBES                                                                	19960101	99991231	Vigente
+023    	HUARAZ                                                                	20151109	99991231	Vigente
+024    	AYACUCHO                                                              	20151109	99991231	Vigente
+025    	HUANUCO                                                               	20151109	99991231	Vigente
+028    	TALARA                                                                	19960101	99991231	Vigente
+037    	SULLANA                                                               	19960101	19980914	No Vigente
+046    	PAITA                                                                 	19960101	99991231	Vigente
+055    	IAT-LAMBAYEQUE                                                        	20150105	99991231	Vigente
+064    	ETEN                                                                  	19960101	20030429	No Vigente
+073    	PACASMAYO                                                             	19960101	20030429	No Vigente
+082    	SALAVERRY                                                             	19960101	99991231	Vigente
+091    	CHIMBOTE                                                              	19960101	99991231	Vigente
+109    	HUACHO                                                                	19960101	20030429	No Vigente
+118    	MARITIMA DEL CALLAO                                                   	19960101	99991231	Vigente
+127    	PISCO                                                                 	19960101	99991231	Vigente
+136    	SAN JUAN                                                              	19960101	20030429	No Vigente
+145    	MOLLENDO - MATARANI                                                   	19960101	99991231	Vigente
+154    	MOLLENDO - AGENCIA ADUANERA DE AREQUIPA                               	20150105	99991231	Vigente
+163    	ILO                                                                   	19960101	99991231	Vigente
+172    	TACNA                                                                 	19960101	99991231	Vigente
+181    	PUNO                                                                  	19960101	99991231	Vigente
+190    	CUSCO                                                                 	19960101	99991231	Vigente
+208    	PUERTO MALDONADO                                                      	19960101	19970320	No Vigente
+217    	PUCALLPA                                                              	19960101	99991231	Vigente
+226    	IQUITOS                                                               	19960101	99991231	Vigente
+235    	AEREA Y POSTAL EX-IAAC                                                	19960101	99991231	Vigente
+244    	AEREA Y POSTAL EX-IAPC                                                	19960101	99991231	Vigente
+253    	PUESTO DE CONTROL DE TARAPOTO                                         	19960101	19970320	No Vigente
+262    	DESAGUADERO                                                           	19960101	99991231	Vigente
+271    	TARAPOTO                                                              	19970321	99991231	Vigente
+280    	PUERTO MALDONADO                                                      	19970321	99991231	Vigente
+299    	LA TINA                                                               	19980915	99991231	Vigente
+307    	INTENDENCIA NACIONAL DE FISCALIZACION ADUANERA(INFA)                  	20010606	99991231	Vigente
+316    	INTENDENCIA DE PREVENCION Y CONTROL FRONTERIZO                        	20010606	99991231	Vigente
+848    	VUCE ADUANAS                                                          	20091231	99991231	Vigente
+875    	ALMACEN DEL DABEC- SANTA ANITA                                        	99991231	20031209	No Vigente
+876    	ALMACEN TRIBUTARIO TACNA                                              	20140722	99999999	Vigente
+879    	ALMACEN JUNIN-TRIBUTOS                                                	20151109	99991231	Vigente
+880    	ALMACEN HUANUCO-TRIBUTOS                                              	20151109	99991231	Vigente
+883    	ALMACEN HUARAZ-TRIBUTOS                                               	20151109	99991231	Vigente
+884    	DEPENDENCIA FERROVIARIA TACNA                                         	20000418	99991231	Vigente
+889    	ALMACEN CAJAMARCA-TRIBUTOS                                            	20151109	99991231	Vigente
+890    	ALMACEN CUZCO-TRIBUTOS                                                	20151109	99991231	Vigente
+892    	ALMACEN AYACUCHO-TRIBUTOS                                             	20151109	99991231	Vigente
+893    	DEPENDENCIA POSTAL TACNA                                              	20000418	99991231	Vigente
+894    	ALMACEN PUERTO MALDONADO-TRIBUTOS                                     	20151109	99991231	Vigente
+897    	ALMACEN HUACHO-TRIBUTOS                                               	20151109	99991231	Vigente
+901    	OFICINA POSTAL DE LINCE                                               	19970418	99991231	Vigente
+910    	DEPENDENCIA POSTAL DE AREQUIPA                                        	19990414	99991231	Vigente
+929    	COMPLEJO FRONTERIZO SANTA ROSA-TACNA                                  	19990414	99991231	Vigente
+938    	TERMINAL TERRESTRE TACNA                                              	19990414	99991231	Vigente
+947    	AEROPUERTO TACNA                                                      	19990414	99991231	Vigente
+956    	CETICOS - TACNA                                                       	19990715	99991231	Vigente
+965    	DEPENDENCIA POSTAL DE SALAVERRY                                       	20000210	99991231	Vigente
+974    	ALMACEN LURIN                                                         	19970101	99991231	Vigente
+983    	A NIVEL NACIONAL                                                      	19970808	99991231	Vigente
+992    	LIMA METROPOLITANA                                                    	19960101	99991231	Vigente
