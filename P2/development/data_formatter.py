@@ -1,16 +1,16 @@
-# from pyspark.sql import SparkSession
-# from pyspark import SparkConf
-# from pyspark import SparkContext
-# from pyspark.sql import Row
+from pyspark.sql import SparkSession
+from pyspark import SparkConf
+from pyspark import SparkContext
+from pyspark.sql import Row
 import sys
-# import re
+import re
 
-# spark_conf = SparkConf().setMaster("local").setAppName("app")\
-#     .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
-#     .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
-# sc = SparkContext(conf=spark_conf)
-# spark = SparkSession(sc)
-#spark = SparkSession.builder.getOrCreate()
+spark_conf = SparkConf().setMaster("local").setAppName("app")\
+    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
+    .set('spark.jars', './utilities/postgresql-42.2.25.jre7.jar')
+sc = SparkContext(conf=spark_conf)
+spark = SparkSession(sc)
+spark = SparkSession.builder.getOrCreate()
 
 #------------------------------------------------------
 # FUNCTIONS
@@ -123,12 +123,8 @@ def create_composed_columns(rdd, source_col_names, dest_col_name, string = False
 #------------------------------------------------------
 # PERU PIPELINE (TEMPORARY)
 #------------------------------------------------------
-def main_peru(path_to_avro=True, path_to_metadata=True):
+def main_peru(path_to_avro, path_to_metadata):
     
-    if path_to_avro:
-        path_to_avro = hdfs_path+"/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro"
-    if path_to_metadata:
-        path_to_metadata = hdfs_path+'/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
     df = spark.read.format('avro').load(path_to_avro)
     rdd=df.rdd
     
@@ -339,44 +335,46 @@ def user_define_formatting(country, path_to_avro, path_to_metadata):
 #------------------------------------------------------
 def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/persistent/', use_hdfs = False):
 
-    if use_hdfs:
+    if use_hdfs==True:
         pre_path = 'hdfs://localhost:9000/persistent/'
+        print("PTM")
     else:
          pre_path = path_to_persistent_zone
-         
-    path_to_avro_chile = pre_path + "brazil/imp/2022/test_chile.avro"
+         print("YUPI")
+        
+    path_to_avro_chile = pre_path + "/persistent/chile/imp/2022/test_chile.avro"
     path_to_metadata_chile= ''
 
-    path_to_avro_brazil = pre_path + "brazil/imp/2022/test_brazil.avro"
-    path_to_metadata_brazil = pre_path + 'brazil/metadata/2022/21010404042022/'
+    path_to_avro_brazil = pre_path + "/persistent/brazil/imp/2022/test_brazil.avro"
+    path_to_metadata_brazil = pre_path + '/persistent/brazil/metadata/2022/21010404042022/'
 
 
-    path_to_avro_peru =  pre_path + "peru/imp/2022/version0.avro"
-    path_to_metadata_peru = pre_path + 'peru/metadata/2022/21010404042022/' 
+    path_to_avro_peru =  pre_path + "/persistent/peru/imp/2022/version0.avro"
+    path_to_metadata_peru = pre_path + '/persistent/peru/metadata/2022/21010404042022/' 
 
     postgres_properties = {"user": db_user, "password": db_password, "driver": 'org.postgresql.Driver'}
     url = "jdbc:postgresql://localhost:5432/" + db_name
 
-    #data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile, hdfs=False)
-    #chileDF = data_chile.toDF()
+    data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile)
+    chileDF = data_chile.toDF()
 
-    #data_brazil=user_define_formatting("brazil", path_to_avro_brazil, path_to_metadata_brazil, hdfs=False)
-    #brazilDF = data_brazil.toDF()
+    data_brazil=user_define_formatting("brazil", path_to_avro_brazil, path_to_metadata_brazil)
+    brazilDF = data_brazil.toDF()
 
-    #data_peru=main_peru()
-    # data_peru = user_define_formatting("peru", path_to_avro_peru, path_to_metadata_peru, hdfs=False)
-    #peruDF = data_peru.toDF()
+    data_peru=main_peru(path_to_avro_peru, path_to_metadata_peru)
+    #data_peru = user_define_formatting("peru", path_to_avro_peru, path_to_metadata_peru, hdfs=False)
+    peruDF = data_peru.toDF()
 
 
-    #chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-    #          properties = postgres_properties)
-    #brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-    #          properties = properties)
-    #peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-    #          properties = properties)
+    chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+             properties = postgres_properties)
+    brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+             properties = properties)
+    peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+             properties = properties)
 
 #------------------------------------------------------
 
 
 # RUN THE SCRIPT
-main(sys.argv[1], sys.argv[2])
+main(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])

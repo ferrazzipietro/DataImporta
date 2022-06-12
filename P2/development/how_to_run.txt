@@ -7,8 +7,8 @@ To create the database and set up the materialized views run from postgres:
 DATA FORMATTER
 
 Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
-Pyspark has to be launched with the flag that adds the package necessary to read avro files and to be connected with Postgres:
-% python3 data_formatter.py 'path_to_persistent_zone' 'data_from_HDFS_Ture_False'
+Two paramaters have to be given: the path to the persistent zone and specify if this path is HDFS or not
+% python3 data_formatter.py db_user db_password db_name 'path_to_persistent_zone' 'data_from_HDFS_Ture_False'
 
 
 VIEWS REFRESHING
