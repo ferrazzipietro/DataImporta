@@ -14,6 +14,9 @@ spark_conf = SparkConf().setMaster("local").setAppName("app")\
 sc = SparkContext(conf=spark_conf)
 spark = SparkSession(sc)
 
+# hdfs_path = 'hdfs://localhost:9000/persistent/'
+hdfs_path =''
+
 #spark = SparkSession.builder.getOrCreate()
 
 #------------------------------------------------------
@@ -130,9 +133,9 @@ def create_composed_columns(rdd, source_col_names, dest_col_name, string = False
 def main_peru(path_to_avro=True, path_to_metadata=True):
     
     if path_to_avro:
-        path_to_avro = "/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro"
+        path_to_avro = hdfs_path+"/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro"
     if path_to_metadata:
-        path_to_metadata = '/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
+        path_to_metadata = hdfs_path+'/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
     df = spark.read.format('avro').load(path_to_avro)
     rdd=df.rdd
     
@@ -270,8 +273,9 @@ def general_main(country, data_type, merging, combining, changing, path_to_avro,
 #------------------------------------------------------
 # SEMANTICS OF THE DATA
 #------------------------------------------------------
-def user_define_formatting(country):
+def user_define_formatting(country, path_to_avro, path_to_metadata):
     
+
     if country =="brazil":
         # BRASIL
 
@@ -289,10 +293,8 @@ def user_define_formatting(country):
         #[old_names, new_names]
         changing_brazil = [["VL_FOB","net_price"],
                            ["custom_description","commercial_description" ]]
-        path_to_avro_brazil = "/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/test_brazil.avro"
-        path_to_metadata_brazil = '/Users/pietro/Desktop/BDM/Project/Data.nosync/brazil/metadata copia/'
-
-        return general_main("brazil", "IMP", merging_brazil, combining_brazil, changing_brazil, path_to_avro_brazil, path_to_metadata_brazil)
+        
+        return general_main("brazil", "IMP", merging_brazil, combining_brazil, changing_brazil, path_to_avro, path_to_metadata)
 
 
         
@@ -310,11 +312,7 @@ def user_define_formatting(country):
                            ["PRE_UNIT", "net_price_per_unit"],
                            ["CODPAISCON", "country_of_arrival"],
                            ["VIA_TRAN", "mean_of_transport"]]
-
-        path_to_avro_chile = "/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/test_chile.avro"
-        path_to_metadata_chile= ''
-
-        return general_main("chile", "IMP", merging_chile, combining_chile, changing_chile, path_to_avro_chile, path_to_metadata_chile)
+        return general_main("chile", "IMP", merging_chile, combining_chile, changing_chile, path_to_avro, path_to_metadata)
     
     if country=="peru": # NOT WORKING!!!!!!
 
@@ -338,36 +336,51 @@ def user_define_formatting(country):
         changing_peru = [["CODI_ADUAN","custom"],
                         ["FECH_RECEP", "date"],
                         ["FOB_DOLPOL", "net_price"]]
-        path_to_avro_peru =  "/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/version0.avro"
-        path_to_metadata_peru = '/Users/pietro/Desktop/BDM/Project/Data.nosync/peru/metadata_copia/'
-        
-        return general_main("peru", "IMP", merging_peru, combining_peru, changing_peru, path_to_avro_peru, path_to_metadata_peru)
+
+        return general_main("peru", "IMP", merging_peru, combining_peru, changing_peru, path_to_avro, path_to_metadata)
 #------------------------------------------------------
 
 
 #------------------------------------------------------
 # LOAD DATA TO POSTGRESQL
 #------------------------------------------------------
-def main():
-    data_chile=user_define_formatting("chile")
-    chileDF = data_chile.toDF()
+def main(path_to_persistent_zone =  '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/test_data/persistent/', use_hdfs = False):
 
-    data_brazil=user_define_formatting("brazil")
-    brazilDF = data_brazil.toDF()
+    if use_hdfs:
+        pre_path = 'hdfs://localhost:9000/persistent/'
+    else:
+         pre_path = path_to_persistent_zone
 
-    data_peru=main_peru()
-    # data_peru = user_define_formatting("peru")
-    peruDF = data_peru.toDF()
+    path_to_avro_chile = pre_path + "brazil/imp/2022/test_chile.avro"
+    path_to_metadata_chile= ''
 
-    properties = {"user": "pietro", "password": "ropby8pietro", "driver": 'org.postgresql.Driver'}
+    path_to_avro_brazil = pre_path + "brazil/imp/2022/test_brazil.avro"
+    path_to_metadata_brazil = pre_path + 'brazil/metadata/2022/21010404042022/'
+
+
+    path_to_avro_peru =  pre_path + "peru/imp/2022/version0.avro"
+    path_to_metadata_peru = pre_path + 'peru/metadata/2022/21010404042022/' 
+
+    postgres_properties = {"user": "pietro", "password": "", "driver": 'org.postgresql.Driver'}
     url = "jdbc:postgresql://localhost:5432/dataimporta"
 
+    data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile, hdfs=False)
+    chileDF = data_chile.toDF()
+
+    #data_brazil=user_define_formatting("brazil", path_to_avro_brazil, path_to_metadata_brazil, hdfs=False)
+    #brazilDF = data_brazil.toDF()
+
+    #data_peru=main_peru()
+    # data_peru = user_define_formatting("peru", path_to_avro_peru, path_to_metadata_peru, hdfs=False)
+    #peruDF = data_peru.toDF()
+
+
     chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-              properties = properties)
-    brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-              properties = properties)
-    peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-              properties = properties)
+              properties = postgres_properties)
+    #brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = properties)
+    #peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = properties)
 #------------------------------------------------------
 
 
