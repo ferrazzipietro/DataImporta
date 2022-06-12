@@ -1,3 +1,17 @@
+from pyspark.sql import SparkSession
+from pyspark import SparkConf
+from pyspark import SparkContext
+from data_formatter import *
+
+spark_conf = SparkConf().setMaster("local").setAppName("app")\
+    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.2.1')\
+    .set('spark.jars', '/Users/pietro/Desktop/BDM/Project/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar')
+    
+
+spark = SparkContext(conf=spark_conf)
+#spark = SparkSession()
+
+
 # DATA FOR TBOX GRAPH
 def tbox_peru(path_to_avro=True, path_to_metadata=True):
     
@@ -50,7 +64,8 @@ def tbox_peru(path_to_avro=True, path_to_metadata=True):
     rdds.append(rdds[n_merging + n_combining + 1].map(lambda l: keepOnly(l, to_be_kept)))
     return(rdds[n_merging + n_combining + 2])
     
+def main(to_path):
+    df = tbox_peru().toDF()
+    return df.toPandas().to_csv()
 
-df = tbox_peru().toDF()
-
-df.toPandas().to_csv('/Users/pietro/Desktop/peru_tbox.csv')
+main('/Users/pietro/Desktop/peru_tbox.csv')

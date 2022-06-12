@@ -7,9 +7,10 @@ To create the database run:
 DATA FORMATTER
 
 Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
-Pyspark has to be launched with the flag that adds the package necessary to read avro files and to be connected with Postgres:
+Needed packages: pyspark.
+Note: we decided to use the metadata as they are downloaded from the sources instead of converting them into avro. The default path for data (avro) and metadata (txt, csv) is set to be pointing to the local test_data directory, containing them in the same structure as hdfs. To connect the script to HDFS, change the path in the script defining 'hdfs_path'.
 
-% python3 --packages org.apache.spark:spark-avro_2.12:3.2.1 --jars ~/DataImporta/P2/development/utilities/postgresql-42.2.25.jre7.jar 
+% python3 data_formatter.py
 
 
 
@@ -23,7 +24,7 @@ install.packages("sparklyr")
 
 To train the model, from command line launch:
 
-% Rscript --default-packages=DBI,RPostgres,RPostgreSQL,dplyr,sparklyr train_model_transp_price.R
+% Rscript --default-packages=RPostgres,dplyr,sparklyr train_model_transp_price.R
 
 To do forecasts:
 
