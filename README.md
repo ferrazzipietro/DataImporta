@@ -117,11 +117,9 @@ At each upload (i.e., run of the data formatter), the sandbowes (i.e., the mater
 
 ## Descriptive Analysis
 
-For this stage there are two options:
+For this stage there are two options, make the whole connection and do the graphs or use the exported Tableau file that we created for simplicity:
 
-Make the whole connection and do the graphs or use the exported Tableau file that we created for simplicity:
-
-Option 1:
+**Option 1**
 
 In this stage, it is necessary to connect PostgreSQL and Tableau. For that open Tableau Desktop and select Connect/To a Server/PostgreSQL.
 Then add the following parameters:
@@ -129,19 +127,15 @@ Server: 127.0.0.1
 Port: 5432 (unless PostgreSQL port is defined differently in your system)
 Database: dataimporta
 Authentication: Username and Password
-Username: <Your PostgreSQL username>
-Password: <Your PostgreSQL password>
+Username: `<Your PostgreSQL username>`
+Password: `<Your PostgreSQL password>`
 
 Now the data is available and it's a matter to drag and drop items to show the graphs.
 
-Option 2: 
+**Option 2** For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
 
-For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we
-want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
-    
-     
 
-## Machine Learning Model
+## Machine Learning Model
 
 We build a model to forecast the price of transport on the following features: country of arrival, mean of transport, custom, unit price and net price of the goods.         
           
