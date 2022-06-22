@@ -11,6 +11,7 @@ This project implements the necessary pipeline to organize in persistent storage
 - Python 3
 - Java 1.8.0
 
+
 **Structure of data source**
 
 The data and the metadata of interest has to be downloaded from the websites of the three countries and to be organized in folders following a strict schema:
@@ -33,9 +34,11 @@ The data and the metadata of interest has to be downloaded from the websites of 
 For this prototype, the data source is simpified in the sence that the data will be manually downloaded and and automatically imported.
 
 
+
 **Temporal landing zone**
 
 Once data is imported into the "data source", we can bring it to the temporal landing zone implemented in HDFS. The files are stored as row data following the schema that has to be defined using _temporal_lz_schema_. This area rapresent a temporal zone where raw data is saved waiting to be persistently saved in memory in a more efficient way.
+
 
 
 **Data collector from source to HDFS**
@@ -43,9 +46,12 @@ Once data is imported into the "data source", we can bring it to the temporal la
 Once the structure of the temporal zone is defined, the notebook that perform the loading of the data from source to HDFS is _data_collector_.
 
 
+
 **Persistent landing zone**
 
 The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using _persistent_lz_schema_.
+
+
 
 **Persistent loading**
 
@@ -55,14 +61,18 @@ Every time (week or month) that new data for the current year is published, it i
 For a proper data governance all the steps and the outcomes are logged in the _log_ file.
 
 
+
 **Formatted Zone**
+
 The formatted zone is a DB in PostgreSQL were some materialized views contain usefull aggregations
 
 To create the database, set up the materialized views and the indexes run from postgres:
 % \i create_db.sql
 
 
+
 **Data Formatter**
+
 The data of the three different countries is formatted in order to have the same structure. For semplicity, a test_set is given with data in avro format and metadata in the source format (i.e., the original one, csv or txt).
 
 Ensure you have Java 1.8.0 (other JDKs may give issues)
@@ -76,11 +86,13 @@ db_password: password of user for postgres (without "")
 data_from_HDFS_Ture_False: Set to True if the data comes from HDFS and set to False if the data comes from a folder in the local filesystem
 
 
+
 **Views refreshing**
 
 At each upload (i.e., run of the data formatter), the sandbowes (i.e., the materialized views) have to be refreshed. It is done running the following command inside PostgreSQL
 
 % \i refresh_materialized_views.sql
+
 
 
 **Descriptive Analysis**
@@ -107,6 +119,7 @@ Option 2:
 For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we
 want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
 
+          
 
 **Machine Learning Model**
 
