@@ -1,6 +1,6 @@
 # DataImporta
 
-This project implements the necessary pipeline to organize in persistent storage (landing zone) open data about foreing trades of three Latin American countries (Chile, Brazil and Perú).
+This project implements the necessary pipeline to organize in persistent storage (landing zone) and perform analytics on open data about foreing trades of three Latin American countries (Chile, Brazil and Perú).
 
 **Requirements**
 
@@ -62,7 +62,7 @@ To create the database, set up the materialized views and the indexes run from p
 % \i create_db.sql
 
 
-** Data Formatter **
+**Data Formatter**
 The data of the three different countries is formatted in order to have the same structure. For semplicity, a test_set is given with data in avro format and metadata in the source format (i.e., the original one, csv or txt).
 
 Ensure you have Java 1.8.0 (other JDKs may give issues)
@@ -76,14 +76,14 @@ db_password: password of user for postgres (without "")
 data_from_HDFS_Ture_False: Set to True if the data comes from HDFS and set to False if the data comes from a folder in the local filesystem
 
 
-** Views refreshing **
+**Views refreshing**
 
 At each upload (i.e., run of the data formatter), the sandbowes (i.e., the materialized views) have to be refreshed. It is done running the following command inside PostgreSQL
 
 % \i refresh_materialized_views.sql
 
 
-** Descriptive Analysis **
+**Descriptive Analysis**
 
 For this stage there are two options:
 
@@ -108,7 +108,7 @@ For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_a
 want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
 
 
-** Machine Learning Model **
+**Machine Learning Model**
 
 We build a model to forecast the price of transport on the following features: country of arrival, mean of transport, custom, unit price and net price of the goods.         
           
