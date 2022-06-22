@@ -6,7 +6,7 @@ import sys
 import re
 
 spark_conf = SparkConf().setMaster("local").setAppName("app")\
-    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.1.1')\
+    .set('spark.jars.packages', 'org.apache.spark:spark-avro_2.12:3.1.2')\
     .set('spark.jars', './utilities/postgresql-42.2.25.jre7.jar')
 sc = SparkContext(conf=spark_conf)
 spark = SparkSession(sc)
@@ -357,7 +357,7 @@ def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone 
 
     data_chile=user_define_formatting("chile", path_to_avro_chile, path_to_metadata_chile)
     chileDF = data_chile.toDF()
-
+    print(data_chile.take(1))
     data_brazil=user_define_formatting("brazil", path_to_avro_brazil, path_to_metadata_brazil)
     brazilDF = data_brazil.toDF()
 
@@ -366,12 +366,12 @@ def main(db_user, db_password, db_name = 'dataimporta', path_to_persistent_zone 
     peruDF = data_peru.toDF()
 
 
-    chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-             properties = postgres_properties)
-    brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-             properties = postgres_properties)
-    peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
-             properties = postgres_properties)
+    # chileDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = postgres_properties)
+    # brazilDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = postgres_properties)
+    # peruDF.write.format("jdbc").mode("append").jdbc(url,"all_countries",
+    #          properties = postgres_properties)
 
 #------------------------------------------------------
 

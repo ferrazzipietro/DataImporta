@@ -27,3 +27,8 @@ CREATE MATERIALIZED VIEW brazil_imp
 AS
 select * from all_countries where country = 'brazil' and type = 'IMP';
 
+CREATE INDEX peru_imp_index ON peru_imp(country_of_arrival);
+
+CREATE INDEX brazil_imp_index ON brazil_imp(country_of_arrival);
+
+CREATE INDEX chile_imp_index ON chile_imp(country_of_arrival);
