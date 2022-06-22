@@ -22,7 +22,7 @@ This project implements the necessary pipeline to organize in persistent storage
 
 
 
-**Requirements**
+## Requirements
 
 - Hadoop (HDFS). Installation guide for IOS at https://towardsdatascience.com/installing-hadoop-on-a-mac-ec01c67b003c. Installation guide for Windows at https://www.evernote.com/shard/s322/sh/4b3d1b2b-9b1a-7711-370f-2e15e0bac160/7f6c202359cf6e96e422501937d2a8af.
 - PostgreSQL
@@ -32,7 +32,7 @@ This project implements the necessary pipeline to organize in persistent storage
 - Java 1.8.0
 
 
-**Structure of data source**
+## Structure of data source
 
 The data and the metadata of interest has to be downloaded from the websites of the three countries and to be organized in folders following a strict schema:
 
@@ -55,25 +55,25 @@ For this prototype, the data source is simpified in the sence that the data will
 
 
 
-**Temporal landing zone**
+## Temporal landing zone
 
 Once data is imported into the "data source", we can bring it to the temporal landing zone implemented in HDFS. The files are stored as row data following the schema that has to be defined using _temporal_lz_schema_. This area rapresent a temporal zone where raw data is saved waiting to be persistently saved in memory in a more efficient way.
 
 
 
-**Data collector from source to HDFS**
+## Data collector from source to HDFS
 
 Once the structure of the temporal zone is defined, the notebook that perform the loading of the data from source to HDFS is _data_collector_.
 
 
 
-**Persistent landing zone**
+## Persistent landing zone
 
 The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using _persistent_lz_schema_.
 
 
 
-**Persistent loading**
+## Persistent loading
 
 To save efficiently the data, in order to be able to distribute the files, they are converted to avro format (horizontally fragmentated) and saved yearly.
 Every time (week or month) that new data for the current year is published, it is saved in the temporal lz and then transferred to the persistent one. The new information is appended to the one already present for that specific year, creating a new version of the data and keeping in memory the old version. This process is performed trough _data_persistance_loader_.
@@ -82,7 +82,7 @@ For a proper data governance all the steps and the outcomes are logged in the _l
 
 
 
-**Formatted Zone**
+## Formatted Zone
 
 The formatted zone is a DB in PostgreSQL were some materialized views contain usefull aggregations
 
@@ -91,7 +91,7 @@ To create the database, set up the materialized views and the indexes run from p
 
 
 
-**Data Formatter**
+## Data Formatter
 
 The data of the three different countries is formatted in order to have the same structure. For semplicity, a test_set is given with data in avro format and metadata in the source format (i.e., the original one, csv or txt).
 
@@ -107,7 +107,7 @@ data_from_HDFS_Ture_False: Set to True if the data comes from HDFS and set to Fa
 
 
 
-**Views refreshing**
+## Views refreshing
 
 At each upload (i.e., run of the data formatter), the sandbowes (i.e., the materialized views) have to be refreshed. It is done running the following command inside PostgreSQL
 
@@ -115,7 +115,7 @@ At each upload (i.e., run of the data formatter), the sandbowes (i.e., the mater
 
 
 
-**Descriptive Analysis**
+## Descriptive Analysis
 
 For this stage there are two options:
 
@@ -138,10 +138,10 @@ Option 2:
 
 For simplicity, we provide a Tableau Packaged Workbook file named "descriptive_analysis.twbx" that is ready to use. It contains an interactive dashboard with all the graphs that we
 want to show and the data from the respective sandbox is already packed inside, so there is no need to establish a connection to PostgreSQL.
+    
+     
 
-          
-
-**Machine Learning Model**
+## Machine Learning Model
 
 We build a model to forecast the price of transport on the following features: country of arrival, mean of transport, custom, unit price and net price of the goods.         
           
