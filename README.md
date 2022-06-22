@@ -2,6 +2,26 @@
 
 This project implements the necessary pipeline to organize in persistent storage (landing zone) and perform analytics on open data about foreing trades of three Latin American countries (Chile, Brazil and Perú).
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Structure of data sources](#structure-of-data-sources)
+    - [Brazil](#brazil)
+    - [Perú](#peru)
+    - [Chile](#chile)
+- [Temporal Landing Zone](#temporal-landing-zone)
+- [Data collector from source to HDFS](#data-collector-from-source-to-HDFS)
+- [Persistent landing zone](#persistent-landing-zone)
+- [Persistent loading](#persistent-loading)
+- [Formatted Zone](#formatted-zone)
+- [Data Formatter](#data-formatter)Views refreshing
+- [Views refreshing](#views-refreshing)
+- [Descriptive Analysis](#descriptive-analysis)
+- [Machine Learning Model](#machine-learning-model)
+
+
+
+
+
 **Requirements**
 
 - Hadoop (HDFS). Installation guide for IOS at https://towardsdatascience.com/installing-hadoop-on-a-mac-ec01c67b003c. Installation guide for Windows at https://www.evernote.com/shard/s322/sh/4b3d1b2b-9b1a-7711-370f-2e15e0bac160/7f6c202359cf6e96e422501937d2a8af.
