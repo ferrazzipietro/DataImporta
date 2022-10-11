@@ -69,7 +69,7 @@ Once the structure of the temporal zone is defined, the notebook that perform th
 
 ## Persistent landing zone
 
-The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using _persistent_lz_schema_.
+The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using ```_persistent_lz_schema_.
 
 
 
