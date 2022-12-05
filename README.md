@@ -57,7 +57,7 @@ For this prototype, the data source is simpified in the sence that the data will
 
 ## Temporal landing zone
 
-Once data is imported into the "data source", we can bring it to the temporal landing zone implemented in HDFS. The files are stored as row data following the schema that has to be defined using _temporal_lz_schema_. This area rapresent a temporal zone where raw data is saved waiting to be persistently saved in memory in a more efficient way.
+Once data is imported into the "data source", we can bring it to the temporal landing zone implemented in HDFS. The files are stored as row data following the schema that has to be defined using ``temporal_lz_schema``. This area rapresent a temporal zone where raw data is saved waiting to be persistently saved in memory in a more efficient way.
 
 
 
@@ -69,16 +69,16 @@ Once the structure of the temporal zone is defined, the notebook that perform th
 
 ## Persistent landing zone
 
-The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using ```_persistent_lz_schema_.
+The next step is to  save the data persistently in HDFS. The files are stored following the schema that has to be defined using ``persistent_lz_schema``.
 
 
 
 ## Persistent loading
 
 To save efficiently the data, in order to be able to distribute the files, they are converted to avro format (horizontally fragmentated) and saved yearly.
-Every time (week or month) that new data for the current year is published, it is saved in the temporal lz and then transferred to the persistent one. The new information is appended to the one already present for that specific year, creating a new version of the data and keeping in memory the old version. This process is performed trough _data_persistance_loader_.
+Every time (week or month) that new data for the current year is published, it is saved in the temporal lz and then transferred to the persistent one. The new information is appended to the one already present for that specific year, creating a new version of the data and keeping in memory the old version. This process is performed trough ``data_persistance_loader``.
 
-For a proper data governance all the steps and the outcomes are logged in the _log_ file.
+For a proper data governance all the steps and the outcomes are logged in the ``log`` file.
 
 
 
@@ -87,7 +87,7 @@ For a proper data governance all the steps and the outcomes are logged in the _l
 The formatted zone is a DB in PostgreSQL were some materialized views contain usefull aggregations
 
 To create the database, set up the materialized views and the indexes run from postgres:
-% \i create_db.sql
+``% \i create_db.sql``
 
 
 
@@ -99,7 +99,7 @@ Ensure you have Java 1.8.0 (other JDKs may give issues)
 Once the DB has been created it can be populated with data prepared and cleaned in pyspark.
 Run the following command from the /development folder (IMPORTANT!):
 
-% python3 data_formatter.py db_user db_password dataimporta temporal data_from_HDFS_True_False
+``% python3 data_formatter.py db_user db_password dataimporta temporal data_from_HDFS_True_False``
 
 db_user: name of user for postgres (without "")
 db_password: password of user for postgres (without "")
@@ -111,7 +111,7 @@ data_from_HDFS_Ture_False: Set to True if the data comes from HDFS and set to Fa
 
 At each upload (i.e., run of the data formatter), the sandbowes (i.e., the materialized views) have to be refreshed. It is done running the following command inside PostgreSQL
 
-% \i refresh_materialized_views.sql
+``% \i refresh_materialized_views.sql``
 
 
 
@@ -140,18 +140,18 @@ Now the data is available and it's a matter to drag and drop items to show the g
 We build a model to forecast the price of transport on the following features: country of arrival, mean of transport, custom, unit price and net price of the goods.         
           
 Instal packages in R with:
-install.packages('remotes')
-install.packages('RPostgres')
-install.packages("sparklyr")
+``install.packages('remotes')``
+``install.packages('RPostgres')``
+``install.packages("sparklyr")``
 
 Note: posgres session has to be open
 To train and save the model, from command line launch:
 
-% Rscript --default-packages=DBI,RPostgres,RPostgreSQL,dplyr,sparklyr train_model_transp_price.R path_to_where_save_the_model
+``% Rscript --default-packages=DBI,RPostgres,RPostgreSQL,dplyr,sparklyr train_model_transp_price.R path_to_where_save_the_model``
 
 
 To do forecasts:
 
-% Rscript --default-packages=sparklyr,RPostgres forecasts_model_transp_price.R path_to_model country mean_of_transport custom net_price net_price_unit     
+``% Rscript --default-packages=sparklyr,RPostgres forecasts_model_transp_price.R path_to_model country mean_of_transport custom net_price net_price_unit``     
 
 path_to_model: between brackets
